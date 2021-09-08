@@ -5,4 +5,4 @@
 4211 - Machine Learning <br>
 4432 - Statistical Machine Learning <br>
 3390 - Business Analytics in R <br>
-3322 - Matrix Multiplication (Matlab)
+3322 - Matrix Computation (Matlab)
