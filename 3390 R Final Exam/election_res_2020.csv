@@ -1,0 +1,4594 @@
+"","state_county","trump","biden","others"
+"1","alabama,autauga",19838,7503,429
+"2","alabama,baldwin",83544,24578,1557
+"3","alabama,barbour",5622,4816,80
+"4","alabama,bibb",7525,1986,84
+"5","alabama,blount",24711,2640,237
+"6","alabama,bullock",1146,3446,21
+"7","alabama,butler",5458,3965,65
+"8","alabama,calhoun",35101,15216,666
+"9","alabama,chambers",8753,6365,166
+"10","alabama,cherokee",10583,1624,94
+"11","alabama,chilton",16085,3073,152
+"12","alabama,choctaw",4296,3127,41
+"13","alabama,clarke",7324,5755,56
+"14","alabama,clay",5601,1267,62
+"15","alabama,cleburne",6484,675,68
+"16","alabama,coffee",16899,5076,300
+"17","alabama,colbert",19203,8343,340
+"18","alabama,conecuh",3442,2966,33
+"19","alabama,coosa",3631,1796,52
+"20","alabama,covington",14586,2721,123
+"21","alabama,crenshaw",4864,1700,53
+"22","alabama,cullman",36880,4478,493
+"23","alabama,dale",14303,5170,265
+"24","alabama,dallas",5524,12230,110
+"25","alabama,dekalb",24767,4281,308
+"26","alabama,elmore",30164,10367,499
+"27","alabama,escambia",10869,4918,123
+"28","alabama,etowah",35528,11567,633
+"29","alabama,fayette",7300,1395,71
+"30","alabama,franklin",10376,2086,116
+"31","alabama,geneva",10848,1595,102
+"32","alabama,greene",875,3884,16
+"33","alabama,hale",3190,4687,45
+"34","alabama,henry",6607,2606,85
+"35","alabama,houston",32618,12917,638
+"36","alabama,jackson",19670,3717,249
+"37","alabama,jefferson",138843,181688,5317
+"38","alabama,lamar",6174,978,41
+"39","alabama,lauderdale",31721,11915,703
+"40","alabama,lawrence",12322,3562,147
+"41","alabama,lee",42221,27860,1368
+"42","alabama,limestone",34640,13672,923
+"43","alabama,lowndes",1836,4972,27
+"44","alabama,macon",1541,7108,74
+"45","alabama,madison",102780,87286,4701
+"46","alabama,marengo",5343,5488,69
+"47","alabama,marion",12205,1463,139
+"48","alabama,marshall",33191,5943,521
+"49","alabama,mobile",101243,79474,2447
+"50","alabama,monroe",6147,4455,66
+"51","alabama,montgomery",33311,64529,1299
+"52","alabama,morgan",39664,13234,824
+"53","alabama,perry",1339,3860,31
+"54","alabama,pickens",5594,4022,52
+"55","alabama,pike",8042,5636,163
+"56","alabama,randolph",8559,2203,75
+"57","alabama,russell",9864,11228,237
+"58","alabama,st. clair",36166,7744,531
+"59","alabama,shelby",79700,33268,1982
+"60","alabama,sumter",1598,4648,45
+"61","alabama,talladega",22235,13138,290
+"62","alabama,tallapoosa",14963,5859,169
+"63","alabama,tuscaloosa",51117,37765,1290
+"64","alabama,walker",26002,4834,334
+"65","alabama,washington",6564,2258,54
+"66","alabama,wilcox",1833,4048,22
+"67","alabama,winston",10195,974,115
+"68","arizona,apache",11442,23293,448
+"69","arizona,cochise",35557,23732,1184
+"70","arizona,coconino",27052,44698,1596
+"71","arizona,gila",18377,8943,358
+"72","arizona,graham",10749,4034,213
+"73","arizona,greenlee",2433,1182,73
+"74","arizona,la paz",5129,2236,95
+"75","arizona,maricopa",995665,1040774,33036
+"76","arizona,mohave",78535,24831,1339
+"77","arizona,navajo",27657,23383,743
+"78","arizona,pima",207758,304981,7996
+"79","arizona,pinal",107077,75106,2854
+"80","arizona,santa cruz",6194,13138,229
+"81","arizona,yavapai",91527,49602,2151
+"82","arizona,yuma",36534,32210,1182
+"83","arkansas,arkansas",4304,1818,170
+"84","arkansas,ashley",5548,2125,253
+"85","arkansas,baxter",15836,4635,536
+"86","arkansas,benton",73965,42249,3698
+"87","arkansas,boone",13652,3064,398
+"88","arkansas,bradley",2335,1214,105
+"89","arkansas,calhoun",1636,479,67
+"90","arkansas,carroll",7424,4023,350
+"91","arkansas,chicot",1752,2260,91
+"92","arkansas,clark",4616,3438,341
+"93","arkansas,clay",4086,962,135
+"94","arkansas,cleburne",10328,1988,364
+"95","arkansas,cleveland",2867,651,82
+"96","arkansas,columbia",5500,2814,302
+"97","arkansas,conway",5694,2615,376
+"98","arkansas,craighead",25558,11921,1032
+"99","arkansas,crawford",18607,4959,525
+"100","arkansas,crittenden",7333,8514,520
+"101","arkansas,cross",4946,1772,224
+"102","arkansas,dallas",1573,963,113
+"103","arkansas,desha",1921,2016,227
+"104","arkansas,drew",4349,2426,133
+"105","arkansas,faulkner",34421,18347,1660
+"106","arkansas,franklin",5677,1300,152
+"107","arkansas,fulton",3961,1035,123
+"108","arkansas,garland",29069,14045,1085
+"109","arkansas,grant",6794,1268,138
+"110","arkansas,greene",12670,3058,372
+"111","arkansas,hempstead",4470,2138,240
+"112","arkansas,hot spring",9202,3082,273
+"113","arkansas,howard",3367,1340,127
+"114","arkansas,independence",11250,2806,456
+"115","arkansas,izard",4631,1021,158
+"116","arkansas,jackson",3593,1365,133
+"117","arkansas,jefferson",9521,14981,656
+"118","arkansas,johnson",6938,2283,277
+"119","arkansas,lafayette",1757,839,83
+"120","arkansas,lawrence",4569,1080,208
+"121","arkansas,lee",1286,1423,139
+"122","arkansas,lincoln",2729,1032,114
+"123","arkansas,little river",3715,1226,236
+"124","arkansas,logan",6441,1544,240
+"125","arkansas,lonoke",22884,6686,1092
+"126","arkansas,madison",5658,1563,130
+"127","arkansas,marion",5783,1531,189
+"128","arkansas,miller",11920,4245,364
+"129","arkansas,mississippi",7296,4558,488
+"130","arkansas,monroe",1545,1147,124
+"131","arkansas,montgomery",3046,731,96
+"132","arkansas,nevada",2133,1076,149
+"133","arkansas,newton",3192,709,97
+"134","arkansas,ouachita",5294,3995,340
+"135","arkansas,perry",3479,1012,136
+"136","arkansas,phillips",2417,3623,202
+"137","arkansas,pike",3519,644,83
+"138","arkansas,poinsett",5918,1424,179
+"139","arkansas,polk",7035,1246,209
+"140","arkansas,pope",18081,5772,579
+"141","arkansas,prairie",2786,654,55
+"142","arkansas,pulaski",63687,101947,4322
+"143","arkansas,randolph",5355,1215,242
+"144","arkansas,saint francis",3242,3604,262
+"145","arkansas,saline",39556,16060,1343
+"146","arkansas,scott",2962,483,106
+"147","arkansas,searcy",3365,588,66
+"148","arkansas,sebastian",31198,14487,1455
+"149","arkansas,sevier",3884,1116,202
+"150","arkansas,sharp",5938,1398,230
+"151","arkansas,stone",4616,1180,142
+"152","arkansas,union",10478,5584,545
+"153","arkansas,van buren",6034,1593,180
+"154","arkansas,washington",47504,43824,2938
+"155","arkansas,white",24182,5978,725
+"156","arkansas,woodruff",1543,856,77
+"157","arkansas,yell",5226,1284,231
+"158","california,alameda",136309,617659,15896
+"159","california,alpine",244,476,26
+"160","california,amador",13585,8153,640
+"161","california,butte",48730,50426,2886
+"162","california,calaveras",16518,10046,600
+"163","california,colusa",4554,3234,163
+"164","california,contra costa",152877,416386,11993
+"165","california,del norte",6461,4677,314
+"166","california,el dorado",61838,51621,2737
+"167","california,fresno",164464,193025,7561
+"168","california,glenn",7063,3995,235
+"169","california,humboldt",21770,44768,2290
+"170","california,imperial",20847,34678,1217
+"171","california,inyo",4620,4634,227
+"172","california,kern",164484,133366,7376
+"173","california,kings",24072,18699,1089
+"174","california,lake",13123,14941,736
+"175","california,lassen",8970,2799,216
+"176","california,los angeles",1145530,3028885,100411
+"177","california,madera",29378,23168,1176
+"178","california,marin",24612,128288,2901
+"179","california,mariposa",5950,4088,242
+"180","california,mendocino",13267,28782,1287
+"181","california,merced",39397,48991,2153
+"182","california,modoc",3109,1150,79
+"183","california,mono",2513,4013,212
+"184","california,monterey",46299,113953,3650
+"185","california,napa",20676,49817,1629
+"186","california,nevada",26779,36359,1603
+"187","california,orange",676498,814009,31218
+"188","california,placer",122488,106869,5660
+"189","california,plumas",6445,4561,253
+"190","california,riverside",448702,527945,19509
+"191","california,sacramento",259405,440808,18112
+"192","california,san benito",10590,17628,608
+"193","california,san bernardino",366257,455859,18815
+"194","california,san diego",600094,964650,37137
+"195","california,san francisco",56417,378156,8885
+"196","california,san joaquin",121098,161137,6208
+"197","california,san luis obispo",67436,88310,3955
+"198","california,san mateo",75563,291410,7165
+"199","california,santa barbara",65736,129963,4589
+"200","california,santa clara",214612,617967,17943
+"201","california,santa cruz",26937,114246,3613
+"202","california,shasta",60789,30000,2111
+"203","california,sierra",1142,730,58
+"204","california,siskiyou",13290,9593,567
+"205","california,solano",69306,131639,4886
+"206","california,sonoma",61825,199938,6489
+"207","california,stanislaus",104145,105841,5520
+"208","california,sutter",24375,17367,898
+"209","california,tehama",19141,8911,669
+"210","california,trinity",3188,2851,219
+"211","california,tulare",77579,66105,3148
+"212","california,tuolumne",17689,11978,734
+"213","california,ventura",162207,251388,9174
+"214","california,yolo",27292,67598,2374
+"215","california,yuba",17676,11230,881
+"216","colorado,adams",95657,134202,6876
+"217","colorado,alamosa",3813,3759,236
+"218","colorado,arapahoe",127323,213607,9253
+"219","colorado,archuleta",5189,3738,217
+"220","colorado,baca",1867,317,41
+"221","colorado,bent",1503,732,39
+"222","colorado,boulder",42501,159089,4521
+"223","colorado,chaffee",6222,7160,335
+"224","colorado,cheyenne",993,131,12
+"225","colorado,clear creek",2754,3604,190
+"226","colorado,conejos",2286,1959,88
+"227","colorado,costilla",741,1311,42
+"228","colorado,crowley",1271,437,42
+"229","colorado,custer",2474,1112,49
+"230","colorado,delta",13081,5887,402
+"231","colorado,denver",71618,313293,8916
+"232","colorado,dolores",1089,341,19
+"233","colorado,douglas",121270,104653,5676
+"234","colorado,eagle",9892,18588,660
+"235","colorado,elbert",14027,4490,466
+"236","colorado,el paso",202828,161941,14080
+"237","colorado,fremont",17517,7369,671
+"238","colorado,garfield",14717,15427,760
+"239","colorado,gilpin",1833,2223,130
+"240","colorado,grand",4883,4710,277
+"241","colorado,gunnison",3735,7132,323
+"242","colorado,hinsdale",353,255,24
+"243","colorado,huerfano",2203,2076,127
+"244","colorado,jackson",681,175,20
+"245","colorado,jefferson",148417,218396,10544
+"246","colorado,kiowa",795,98,10
+"247","colorado,kit carson",3144,662,65
+"248","colorado,lake",1497,2303,161
+"249","colorado,la plata",14233,20548,886
+"250","colorado,larimer",91489,126120,6729
+"251","colorado,las animas",4284,3497,180
+"252","colorado,lincoln",2135,470,46
+"253","colorado,logan",8087,2218,227
+"254","colorado,mesa",56894,31536,2192
+"255","colorado,mineral99.9% in",427,317,12
+"256","colorado,moffat",5670,1203,153
+"257","colorado,montezuma",9306,5836,358
+"258","colorado,montrose",16770,7687,465
+"259","colorado,morgan",9593,3876,275
+"260","colorado,otero",5756,3605,215
+"261","colorado,ouray",1577,2365,78
+"262","colorado,park",6991,4903,396
+"263","colorado,phillips",1958,486,41
+"264","colorado,pitkin",2780,8989,188
+"265","colorado,prowers",4008,1458,95
+"266","colorado,pueblo",42252,43772,2275
+"267","colorado,rio blanco",3061,561,69
+"268","colorado,rio grande",3660,2495,150
+"269","colorado,routt",5925,10582,369
+"270","colorado,saguache",1413,1884,92
+"271","colorado,san juan",202,342,19
+"272","colorado,san miguel",1136,3924,87
+"273","colorado,sedgwick",1121,301,24
+"274","colorado,summit",5322,12631,526
+"275","colorado,teller",11241,5278,420
+"276","colorado,washington",2595,369,44
+"277","colorado,weld",96145,66060,4763
+"278","colorado,yuma",4107,785,89
+"279","colorado,broomfield",16295,29077,1260
+"280","connecticut,andover",998,1058,35
+"281","connecticut,ansonia",3797,4521,101
+"282","connecticut,ashford",1160,1330,54
+"283","connecticut,avon",4469,7299,219
+"284","connecticut,barkhamsted",1228,1154,60
+"285","connecticut,beacon falls",2191,1543,69
+"286","connecticut,berlin",6687,6008,178
+"287","connecticut,bethany",1718,1912,68
+"288","connecticut,bethel",4734,6270,168
+"289","connecticut,bethlehem",1393,937,37
+"290","connecticut,bloomfield",1698,11007,116
+"291","connecticut,bolton",1482,1727,79
+"292","connecticut,bozrah",817,703,28
+"293","connecticut,branford",7098,10562,253
+"294","connecticut,bridgeport",8269,33515,404
+"295","connecticut,bridgewater",549,667,17
+"296","connecticut,bristol",13834,15462,503
+"297","connecticut,brookfield",5226,5426,155
+"298","connecticut,brooklyn",2262,1876,84
+"299","connecticut,burlington",3034,3099,100
+"300","connecticut,canaan",209,437,9
+"301","connecticut,canterbury",1755,1182,75
+"302","connecticut,canton",2663,3878,122
+"303","connecticut,chaplin",662,598,30
+"304","connecticut,cheshire",7349,9745,324
+"305","connecticut,chester",853,1701,42
+"306","connecticut,clinton",3312,4368,124
+"307","connecticut,colchester",4243,5216,232
+"308","connecticut,colebrook",563,403,22
+"309","connecticut,columbia",1600,1888,80
+"310","connecticut,cornwall",250,760,22
+"311","connecticut,coventry",3545,4011,216
+"312","connecticut,cromwell",3749,4872,162
+"313","connecticut,danbury",12788,18869,364
+"314","connecticut,darien",4921,7876,221
+"315","connecticut,deep river",1076,1785,41
+"316","connecticut,derby",2749,2963,66
+"317","connecticut,durham",2330,2363,89
+"318","connecticut,eastford",572,464,31
+"319","connecticut,east granby",1405,1789,70
+"320","connecticut,east haddam",2731,2980,114
+"321","connecticut,east hampton",3746,4051,191
+"322","connecticut,east hartford",5524,14787,296
+"323","connecticut,east haven",7572,6757,172
+"324","connecticut,east lyme",4285,7290,181
+"325","connecticut,easton",2178,2777,68
+"326","connecticut,east windsor",2541,3008,103
+"327","connecticut,ellington",4515,4787,189
+"328","connecticut,enfield",9298,11263,368
+"329","connecticut,essex",1635,3011,69
+"330","connecticut,fairfield",12052,22861,501
+"331","connecticut,farmington",6160,9616,261
+"332","connecticut,franklin",674,553,34
+"333","connecticut,glastonbury",7998,13990,386
+"334","connecticut,goshen",1161,902,37
+"335","connecticut,granby",3166,4029,178
+"336","connecticut,greenwich",13269,22243,600
+"337","connecticut,griswold",3257,2565,159
+"338","connecticut,groton",6272,10699,418
+"339","connecticut,guilford",5050,9616,201
+"340","connecticut,haddam",2693,2728,96
+"341","connecticut,hamden",7139,21652,313
+"342","connecticut,hampton",551,572,16
+"343","connecticut,hartford",4116,28301,270
+"344","connecticut,hartland",818,457,17
+"345","connecticut,harwinton",2229,1397,75
+"346","connecticut,hebron",2731,3388,147
+"347","connecticut,kent",568,1277,20
+"348","connecticut,killingly",4678,3402,203
+"349","connecticut,killingworth",1979,2343,65
+"350","connecticut,lebanon",2268,2052,118
+"351","connecticut,ledyard",3664,4534,229
+"352","connecticut,lisbon",1331,1099,60
+"353","connecticut,litchfield",2555,2673,114
+"354","connecticut,lyme",576,1165,31
+"355","connecticut,madison",4638,7625,174
+"356","connecticut,manchester",8530,19455,481
+"357","connecticut,mansfield",1708,5608,169
+"358","connecticut,marlborough",1861,2119,82
+"359","connecticut,meriden",9981,14955,390
+"360","connecticut,middlebury",2741,2259,78
+"361","connecticut,middlefield",1356,1442,55
+"362","connecticut,middletown",7611,15508,390
+"363","connecticut,milford",13997,17626,439
+"364","connecticut,monroe",5989,5838,175
+"365","connecticut,montville",4242,4406,225
+"366","connecticut,morris",874,653,34
+"367","connecticut,naugatuck",7740,6923,241
+"368","connecticut,new britain",7724,16031,316
+"369","connecticut,new canaan",4855,7298,212
+"370","connecticut,new fairfield",4343,4101,114
+"371","connecticut,new hartford",2382,2089,106
+"372","connecticut,new haven",6146,35521,435
+"373","connecticut,newington",7074,10031,250
+"374","connecticut,new london",2045,6912,166
+"375","connecticut,new milford",7493,8004,237
+"376","connecticut,newtown",7292,9695,282
+"377","connecticut,norfolk",381,659,20
+"378","connecticut,north branford",4786,3718,127
+"379","connecticut,north canaan",812,862,31
+"380","connecticut,north haven",7879,7389,173
+"381","connecticut,north stonington",1710,1601,64
+"382","connecticut,norwalk",13311,29382,526
+"383","connecticut,norwich",5643,9306,341
+"384","connecticut,old lyme",2099,3226,88
+"385","connecticut,old saybrook",2995,4253,95
+"386","connecticut,orange",4317,4816,120
+"387","connecticut,oxford",5118,3269,127
+"388","connecticut,plainfield",4080,2849,157
+"389","connecticut,plainville",4811,4670,166
+"390","connecticut,plymouth",3984,2477,132
+"391","connecticut,pomfret",1113,1357,54
+"392","connecticut,portland",2641,3155,92
+"393","connecticut,preston",1529,1270,69
+"394","connecticut,prospect",3935,2110,66
+"395","connecticut,putnam",2193,2063,94
+"396","connecticut,redding",2052,3829,94
+"397","connecticut,ridgefield",5689,10278,278
+"398","connecticut,rocky hill",4670,6115,155
+"399","connecticut,roxbury",660,937,25
+"400","connecticut,salem",1291,1285,47
+"401","connecticut,salisbury",502,2023,30
+"402","connecticut,scotland",537,406,27
+"403","connecticut,seymour",5242,4011,139
+"404","connecticut,sharon",510,1019,26
+"405","connecticut,shelton",12747,10837,308
+"406","connecticut,sherman",1076,1234,26
+"407","connecticut,simsbury",5575,10296,303
+"408","connecticut,somers",3204,2445,82
+"409","connecticut,southbury",6260,6570,160
+"410","connecticut,southington",13473,12855,390
+"411","connecticut,south windsor",5630,9596,297
+"412","connecticut,sprague",882,641,34
+"413","connecticut,stafford",3461,2809,152
+"414","connecticut,stamford",18242,40437,733
+"415","connecticut,sterling",1229,639,40
+"416","connecticut,stonington",4240,7453,196
+"417","connecticut,stratford",10516,17363,315
+"418","connecticut,suffield",4155,4363,168
+"419","connecticut,thomaston",2768,1528,78
+"420","connecticut,thompson",3005,2050,100
+"421","connecticut,tolland",3975,5103,179
+"422","connecticut,torrington",9220,7283,321
+"423","connecticut,trumbull",9769,11919,314
+"424","connecticut,union",307,249,15
+"425","connecticut,vernon",5848,9259,293
+"426","connecticut,voluntown",918,566,40
+"427","connecticut,wallingford",11831,13560,394
+"428","connecticut,warren",470,465,10
+"429","connecticut,washington",770,1461,37
+"430","connecticut,waterbury",14157,21573,377
+"431","connecticut,waterford",5124,6917,275
+"432","connecticut,watertown",7976,4612,166
+"433","connecticut,westbrook",1958,2288,65
+"434","connecticut,west hartford",8451,27298,542
+"435","connecticut,west haven",8126,14245,234
+"436","connecticut,weston",1680,4733,115
+"437","connecticut,westport",4222,13048,253
+"438","connecticut,wethersfield",6413,9612,252
+"439","connecticut,willington",1445,1674,85
+"440","connecticut,wilton",3819,7676,220
+"441","connecticut,winchester",2799,2304,30
+"442","connecticut,windham",2824,5365,159
+"443","connecticut,windsor",4090,13183,241
+"444","connecticut,windsor locks",3156,3751,114
+"445","connecticut,wolcott",6519,3333,150
+"446","connecticut,woodbridge",1816,3855,68
+"447","connecticut,woodbury",3295,3181,83
+"448","connecticut,woodstock",2520,2548,111
+"449","delaware,kent",41009,44552,1464
+"450","delaware,new castle",88364,195034,4235
+"451","delaware,sussex",71230,56682,1440
+"452","district-of-columbia,ward 1",1725,39041,915
+"453","district-of-columbia,ward 2",2918,29078,885
+"454","district-of-columbia,ward 3",3705,39397,1129
+"455","district-of-columbia,ward 4",1913,42489,894
+"456","district-of-columbia,ward 5",1769,43320,1018
+"457","district-of-columbia,ward 6",4337,56719,1862
+"458","district-of-columbia,ward 798.6% in",1116,35861,859
+"459","district-of-columbia,ward 8",1085,30897,876
+"460","florida,alachua",50972,89704,1928
+"461","florida,baker",11911,2037,111
+"462","florida,bay",66097,25614,1313
+"463","florida,bradford",10334,3160,138
+"464","florida,brevard",207883,148549,4332
+"465","florida,broward",333409,618752,5511
+"466","florida,calhoun",5274,1209,43
+"467","florida,charlotte",73243,42273,824
+"468","florida,citrus",65352,27092,764
+"469","florida,clay",84480,38317,1608
+"470","florida,collier",128950,77621,1247
+"471","florida,columbia",23836,8914,292
+"472","florida,miami-dade",532833,617864,6119
+"473","florida,desoto",8313,4259,87
+"474","florida,dixie",6759,1365,43
+"475","florida,duval",233762,252556,6502
+"476","florida,escambia",96674,70929,2769
+"477","florida,flagler",43043,28161,512
+"478","florida,franklin",4675,2120,54
+"479","florida,gadsden",7465,16153,144
+"480","florida,gilchrist",7895,1700,90
+"481","florida,glades",3782,1385,26
+"482","florida,gulf",6113,1985,65
+"483","florida,hamilton",3815,1963,52
+"484","florida,hardee",6122,2298,73
+"485","florida,hendry",7906,4929,105
+"486","florida,hernando",70412,37519,991
+"487","florida,highlands",34873,16938,359
+"488","florida,hillsborough",327398,376367,8298
+"489","florida,holmes",8080,924,64
+"490","florida,indian river",58872,37844,768
+"491","florida,jackson",15488,6766,165
+"492","florida,jefferson",4479,3897,75
+"493","florida,lafayette",3128,510,20
+"494","florida,lake",125859,83505,1950
+"495","florida,lee",233247,157695,2957
+"496","florida,leon",57453,103517,1959
+"497","florida,levy",16749,6205,191
+"498","florida,liberty",2846,694,21
+"499","florida,madison",5576,3747,57
+"500","florida,manatee",124987,90166,1805
+"501","florida,marion",127826,74858,1692
+"502","florida,martin",61168,36893,665
+"503","florida,monroe",25693,21881,455
+"504","florida,nassau",42566,15564,681
+"505","florida,okaloosa",79798,34248,2327
+"506","florida,okeechobee",11470,4390,94
+"507","florida,orange",245398,395014,6991
+"508","florida,osceola",73480,97297,1659
+"509","florida,palm beach",334711,433572,4875
+"510","florida,pasco",179621,119073,3276
+"511","florida,pinellas",276209,277450,6056
+"512","florida,polk",194586,145049,3621
+"513","florida,putnam",25514,10527,332
+"514","florida,st. johns",110946,63850,1826
+"515","florida,st. lucie",86831,84137,1201
+"516","florida,santa rosa",77385,27612,1931
+"517","florida,sarasota",148370,120110,2095
+"518","florida,seminole",125241,132528,3046
+"519","florida,sumter",62761,29341,383
+"520","florida,suwannee",16410,4485,187
+"521","florida,taylor",7751,2299,77
+"522","florida,union",5133,1053,59
+"523","florida,volusia",173821,130575,3043
+"524","florida,wakulla",12874,5351,179
+"525","florida,walton",32947,10338,426
+"526","florida,washington",9876,2347,112
+"527","georgia,appling",6570,1784,36
+"528","georgia,atkinson",2300,825,30
+"529","georgia,bacon",4017,625,25
+"530","georgia,baker",897,652,6
+"531","georgia,baldwin",8903,9140,218
+"532","georgia,banks",7795,932,78
+"533","georgia,barrow",26804,10453,689
+"534","georgia,bartow",37672,12091,723
+"535","georgia,ben hill",4111,2393,60
+"536","georgia,berrien",6419,1269,56
+"537","georgia,bibb",26559,43408,796
+"538","georgia,bleckley",4329,1312,69
+"539","georgia,brantley",6993,700,56
+"540","georgia,brooks",4261,2791,49
+"541","georgia,bryan",14240,6738,371
+"542","georgia,bulloch",18387,11248,474
+"543","georgia,burke",5400,5208,77
+"544","georgia,butts",8406,3274,96
+"545","georgia,calhoun",923,1263,12
+"546","georgia,camden",15249,7967,482
+"547","georgia,candler",3133,1269,29
+"548","georgia,carroll",37476,16236,790
+"549","georgia,catoosa",25167,6932,527
+"550","georgia,charlton",3419,1105,44
+"551","georgia,chatham",53232,78247,2005
+"552","georgia,chattahoochee",880,667,35
+"553","georgia,chattooga",8064,1854,135
+"554","georgia,cherokee",99585,42779,2495
+"555","georgia,clarke",14450,36055,916
+"556","georgia,clay",637,791,8
+"557","georgia,clayton",15811,95466,1114
+"558","georgia,clinch",2105,744,13
+"559","georgia,cobb",165436,221847,6739
+"560","georgia,coffee",10578,4511,125
+"561","georgia,colquitt",11777,4190,120
+"562","georgia,columbia",50013,29232,1375
+"563","georgia,cook",4900,2059,78
+"564","georgia,coweta",51501,24210,1134
+"565","georgia,crawford",4428,1615,59
+"566","georgia,crisp",4985,2982,69
+"567","georgia,dade",6066,1261,120
+"568","georgia,dawson",13398,2486,200
+"569","georgia,decatur",6755,4782,91
+"570","georgia,dekalb",58377,308162,4338
+"571","georgia,dodge",5843,2172,57
+"572","georgia,dooly",2159,1911,36
+"573","georgia,dougherty",10441,24568,281
+"574","georgia,douglas",25454,42814,871
+"575","georgia,early",2710,2450,28
+"576","georgia,echols",1256,167,19
+"577","georgia,effingham",23361,7718,500
+"578","georgia,elbert",6226,2879,71
+"579","georgia,emanuel",6553,2886,68
+"580","georgia,evans",2888,1324,36
+"581","georgia,fannin",12169,2570,110
+"582","georgia,fayette",37956,33062,994
+"583","georgia,floyd",28906,11917,542
+"584","georgia,forsyth",85123,42208,2046
+"585","georgia,franklin",9069,1593,105
+"586","georgia,fulton",137247,380212,6472
+"587","georgia,gilmer",13429,2932,166
+"588","georgia,glascock",1402,155,8
+"589","georgia,glynn",25617,15882,495
+"590","georgia,gordon",19405,4384,255
+"591","georgia,grady",7034,3619,54
+"592","georgia,greene",7066,4087,94
+"593","georgia,gwinnett",166400,241994,5956
+"594","georgia,habersham",16637,3562,243
+"595","georgia,hall",64183,25033,1386
+"596","georgia,hancock",1154,2976,23
+"597","georgia,haralson",12330,1791,127
+"598","georgia,harris",14319,5457,226
+"599","georgia,hart",9465,3157,112
+"600","georgia,heard",4519,824,51
+"601","georgia,henry",48259,73443,1314
+"602","georgia,houston",41540,32239,1093
+"603","georgia,irwin",3134,1008,26
+"604","georgia,jackson",29502,7642,541
+"605","georgia,jasper",5822,1761,64
+"606","georgia,jeff davis",4695,1028,51
+"607","georgia,jefferson",3537,4058,44
+"608","georgia,jenkins",2161,1266,28
+"609","georgia,johnson",2850,1222,28
+"610","georgia,jones",9940,4882,118
+"611","georgia,lamar",6331,2620,94
+"612","georgia,lanier",2509,1019,48
+"613","georgia,laurens",14493,8074,165
+"614","georgia,lee",12007,4558,154
+"615","georgia,liberty",7959,13104,331
+"616","georgia,lincoln",3173,1432,36
+"617","georgia,long",3527,2035,98
+"618","georgia,lowndes",25692,20116,567
+"619","georgia,lumpkin",12163,3126,256
+"620","georgia,mcduffie",6169,4168,119
+"621","georgia,mcintosh",4016,2612,68
+"622","georgia,macon",1783,2858,22
+"623","georgia,madison",11326,3411,208
+"624","georgia,marion",2275,1312,39
+"625","georgia,meriwether",6524,4287,69
+"626","georgia,miller",2066,748,20
+"627","georgia,mitchell",4935,3993,35
+"628","georgia,monroe",11057,4385,150
+"629","georgia,montgomery",2960,980,28
+"630","georgia,morgan",8231,3353,126
+"631","georgia,murray",12944,2301,150
+"632","georgia,muscogee",30107,49446,975
+"633","georgia,newton",23869,29789,605
+"634","georgia,oconee",16595,8162,436
+"635","georgia,oglethorpe",5592,2439,107
+"636","georgia,paulding",54517,29695,1205
+"637","georgia,peach",6506,5922,126
+"638","georgia,pickens",14110,2824,238
+"639","georgia,pierce",7898,1100,50
+"640","georgia,pike",9127,1505,89
+"641","georgia,polk",13587,3657,155
+"642","georgia,pulaski",2815,1230,36
+"643","georgia,putnam",8291,3448,118
+"644","georgia,quitman",604,497,5
+"645","georgia,rabun",7474,1984,116
+"646","georgia,randolph",1390,1671,12
+"647","georgia,richmond",26780,59119,1178
+"648","georgia,rockdale",13014,31237,448
+"649","georgia,schley",1800,462,13
+"650","georgia,screven",3915,2661,53
+"651","georgia,seminole",2613,1256,19
+"652","georgia,spalding",18104,11828,287
+"653","georgia,stephens",9367,2386,132
+"654","georgia,stewart",801,1182,7
+"655","georgia,sumter",5733,6314,103
+"656","georgia,talbot",1392,2114,18
+"657","georgia,taliaferro",360,561,7
+"658","georgia,tattnall",6054,2062,71
+"659","georgia,taylor",2420,1388,34
+"660","georgia,telfair",2825,1488,22
+"661","georgia,terrell",2004,2376,36
+"662","georgia,thomas",12969,8708,200
+"663","georgia,tift",10784,5318,178
+"664","georgia,toombs",7873,2938,103
+"665","georgia,towns",6384,1550,45
+"666","georgia,treutlen",2101,952,24
+"667","georgia,troup",18142,11577,338
+"668","georgia,turner",2349,1409,33
+"669","georgia,twiggs",2370,2044,30
+"670","georgia,union",12650,2800,112
+"671","georgia,upson",8606,4203,98
+"672","georgia,walker",23173,5770,431
+"673","georgia,walton",37839,12683,576
+"674","georgia,ware",9903,4169,117
+"675","georgia,warren",1166,1468,16
+"676","georgia,washington",4668,4743,69
+"677","georgia,wayne",9987,2688,107
+"678","georgia,webster",748,640,3
+"679","georgia,wheeler",1583,689,13
+"680","georgia,white",12222,2411,198
+"681","georgia,whitfield",25644,10680,442
+"682","georgia,wilcox",2402,861,16
+"683","georgia,wilkes",2823,2160,48
+"684","georgia,wilkinson",2665,2074,31
+"685","georgia,worth",6830,2395,60
+"686","idaho,ada",130699,120539,8151
+"687","idaho,adams",1941,591,54
+"688","idaho,bannock",23331,14682,1758
+"689","idaho,bear lake",2914,350,51
+"690","idaho,benewah",3878,977,118
+"691","idaho,bingham",15295,4124,675
+"692","idaho,blaine",4032,8919,338
+"693","idaho,boise",3485,1204,131
+"694","idaho,bonner",18369,8310,673
+"695","idaho,bonneville",37805,14254,1936
+"696","idaho,boundary",4937,1220,156
+"697","idaho,butte",1202,188,25
+"698","idaho,camas",507,149,98
+"699","idaho,canyon",61759,25881,2798
+"700","idaho,caribou",2906,431,79
+"701","idaho,cassia",7907,1464,272
+"702","idaho,clark",264,41,6
+"703","idaho,clearwater",3453,877,89
+"704","idaho,custer",2089,603,47
+"705","idaho,elmore",7246,2601,358
+"706","idaho,franklin",5845,657,162
+"707","idaho,fremont",5548,998,173
+"708","idaho,gem",7951,1803,204
+"709","idaho,gooding",4659,1256,135
+"710","idaho,idaho county",7826,1561,215
+"711","idaho,jefferson",12099,1661,413
+"712","idaho,jerome",5734,1893,185
+"713","idaho,kootenai",62837,24312,2729
+"714","idaho,latah99.9% in",9472,10236,862
+"715","idaho,lemhi",3592,1032,114
+"716","idaho,lewis",1489,349,32
+"717","idaho,lincoln",1469,414,57
+"718","idaho,madison",13559,2666,887
+"719","idaho,minidoka",6265,1550,178
+"720","idaho,nez perce",13738,6686,543
+"721","idaho,oneida",2148,249,54
+"722","idaho,owyhee",3819,816,107
+"723","idaho,payette",8862,2161,270
+"724","idaho,power",2116,865,105
+"725","idaho,shoshone",4216,1693,140
+"726","idaho,teton",2858,3318,171
+"727","idaho,twin falls",25897,9391,1392
+"728","idaho,valley",3947,2976,140
+"729","idaho,washington99.9% in",4154,1073,117
+"730","illinois,adams95% in",24220,8633,674
+"731","illinois,alexander87% in",1486,1114,18
+"732","illinois,bond99% in",5625,2288,231
+"733","illinois,boone95% in",13883,10542,554
+"734","illinois,brown95% in",1931,486,108
+"735","illinois,bureau95% in",10411,6669,354
+"736","illinois,calhoun95% in",2046,677,50
+"737","illinois,carroll99% in",5105,2748,171
+"738","illinois,cass95% in",3625,1615,86
+"739","illinois,champaign94.2% in",35285,57067,3216
+"740","illinois,christian95% in",11563,4335,306
+"741","illinois,clark95% in",6226,1993,136
+"742","illinois,clay95% in",5629,1129,141
+"743","illinois,clinton95% in",14304,4493,417
+"744","illinois,coles95% in",14037,8067,502
+"745","illinois,cook94% in",558269,1725973,37157
+"746","illinois,crawford95% in",7043,2202,196
+"747","illinois,cumberland95% in",4601,1142,107
+"748","illinois,dekalb95% in",21905,24643,1441
+"749","illinois,dewitt95% in",5632,2191,201
+"750","illinois,douglas95% in",6227,2335,198
+"751","illinois,dupage95% in",193611,281222,10231
+"752","illinois,edgar94.7% in",6193,1887,116
+"753","illinois,edwards91.8% in",2833,488,47
+"754","illinois,effingham95% in",15006,3716,361
+"755","illinois,fayette99% in",8055,1826,195
+"756","illinois,ford95% in",5048,1754,165
+"757","illinois,franklin91.1% in",13622,4760,287
+"758","illinois,fulton95% in",9867,6503,354
+"759","illinois,gallatin89.8% in",2019,622,34
+"760","illinois,greene95% in",4770,1349,108
+"761","illinois,grundy99% in",16523,9626,604
+"762","illinois,hamilton94.2% in",3432,824,67
+"763","illinois,hancock95% in",6906,2315,162
+"764","illinois,hardin86% in",1691,449,22
+"765","illinois,henderson94.1% in",2394,1187,75
+"766","illinois,henry95% in",15300,9797,603
+"767","illinois,iroquois95% in",10877,2908,259
+"768","illinois,jackson83.6% in",10890,11181,645
+"769","illinois,jasper95% in",4494,1007,85
+"770","illinois,jefferson93.6% in",12476,4608,352
+"771","illinois,jersey95% in",8712,2961,287
+"772","illinois,jodaviess95% in",7166,5109,220
+"773","illinois,johnson99% in",5059,1281,110
+"774","illinois,kane99% in",96775,130166,4935
+"775","illinois,kankakee95% in",28532,20271,1236
+"776","illinois,kendall95% in",29492,33168,1545
+"777","illinois,knox92% in",12009,10703,493
+"778","illinois,lake95% in",123594,204032,6530
+"779","illinois,lasalle95% in",30113,22442,1128
+"780","illinois,lawrence95% in",4886,1419,117
+"781","illinois,lee95% in",9630,6407,403
+"782","illinois,livingston99% in",12208,4615,351
+"783","illinois,logan99% in",9136,3840,318
+"784","illinois,macon99% in",28589,19847,951
+"785","illinois,macoupin95% in",16153,7365,552
+"786","illinois,madison95% in",76031,57836,3691
+"787","illinois,marion93.4% in",12678,4524,290
+"788","illinois,marshall95% in",4197,2005,143
+"789","illinois,mason99% in",4654,1985,127
+"790","illinois,massac99% in",4997,1725,96
+"791","illinois,mcdonough93.9% in",7027,4992,266
+"792","illinois,mchenry95% in",82260,78154,4164
+"793","illinois,mclean95% in",40502,43933,2954
+"794","illinois,menard95% in",4764,2022,168
+"795","illinois,mercer95% in",5418,3280,216
+"796","illinois,monroe95% in",14142,6569,495
+"797","illinois,montgomery95% in",9544,3905,312
+"798","illinois,morgan94.8% in",9950,5076,307
+"799","illinois,moultrie95% in",4964,1662,118
+"800","illinois,ogle95% in",16248,9428,664
+"801","illinois,peoria99% in",38252,43578,2143
+"802","illinois,perry93.1% in",7313,2612,146
+"803","illinois,piatt95% in",6248,3329,274
+"804","illinois,pike99% in",6332,1484,149
+"805","illinois,pope91.2% in",1722,433,20
+"806","illinois,pulaski80.7% in",1699,891,41
+"807","illinois,putnam99% in",1993,1338,59
+"808","illinois,randolph95% in",11076,3592,242
+"809","illinois,richland95% in",6089,1830,144
+"810","illinois,rock island95% in",28603,36691,1523
+"811","illinois,saline88.9% in",8103,2789,197
+"812","illinois,sangamon95% in",53485,48917,2349
+"813","illinois,schuyler99% in",2773,1068,77
+"814","illinois,scott95% in",2114,572,55
+"815","illinois,shelby99% in",9426,2504,167
+"816","illinois,st. clair95% in",57150,68325,2629
+"817","illinois,stark95% in",2004,815,67
+"818","illinois,stephenson99% in",12521,9055,472
+"819","illinois,tazewell95% in",42513,24819,1719
+"820","illinois,union99% in",6161,2579,164
+"821","illinois,vermilion93.8% in",20725,10323,594
+"822","illinois,wabash93.6% in",4237,1253,117
+"823","illinois,warren95% in",4676,3090,158
+"824","illinois,washington95% in",6115,1641,165
+"825","illinois,wayne93.1% in",7176,1187,136
+"826","illinois,white92.3% in",5791,1517,123
+"827","illinois,whiteside95% in",14527,12253,595
+"828","illinois,will99% in",155116,183915,7235
+"829","illinois,williamson95% in",22801,10206,722
+"830","illinois,winnebago95% in",60861,64056,2793
+"831","illinois,woodford95% in",14799,6160,539
+"832","indiana,adams",10686,3236,287
+"833","indiana,allen",92083,73189,3810
+"834","indiana,bartholomew",22410,12934,891
+"835","indiana,benton",3007,1009,98
+"836","indiana,blackford",3841,1376,133
+"837","indiana,boone",22351,15244,925
+"838","indiana,brown",5777,3036,168
+"839","indiana,carroll99.8% in",7086,2224,185
+"840","indiana,cass",10552,4304,342
+"841","indiana,clark",33668,23093,1108
+"842","indiana,clay",9499,2552,216
+"843","indiana,clinton",9334,3361,254
+"844","indiana,crawford",3483,1355,106
+"845","indiana,daviess",9576,2169,209
+"846","indiana,dearborn",19528,5446,409
+"847","indiana,decatur",9575,2439,273
+"848","indiana,dekalb",14237,4966,425
+"849","indiana,delaware",26827,20474,890
+"850","indiana,dubois",15033,6292,445
+"851","indiana,elkhart99.9% in",46972,26108,1307
+"852","indiana,fayette",7755,2237,144
+"853","indiana,floyd",23400,17511,891
+"854","indiana,fountain",6154,1629,203
+"855","indiana,franklin",9691,2137,172
+"856","indiana,fulton",6694,2280,173
+"857","indiana,gibson",11817,4023,321
+"858","indiana,grant",18543,8015,601
+"859","indiana,greene",11103,3389,292
+"860","indiana,hamilton",101587,88390,4022
+"861","indiana,hancock",28996,12895,1020
+"862","indiana,harrison",14565,5343,328
+"863","indiana,hendricks",53802,32604,2099
+"864","indiana,henry",15043,5544,443
+"865","indiana,howard",26449,13303,878
+"866","indiana,huntington",13147,4255,427
+"867","indiana,jackson",14555,4302,381
+"868","indiana,jasper",11383,3798,294
+"869","indiana,jay",6361,1926,174
+"870","indiana,jefferson",9663,4731,303
+"871","indiana,jennings",9490,2523,238
+"872","indiana,johnson",51219,24736,1663
+"873","indiana,knox",11655,4067,289
+"874","indiana,kosciusko",26499,8364,924
+"875","indiana,lagrange",8110,2355,168
+"876","indiana,lake",91760,124870,3326
+"877","indiana,laporte",25997,22427,968
+"878","indiana,lawrence",15601,4961,463
+"879","indiana,madison",31215,19524,1054
+"880","indiana,marion",134175,247772,7672
+"881","indiana,marshall",13844,5712,371
+"882","indiana,martin",4029,1011,104
+"883","indiana,miami",10925,3235,313
+"884","indiana,monroe",22071,39861,1219
+"885","indiana,montgomery",12659,4213,326
+"886","indiana,morgan",27512,7781,866
+"887","indiana,newton",4942,1509,140
+"888","indiana,noble",14195,4660,335
+"889","indiana,ohio99.3% in",2392,750,22
+"890","indiana,orange",6432,2224,176
+"891","indiana,owen",7286,2420,198
+"892","indiana,parke",5398,1503,110
+"893","indiana,perry",5345,3203,174
+"894","indiana,pike",4692,1415,113
+"895","indiana,porter",45008,39746,1755
+"896","indiana,posey",9206,3811,219
+"897","indiana,pulaski",4246,1463,97
+"898","indiana,putnam",12278,3946,373
+"899","indiana,randolph",8312,2513,245
+"900","indiana,ripley",11261,2774,236
+"901","indiana,rush",6035,1754,143
+"902","indiana,st. joseph",53164,59896,2178
+"903","indiana,scott",7328,2698,135
+"904","indiana,shelby",14568,5023,400
+"905","indiana,spencer",7357,3213,199
+"906","indiana,starke",7466,2650,174
+"907","indiana,steuben",11327,4513,322
+"908","indiana,sullivan",6691,2153,150
+"909","indiana,switzerland",3133,964,57
+"910","indiana,tippecanoe",34581,35017,1850
+"911","indiana,tipton",6110,1834,172
+"912","indiana,union",2688,736,59
+"913","indiana,vanderburgh",41844,34415,1403
+"914","indiana,vermillion",5184,2145,152
+"915","indiana,vigo",24545,18123,926
+"916","indiana,wabash",10762,3494,317
+"917","indiana,warren",3401,974,97
+"918","indiana,warrick",21326,11923,580
+"919","indiana,washington",9114,2784,241
+"920","indiana,wayne",17567,9524,588
+"921","indiana,wells",10855,2928,267
+"922","indiana,white",7957,3032,177
+"923","indiana,whitley",12862,4234,460
+"924","iowa,adair",2917,1198,62
+"925","iowa,adams",1530,590,40
+"926","iowa,allamakee",4735,2576,111
+"927","iowa,appanoose",4512,1891,113
+"928","iowa,audubon",2295,1071,54
+"929","iowa,benton",9188,5160,294
+"930","iowa,black hawk",29640,35647,1306
+"931","iowa,boone",8695,6303,342
+"932","iowa,bremer",8294,5958,294
+"933","iowa,buchanan",6420,4169,185
+"934","iowa,buena vista",5056,2961,150
+"935","iowa,butler",5542,2424,132
+"936","iowa,calhoun",3689,1470,99
+"937","iowa,carroll",7737,3454,144
+"938","iowa,cass",4969,2201,106
+"939","iowa,cedar",6161,4337,205
+"940","iowa,cerro gordo",12442,10941,418
+"941","iowa,cherokee",4495,1936,87
+"942","iowa,chickasaw",4308,2233,90
+"943","iowa,clarke",3144,1466,60
+"944","iowa,clay",6137,2662,170
+"945","iowa,clayton",6106,3340,148
+"946","iowa,clinton",13361,10812,514
+"947","iowa,crawford",4854,2220,80
+"948","iowa,dallas",27987,26879,1156
+"949","iowa,davis",3032,1013,57
+"950","iowa,decatur",2615,1120,69
+"951","iowa,delaware",6666,3157,180
+"952","iowa,des moines",10592,8893,471
+"953","iowa,dickinson",7438,3661,145
+"954","iowa,dubuque",27214,25657,1055
+"955","iowa,emmet",3265,1520,68
+"956","iowa,fayette",6145,3835,206
+"957","iowa,floyd",4732,3172,128
+"958","iowa,franklin",3422,1626,82
+"959","iowa,fremont",2711,1080,66
+"960","iowa,greene",3223,1769,65
+"961","iowa,grundy",4929,2206,141
+"962","iowa,guthrie",4272,1985,114
+"963","iowa,hamilton",4956,2843,144
+"964","iowa,hancock",4390,1683,99
+"965","iowa,hardin",5850,2976,163
+"966","iowa,harrison",5569,2440,146
+"967","iowa,henry",6507,3275,200
+"968","iowa,howard",3127,1772,59
+"969","iowa,humboldt",3819,1442,66
+"970","iowa,ida",2880,917,52
+"971","iowa,iowa",6009,3547,186
+"972","iowa,jackson",6940,4029,166
+"973","iowa,jasper",12084,7737,363
+"974","iowa,jefferson",4443,4319,197
+"975","iowa,johnson",22925,59177,1749
+"976","iowa,jones",6572,4213,204
+"977","iowa,keokuk",3797,1414,92
+"978","iowa,kossuth",6275,2696,119
+"979","iowa,lee",9773,6541,420
+"980","iowa,linn",53364,70874,3220
+"981","iowa,louisa",3500,1726,106
+"982","iowa,lucas",3287,1284,59
+"983","iowa,lyon",5707,1067,89
+"984","iowa,madison",6507,3134,183
+"985","iowa,mahaska",8297,2894,213
+"986","iowa,marion",12663,6178,391
+"987","iowa,marshall",9571,8176,389
+"988","iowa,mills",5585,2508,175
+"989","iowa,mitchell",3677,2053,92
+"990","iowa,monona",3248,1407,73
+"991","iowa,monroe",2975,1078,35
+"992","iowa,montgomery",3659,1583,85
+"993","iowa,muscatine",10823,9372,476
+"994","iowa,o'brien",5861,1569,121
+"995","iowa,osceola",2690,601,37
+"996","iowa,page",5319,2086,123
+"997","iowa,palo alto",3370,1519,69
+"998","iowa,plymouth",10492,3494,202
+"999","iowa,pocahontas",2826,933,64
+"1000","iowa,polk",106800,146250,5705
+"1001","iowa,pottawattamie",26247,18575,922
+"1002","iowa,poweshiek",5657,4306,177
+"1003","iowa,ringgold",1968,709,37
+"1004","iowa,sac",4061,1389,85
+"1005","iowa,scott",43683,46926,1990
+"1006","iowa,shelby",4697,1959,139
+"1007","iowa,sioux",15680,3019,352
+"1008","iowa,story",20340,29175,1523
+"1009","iowa,tama",5303,3577,168
+"1010","iowa,taylor",2463,746,40
+"1011","iowa,union",4010,2061,114
+"1012","iowa,van buren",2859,875,57
+"1013","iowa,wapello",9516,5821,296
+"1014","iowa,warren",17782,12574,683
+"1015","iowa,washington",6971,4561,233
+"1016","iowa,wayne",2338,727,44
+"1017","iowa,webster",10938,6613,271
+"1018","iowa,winnebago",3707,2135,128
+"1019","iowa,winneshiek",6235,5617,212
+"1020","iowa,woodbury",25736,18704,922
+"1021","iowa,worth",2738,1596,84
+"1022","iowa,wright",4136,1996,122
+"1023","kansas,allen78.6% in",4155,1559,128
+"1024","kansas,anderson99% in",2874,765,81
+"1025","kansas,atchison99% in",4826,2314,172
+"1026","kansas,barber92.3% in",1992,284,37
+"1027","kansas,barton99% in",8480,2302,198
+"1028","kansas,bourbon95% in",4910,1505,135
+"1029","kansas,brown95% in",3206,1088,102
+"1030","kansas,butler99% in",22250,9003,693
+"1031","kansas,chase95% in",1114,341,23
+"1032","kansas,chautauqua92.4% in",1397,212,25
+"1033","kansas,cherokee99% in",6622,2163,160
+"1034","kansas,cheyenne86.4% in",1158,220,22
+"1035","kansas,clark90.7% in",885,143,20
+"1036","kansas,clay95% in",3129,883,122
+"1037","kansas,cloud90.6% in",3182,893,104
+"1038","kansas,coffey99% in",3407,928,113
+"1039","kansas,comanche89.9% in",745,126,33
+"1040","kansas,cowley95% in",9442,4171,345
+"1041","kansas,crawford99% in",10045,6179,494
+"1042","kansas,decatur83.7% in",1232,208,18
+"1043","kansas,dickinson99% in",7045,2040,161
+"1044","kansas,doniphan95% in",2949,678,55
+"1045","kansas,douglas95% in",16737,39436,1773
+"1046","kansas,edwards94.1% in",1127,267,19
+"1047","kansas,elk90.8% in",1130,191,26
+"1048","kansas,ellis99% in",9569,3633,350
+"1049","kansas,ellsworth95% in",2106,646,61
+"1050","kansas,finney95% in",7079,4155,272
+"1051","kansas,ford95% in",5763,2926,161
+"1052","kansas,franklin95% in",8326,3623,298
+"1053","kansas,geary95% in",5193,3825,293
+"1054","kansas,gove91.2% in",1256,163,14
+"1055","kansas,graham85.5% in",1052,222,28
+"1056","kansas,grant94.6% in",1910,497,45
+"1057","kansas,gray95% in",1871,337,32
+"1058","kansas,greeley82.7% in",537,77,15
+"1059","kansas,greenwood95% in",2404,562,70
+"1060","kansas,hamilton88% in",684,134,19
+"1061","kansas,harper93.9% in",2128,453,47
+"1062","kansas,harvey99% in",10015,6652,453
+"1063","kansas,haskell91.3% in",1103,261,19
+"1064","kansas,hodgeman85.7% in",866,151,16
+"1065","kansas,jackson99% in",4435,1852,181
+"1066","kansas,jefferson99% in",6193,3106,282
+"1067","kansas,jewell95% in",1369,211,28
+"1068","kansas,johnson95% in",155631,184259,9496
+"1069","kansas,kearny94% in",1134,255,24
+"1070","kansas,kingman99% in",3102,745,82
+"1071","kansas,kiowa87.8% in",957,153,29
+"1072","kansas,labette95% in",5639,2607,168
+"1073","kansas,lane88.3% in",757,114,17
+"1074","kansas,leavenworth95% in",21378,13753,984
+"1075","kansas,lincoln93.1% in",1273,266,31
+"1076","kansas,linn99% in",3940,863,108
+"1077","kansas,logan95% in",1231,185,21
+"1078","kansas,lyon95% in",7381,5878,363
+"1079","kansas,mcpherson95% in",9562,3977,362
+"1080","kansas,marion99% in",4377,1463,129
+"1081","kansas,marshall99% in",3662,1239,128
+"1082","kansas,meade95% in",1508,261,38
+"1083","kansas,miami95% in",12116,5133,406
+"1084","kansas,mitchell90.2% in",2454,547,38
+"1085","kansas,montgomery95% in",9768,3147,262
+"1086","kansas,morris95% in",2085,721,43
+"1087","kansas,morton83.9% in",1004,147,12
+"1088","kansas,nemaha99% in",4612,920,105
+"1089","kansas,neosho94.3% in",4795,1727,107
+"1090","kansas,ness99% in",1315,147,25
+"1091","kansas,norton99% in",1977,361,52
+"1092","kansas,osage99% in",5591,2099,203
+"1093","kansas,osborne90.9% in",1590,275,39
+"1094","kansas,ottawa94.7% in",2581,504,76
+"1095","kansas,pawnee94% in",2028,635,49
+"1096","kansas,phillips84% in",2388,318,46
+"1097","kansas,pottawatomie69.3% in",9247,3257,311
+"1098","kansas,pratt99% in",3087,924,96
+"1099","kansas,rawlins89.4% in",1253,214,31
+"1100","kansas,reno99% in",17948,8602,695
+"1101","kansas,republic86.6% in",2172,420,51
+"1102","kansas,rice99% in",3187,953,90
+"1103","kansas,riley95% in",11174,11940,910
+"1104","kansas,rooks87.1% in",2294,332,40
+"1105","kansas,rush95% in",1425,291,32
+"1106","kansas,russell99% in",2765,591,80
+"1107","kansas,saline99% in",15313,8022,666
+"1108","kansas,scott99% in",1991,290,44
+"1109","kansas,sedgwick95% in",117653,90820,6015
+"1110","kansas,seward90.8% in",3285,1736,78
+"1111","kansas,shawnee95% in",40443,43015,2664
+"1112","kansas,sheridan93.8% in",1237,144,16
+"1113","kansas,sherman94.1% in",2222,386,65
+"1114","kansas,smith94.4% in",1734,328,30
+"1115","kansas,stafford93.6% in",1631,355,31
+"1116","kansas,stanton93.2% in",607,147,13
+"1117","kansas,stevens90.5% in",1731,233,33
+"1118","kansas,sumner99% in",7998,2551,267
+"1119","kansas,thomas99% in",3106,622,66
+"1120","kansas,trego89.4% in",1341,238,24
+"1121","kansas,wabaunsee99% in",2813,956,92
+"1122","kansas,wallace90.1% in",762,44,11
+"1123","kansas,washington99% in",2332,467,56
+"1124","kansas,wichita89.8% in",803,147,11
+"1125","kansas,wilson95% in",3111,711,77
+"1126","kansas,woodson99% in",1189,283,24
+"1127","kansas,wyandotte95% in",18512,35566,1301
+"1128","kentucky,adair",7276,1392,100
+"1129","kentucky,allen",7587,1642,135
+"1130","kentucky,anderson",9661,3348,245
+"1131","kentucky,ballard",3356,825,44
+"1132","kentucky,barren",14654,5127,283
+"1133","kentucky,bath",3986,1573,68
+"1134","kentucky,bell",8140,1789,115
+"1135","kentucky,boone",44814,20901,1283
+"1136","kentucky,bourbon",6190,3296,162
+"1137","kentucky,boyd",14295,7083,373
+"1138","kentucky,boyle",8872,5298,308
+"1139","kentucky,bracken",3398,800,48
+"1140","kentucky,breathitt",4265,1301,95
+"1141","kentucky,breckinridge",7701,2350,150
+"1142","kentucky,bullitt",30708,10552,738
+"1143","kentucky,butler",4960,1079,86
+"1144","kentucky,caldwell",4906,1433,95
+"1145","kentucky,calloway",11352,5797,308
+"1146","kentucky,campbell",28482,19374,1022
+"1147","kentucky,carlisle",2159,463,16
+"1148","kentucky,carroll",2954,1116,66
+"1149","kentucky,carter",8775,2642,169
+"1150","kentucky,casey",6179,918,74
+"1151","kentucky,christian",15080,8296,487
+"1152","kentucky,clark",11811,6004,324
+"1153","kentucky,clay",6677,831,83
+"1154","kentucky,clinton",4280,603,49
+"1155","kentucky,crittenden",3451,731,60
+"1156","kentucky,cumberland",2769,508,32
+"1157","kentucky,daviess",31025,17286,976
+"1158","kentucky,edmonson",4828,1227,77
+"1159","kentucky,elliott",2246,712,37
+"1160","kentucky,estill",5100,1355,85
+"1161","kentucky,fayette",58860,90600,3452
+"1162","kentucky,fleming",5534,1474,60
+"1163","kentucky,floyd",12250,3884,219
+"1164","kentucky,franklin",12900,12652,520
+"1165","kentucky,fulton",1606,794,26
+"1166","kentucky,gallatin",2955,822,72
+"1167","kentucky,garrard",6754,1830,122
+"1168","kentucky,grant",8725,2205,178
+"1169","kentucky,graves",13206,3560,253
+"1170","kentucky,grayson",9453,2400,132
+"1171","kentucky,green",4838,920,54
+"1172","kentucky,greenup",13064,4873,239
+"1173","kentucky,hancock",3145,1351,91
+"1174","kentucky,hardin",29832,18101,1008
+"1175","kentucky,harlan",9367,1494,110
+"1176","kentucky,harrison",6334,2400,125
+"1177","kentucky,hart",6345,1908,117
+"1178","kentucky,henderson",12730,7639,328
+"1179","kentucky,henry",5843,2142,125
+"1180","kentucky,hickman",1714,458,27
+"1181","kentucky,hopkins",15757,5439,316
+"1182","kentucky,jackson",5453,605,55
+"1183","kentucky,jefferson",150646,228358,7625
+"1184","kentucky,jessamine",17096,8567,617
+"1185","kentucky,johnson",8450,1608,134
+"1186","kentucky,kenton",48129,32271,1798
+"1187","kentucky,knott",4780,1412,60
+"1188","kentucky,knox",11012,2114,147
+"1189","kentucky,larue",5685,1504,112
+"1190","kentucky,laurel",23237,4475,399
+"1191","kentucky,lawrence",5633,1238,84
+"1192","kentucky,lee",2273,481,47
+"1193","kentucky,leslie",4321,446,46
+"1194","kentucky,letcher",7226,1799,110
+"1195","kentucky,lewis",4986,823,74
+"1196","kentucky,lincoln",8489,2254,171
+"1197","kentucky,livingston",4010,939,55
+"1198","kentucky,logan",9067,3094,189
+"1199","kentucky,lyon",3100,1092,36
+"1200","kentucky,mccracken",21820,11195,534
+"1201","kentucky,mccreary",5664,725,49
+"1202","kentucky,mclean",3633,1074,75
+"1203","kentucky,madison",27356,15581,1020
+"1204","kentucky,magoffin",4174,1214,59
+"1205","kentucky,marion",6113,2722,93
+"1206","kentucky,marshall",13297,4071,235
+"1207","kentucky,martin",3496,403,37
+"1208","kentucky,mason",5477,2362,119
+"1209","kentucky,meade",10185,3632,296
+"1210","kentucky,menifee",2311,750,41
+"1211","kentucky,mercer",8506,3033,196
+"1212","kentucky,metcalfe",3959,975,78
+"1213","kentucky,monroe",4628,657,45
+"1214","kentucky,montgomery",8993,3630,219
+"1215","kentucky,morgan",4301,1175,68
+"1216","kentucky,muhlenberg",10497,3545,193
+"1217","kentucky,nelson",15703,7188,365
+"1218","kentucky,nicholas",2408,955,33
+"1219","kentucky,ohio",8582,2404,143
+"1220","kentucky,oldham",22654,14505,817
+"1221","kentucky,owen",4292,1098,68
+"1222","kentucky,owsley",1671,216,9
+"1223","kentucky,pendleton",5515,1322,88
+"1224","kentucky,perry",8129,2356,141
+"1225","kentucky,pike",20284,4866,245
+"1226","kentucky,powell",4041,1367,97
+"1227","kentucky,pulaski",25442,5666,449
+"1228","kentucky,robertson",884,253,9
+"1229","kentucky,rockcastle",6577,1134,73
+"1230","kentucky,rowan",5994,3880,191
+"1231","kentucky,russell",7519,1331,105
+"1232","kentucky,scott",17767,10567,635
+"1233","kentucky,shelby",15055,8077,418
+"1234","kentucky,simpson",5888,2681,163
+"1235","kentucky,spencer",8737,2530,166
+"1236","kentucky,taylor",9376,2963,178
+"1237","kentucky,todd",4062,1205,96
+"1238","kentucky,trigg",5487,1791,98
+"1239","kentucky,trimble",3227,1012,81
+"1240","kentucky,union",4965,1529,83
+"1241","kentucky,warren",31791,22479,1131
+"1242","kentucky,washington",4482,1644,99
+"1243","kentucky,wayne",7430,1700,110
+"1244","kentucky,webster",4506,1412,75
+"1245","kentucky,whitley",12567,2552,237
+"1246","kentucky,wolfe",2097,839,43
+"1247","kentucky,woodford",8362,6530,319
+"1248","louisiana,acadia",22596,5443,386
+"1249","louisiana,allen",7574,2108,128
+"1250","louisiana,ascension",40687,20399,1239
+"1251","louisiana,assumption",7271,3833,131
+"1252","louisiana,avoyelles",12028,4979,285
+"1253","louisiana,beauregard",13575,2542,240
+"1254","louisiana,bienville",3891,3067,92
+"1255","louisiana,bossier",38074,15662,919
+"1256","louisiana,caddo",48021,55110,1781
+"1257","louisiana,calcasieu",55066,25982,1615
+"1258","louisiana,caldwell",3976,745,41
+"1259","louisiana,cameron",3671,324,44
+"1260","louisiana,catahoula",3541,1269,48
+"1261","louisiana,claiborne",3770,2731,79
+"1262","louisiana,concordia",5550,3177,101
+"1263","louisiana,desoto",9112,5457,167
+"1264","louisiana,east baton rouge",88420,115577,4185
+"1265","louisiana,east carroll",1080,1900,56
+"1266","louisiana,east feliciana",6064,4280,165
+"1267","louisiana,evangeline",11053,4158,201
+"1268","louisiana,franklin",6970,2658,92
+"1269","louisiana,grant",8117,1157,118
+"1270","louisiana,iberia",21251,11027,435
+"1271","louisiana,iberville",7893,8514,312
+"1272","louisiana,jackson",5394,2143,95
+"1273","louisiana,jefferson",105949,84477,3307
+"1274","louisiana,jeff davis",11423,3208,210
+"1275","louisiana,lafayette",72519,39685,2317
+"1276","louisiana,lafourche",36024,8672,692
+"1277","louisiana,lasalle",6378,638,61
+"1278","louisiana,lincoln",11311,7559,405
+"1279","louisiana,livingston",54877,9249,1104
+"1280","louisiana,madison",1930,2654,86
+"1281","louisiana,morehouse",6510,4946,118
+"1282","louisiana,natchitoches",9358,6896,300
+"1283","louisiana,orleans",26664,147854,3301
+"1284","louisiana,ouachita",42255,25913,998
+"1285","louisiana,plaquemines",7412,3414,188
+"1286","louisiana,pointe coupee",7503,4683,185
+"1287","louisiana,rapides",38347,19475,1043
+"1288","louisiana,red river",2413,1644,75
+"1289","louisiana,richland",6607,3225,108
+"1290","louisiana,sabine",8776,1731,89
+"1291","louisiana,st. bernard",11179,6151,320
+"1292","louisiana,st. charles",18233,9800,484
+"1293","louisiana,st. helena",2714,3346,98
+"1294","louisiana,st. james",5954,6510,126
+"1295","louisiana,st. john the baptist",7538,13582,312
+"1296","louisiana,st. landry",23171,17372,611
+"1297","louisiana,st. martin",18203,8439,396
+"1298","louisiana,st. mary",14811,8055,320
+"1299","louisiana,st. tammany",99666,37746,2698
+"1300","louisiana,tangipahoa",37806,18887,968
+"1301","louisiana,tensas",1197,1329,28
+"1302","louisiana,terrebonne",34339,11198,703
+"1303","louisiana,union",8407,2654,140
+"1304","louisiana,vermilion",21930,5009,385
+"1305","louisiana,vernon",14107,2898,263
+"1306","louisiana,washington",13307,5970,236
+"1307","louisiana,webster",11830,6172,214
+"1308","louisiana,west baton rouge",7684,6200,213
+"1309","louisiana,west carroll",4317,710,25
+"1310","louisiana,west feliciana",3863,2298,107
+"1311","louisiana,winn",4619,1543,63
+"1312","maine,abbot",451,121,9
+"1313","maine,acton",801,651,147
+"1314","maine,addison",224,235,19
+"1315","maine,albion",948,385,54
+"1316","maine,alexander",95,73,27
+"1317","maine,alfred",174,983,33
+"1318","maine,allagash",293,74,47
+"1319","maine,alna99% in",115,320,99
+"1320","maine,alton99.8% in",96,169,48
+"1321","maine,amherst",293,64,144
+"1322","maine,amity",796,27,30
+"1323","maine,andover",407,223,182
+"1324","maine,anson",104,398,34
+"1325","maine,appleton99.7% in",1347,478,388
+"1326","maine,arrowsic99.7% in",376,260,315
+"1327","maine,arundel",332,1405,739
+"1328","maine,ashland",122,231,659
+"1329","maine,athens",5409,167,74
+"1330","maine,atkinson",4155,49,52
+"1331","maine,auburn",42,6482,654
+"1332","maine,augusta",164,5248,184
+"1333","maine,aurora",421,29,1238
+"1334","maine,avon",623,96,351
+"1335","maine,baileyville",6065,239,8
+"1336","maine,baldwin",804,350,317
+"1337","maine,bangor99.9% in",68,9452,11
+"1338","maine,bar harbor99.8% in",1540,2678,213
+"1339","maine,baring plt.",191,42,64
+"1340","maine,bath",60,3421,208
+"1341","maine,beals",36,98,154
+"1342","maine,beaver cove",1259,59,204
+"1343","maine,beddington",1166,13,131
+"1344","maine,belfast99.6% in",319,2847,688
+"1345","maine,belgrade",984,994,186
+"1346","maine,belmont",2229,259,554
+"1347","maine,benton",749,607,104
+"1348","maine,berwick",3705,1999,54
+"1349","maine,bethel",349,1006,88
+"1350","maine,biddeford",298,7022,147
+"1351","maine,bingham",624,215,165
+"1352","maine,blaine",922,97,97
+"1353","maine,blue hill",545,1310,189
+"1354","maine,boothbay99.8% in",1079,1229,38
+"1355","maine,boothbay harbor99.6% in",856,814,45
+"1356","maine,bowdoin",76,755,160
+"1357","maine,bowdoinham",485,1123,18
+"1358","maine,bowerbank99.2% in",485,41,479
+"1359","maine,bradford",185,188,9
+"1360","maine,bradley99.8% in",2568,378,220
+"1361","maine,bremen99.8% in",214,367,20
+"1362","maine,brewer",1528,2533,110
+"1363","maine,bridgewater",29,77,53
+"1364","maine,bridgton",808,1656,117
+"1365","maine,brighton plt.",189,16,29
+"1366","maine,bristol99.9% in",317,1275,588
+"1367","maine,brooklin99% in",219,426,120
+"1368","maine,brooks99.8% in",466,246,765
+"1369","maine,brooksville99.1% in",467,450,56
+"1370","maine,brownfield",3733,468,225
+"1371","maine,brownville",636,280,184
+"1372","maine,brunswick99.9% in",1481,9728,36
+"1373","maine,buckfield",145,436,373
+"1374","maine,bucksport",389,1278,9
+"1375","maine,burlington99.5% in",2686,56,177
+"1376","maine,burnham",58,234,59
+"1377","maine,buxton99.8% in",856,2416,120
+"1378","maine,byron",176,31,197
+"1379","maine,calais",832,626,30
+"1380","maine,cambridge98.8% in",749,72,258
+"1381","maine,camden99.7% in",374,2931,30
+"1382","maine,canaan",1462,384,120
+"1383","maine,canton",36,154,81
+"1384","maine,cape elizabeth99.6% in",2262,5349,48
+"1385","maine,caratunk",1183,24,2
+"1386","maine,caribou",164,1702,78
+"1387","maine,carmel",73,560,18
+"1388","maine,carrabassett valley98.7% in",214,348,162
+"1389","maine,carroll plt.98.9% in",0,14,32
+"1390","maine,carthage",1184,88,11
+"1391","maine,cary plt.",136,0,24
+"1392","maine,casco",130,1036,15
+"1393","maine,castine",73,346,65
+"1394","maine,castle hill98.7% in",177,97,21
+"1395","maine,caswell98.5% in",580,59,78
+"1396","maine,chapman",145,97,51
+"1397","maine,charleston99.5% in",917,164,92
+"1398","maine,charlotte98.6% in",417,68,75
+"1399","maine,chelsea99.9% in",261,605,204
+"1400","maine,cherryfield",460,212,48
+"1401","maine,chester",1395,61,108
+"1402","maine,chesterville99% in",324,314,20
+"1403","maine,china99.8% in",1098,1107,46
+"1404","maine,clifton",156,187,25
+"1405","maine,clinton99.7% in",204,641,42
+"1406","maine,columbia",60,67,128
+"1407","maine,columbia falls",44,119,92
+"1408","maine,cooper99% in",847,33,69
+"1409","maine,coplin plt.99.1% in",1147,59,62
+"1410","maine,corinna",478,363,18
+"1411","maine,corinth",471,390,105
+"1412","maine,cornish",36,429,18
+"1413","maine,cornville99.2% in",45,283,274
+"1414","maine,cranberry isles98.6% in",120,95,41
+"1415","maine,crawford",1800,18,27
+"1416","maine,crystal",520,39,46
+"1417","maine,cumberland99.3% in",218,4074,39
+"1418","maine,cushing99.7% in",30,424,71
+"1419","maine,cutler",104,86,4
+"1420","maine,cyr plt.98.2% in",463,26,139
+"1421","maine,dallas plt.98.6% in",314,98,27
+"1422","maine,damariscotta99.6% in",756,980,102
+"1423","maine,danforth",35,98,30
+"1424","maine,dayton",582,582,81
+"1425","maine,deblois",496,5,21
+"1426","maine,dedham",392,545,80
+"1427","maine,deer isle99.8% in",19,806,37
+"1428","maine,denmark",214,404,107
+"1429","maine,dennistown plt.",276,5,144
+"1430","maine,dennysville98.9% in",1169,137,74
+"1431","maine,detroit",803,151,139
+"1432","maine,dexter99.6% in",446,617,168
+"1433","maine,dixfield",1356,460,0
+"1434","maine,dixmont99.7% in",580,265,196
+"1435","maine,dover-foxcroft",13,914,18
+"1436","maine,dresden",1333,542,26
+"1437","maine,drew plt.",106,5,33
+"1438","maine,durham99.5% in",256,1361,50
+"1439","maine,dyer brook",148,40,76
+"1440","maine,eagle lake99.6% in",528,197,36
+"1441","maine,eastbrook99.1% in",567,65,57
+"1442","maine,east machias99.9% in",467,270,134
+"1443","maine,east millinocket",339,370,164
+"1444","maine,easton",903,241,189
+"1445","maine,eastport99.6% in",348,474,201
+"1446","maine,eddington",66,503,385
+"1447","maine,edgecomb",1788,510,37
+"1448","maine,edinburg99.1% in",2359,36,66
+"1449","maine,eliot",374,2839,82
+"1450","maine,ellsworth99.7% in",585,2274,156
+"1451","maine,embden",495,181,225
+"1452","maine,enfield",255,279,274
+"1453","maine,etna",366,216,548
+"1454","maine,eustis99.6% in",1845,173,150
+"1455","maine,exeter99% in",2672,190,296
+"1456","maine,fairfield",768,1428,122
+"1457","maine,falmouth99.7% in",1541,6147,83
+"1458","maine,farmingdale99.5% in",421,903,135
+"1459","maine,farmington",985,2225,87
+"1460","maine,fayette99.8% in",1141,388,201
+"1461","maine,fort fairfield",441,674,48
+"1462","maine,fort kent",459,1069,354
+"1463","maine,frankfort99.1% in",236,220,14
+"1464","maine,franklin",1675,381,87
+"1465","maine,freedom",19,201,144
+"1466","maine,freeport99.9% in",361,4327,99
+"1467","maine,frenchboro93.9% in",477,12,234
+"1468","maine,frenchville99.7% in",813,235,54
+"1469","maine,friendship99.8% in",1471,309,51
+"1470","maine,fryeburg99.9% in",42,1060,152
+"1471","maine,gardiner99.9% in",409,1694,17
+"1472","maine,garfield plt.",294,11,524
+"1473","maine,garland",66,177,27
+"1474","maine,georgetown",1612,525,673
+"1475","maine,gilead",1,48,51
+"1476","maine,glenburn99.9% in",4275,1108,193
+"1477","maine,glenwood plt.",612,0,11
+"1478","maine,gorham99.7% in",119,6460,352
+"1479","maine,gouldsboro",60,477,78
+"1480","maine,grand isle",2557,107,86
+"1481","maine,grand lake stream plt99% in",25,37,114
+"1482","maine,gray",499,2653,71
+"1483","maine,great pond",1663,18,108
+"1484","maine,greenbush",644,193,33
+"1485","maine,greene99.9% in",242,914,94
+"1486","maine,greenville",466,486,96
+"1487","maine,greenwood",445,278,35
+"1488","maine,guilford",61,248,369
+"1489","maine,hallowell99.9% in",34,1277,79
+"1490","maine,hamlin",2265,48,134
+"1491","maine,hammond97.9% in",778,11,26
+"1492","maine,hampden99.8% in",92,2451,192
+"1493","maine,hancock",326,659,35
+"1494","maine,hanover",1423,101,58
+"1495","maine,harmony",363,151,43
+"1496","maine,harpswell99.6% in",796,2379,63
+"1497","maine,harrington99.8% in",428,168,60
+"1498","maine,harrison99.8% in",610,741,75
+"1499","maine,hartford",50,278,207
+"1500","maine,hartland",427,266,142
+"1501","maine,haynesville",2427,12,18
+"1502","maine,hebron",0,323,93
+"1503","maine,hermon",71,1447,99
+"1504","maine,hersey",528,8,143
+"1505","maine,highland plt.",613,42,252
+"1506","maine,hiram",1200,373,53
+"1507","maine,hodgdon",1535,185,111
+"1508","maine,holden99.7% in",443,871,83
+"1509","maine,hollis99.5% in",1639,1268,12
+"1510","maine,hope",390,653,45
+"1511","maine,houlton",484,1046,24
+"1512","maine,howland",54,221,27
+"1513","maine,hudson",69,120,56
+"1514","maine,penobscot nation vot dst99.3% in",253,237,18
+"1515","maine,indian township vtng dst",306,191,27
+"1516","maine,industry99.4% in",9,232,79
+"1517","maine,island falls",120,132,75
+"1518","maine,isle au haut98.5% in",387,54,147
+"1519","maine,islesboro",191,309,163
+"1520","maine,jackman",1375,144,25
+"1521","maine,jackson99.7% in",951,134,244
+"1522","maine,jay",212,1220,96
+"1523","maine,jefferson",447,679,375
+"1524","maine,jonesboro99.4% in",514,124,54
+"1525","maine,jonesport",2682,243,282
+"1526","maine,kenduskeag",926,242,6
+"1527","maine,kennebunk99.8% in",444,5368,354
+"1528","maine,kennebunkport99.3% in",0,1777,37
+"1529","maine,kingfield",1809,407,26
+"1530","maine,kingsbury plt.",315,0,33
+"1531","maine,kittery",248,4418,126
+"1532","maine,knox99% in",71,147,50
+"1533","maine,lagrange",38,101,311
+"1534","maine,lake view plt.",576,40,51
+"1535","maine,lakeville",2178,29,705
+"1536","maine,lamoine",350,616,131
+"1537","maine,lebanon",818,1232,1035
+"1538","maine,lee",1149,140,51
+"1539","maine,leeds",7232,505,201
+"1540","maine,levant",308,477,87
+"1541","maine,lewiston",948,9616,156
+"1542","maine,liberty",423,265,211
+"1543","maine,limerick",1357,813,17
+"1544","maine,limestone",1723,325,235
+"1545","maine,limington99.9% in",20,856,66
+"1546","maine,lincoln",551,813,382
+"1547","maine,lincoln plt.",411,12,164
+"1548","maine,lincolnville99.9% in",2853,1059,83
+"1549","maine,linneus",1260,93,77
+"1550","maine,lisbon99.8% in",381,2190,100
+"1551","maine,litchfield",783,850,20
+"1552","maine,littleton",809,141,44
+"1553","maine,livermore",53,573,20
+"1554","maine,livermore falls99.9% in",353,540,117
+"1555","maine,long island",193,133,66
+"1556","maine,lovell",406,399,190
+"1557","maine,lowell99.6% in",169,56,57
+"1558","maine,lubec99.7% in",1537,457,66
+"1559","maine,ludlow",461,78,32
+"1560","maine,lyman",337,1315,43
+"1561","maine,machias99.3% in",30,395,138
+"1562","maine,machiasport",940,216,30
+"1563","maine,macwahoc plt.",1411,12,102
+"1564","maine,madawaska",10,1143,51
+"1565","maine,madison",810,928,33
+"1566","maine,magalloway plt.",726,6,17
+"1567","maine,manchester99.8% in",191,832,12
+"1568","maine,mapleton",208,406,19
+"1569","maine,mariaville",511,113,0
+"1570","maine,marshfield",85,102,91
+"1571","maine,mars hill",14,222,15
+"1572","maine,masardis98.4% in",257,34,123
+"1573","maine,matinicus isle plt.98% in",48,36,15
+"1574","maine,mattawamkeag",989,120,30
+"1575","maine,maxfield98.6% in",70,17,38
+"1576","maine,mechanic falls",112,650,70
+"1577","maine,meddybemps98.1% in",550,28,20
+"1578","maine,medford",283,46,123
+"1579","maine,medway",91,195,64
+"1580","maine,mercer",676,183,180
+"1581","maine,merrill",391,43,123
+"1582","maine,mexico",922,556,84
+"1583","maine,milbridge",1310,326,212
+"1584","maine,milford99.8% in",781,861,45
+"1585","maine,millinocket",1040,1049,209
+"1586","maine,milo",7,410,47
+"1587","maine,minot99.6% in",1397,676,78
+"1588","maine,monhegan plt.",266,51,12
+"1589","maine,monmouth",289,1079,64
+"1590","maine,monroe99.8% in",335,308,18
+"1591","maine,monson",266,173,6
+"1592","maine,monticello",107,96,33
+"1593","maine,montville99.4% in",27,346,71
+"1594","maine,moose river",355,13,18
+"1595","maine,moro plt.",199,2,141
+"1596","maine,morrill",81,242,48
+"1597","maine,moscow",381,74,141
+"1598","maine,mount chase",560,39,8
+"1599","maine,mount desert99.2% in",1389,1066,110
+"1600","maine,mount vernon",16,576,45
+"1601","maine,naples",599,1039,159
+"1602","maine,nashville plt.",93,7,53
+"1603","maine,newburgh99.4% in",403,366,285
+"1604","maine,new canada",575,61,34
+"1605","maine,newcastle99.3% in",1757,923,95
+"1606","maine,newfield",253,362,94
+"1607","maine,new gloucester99.8% in",1118,1720,14
+"1608","maine,new limerick",266,115,85
+"1609","maine,newport",119,584,46
+"1610","maine,new portland99% in",528,185,84
+"1611","maine,newry",178,163,111
+"1612","maine,new sharon",293,391,126
+"1613","maine,new sweden91.5% in",559,137,206
+"1614","maine,new vineyard",1128,154,72
+"1615","maine,nobleboro99.6% in",1557,729,120
+"1616","maine,norridgewock",81,687,150
+"1617","maine,north berwick",85,1465,153
+"1618","maine,northfield",408,38,284
+"1619","maine,north haven99.1% in",1018,221,67
+"1620","maine,northport",1363,670,324
+"1621","maine,north yarmouth99.3% in",286,1862,213
+"1622","maine,norway99.8% in",1853,1400,243
+"1623","maine,oakfield",311,111,511
+"1624","maine,oakland",2368,1681,261
+"1625","maine,ogunquit",1668,731,126
+"1626","maine,old orchrd bch",68,3708,531
+"1627","maine,old town99.9% in",693,2365,149
+"1628","maine,orient",1200,22,39
+"1629","maine,orland99.8% in",1405,691,42
+"1630","maine,orono99.8% in",31,3728,60
+"1631","maine,orrington99.9% in",323,1089,114
+"1632","maine,osborn",605,10,33
+"1633","maine,otis99.8% in",454,153,146
+"1634","maine,otisfield",22,535,127
+"1635","maine,owl's head98.9% in",1456,584,72
+"1636","maine,oxbow plt.",537,13,188
+"1637","maine,oxford99.5% in",800,807,24
+"1638","maine,palermo99.4% in",1494,381,56
+"1639","maine,palmyra",333,325,23
+"1640","maine,paris",564,1280,66
+"1641","maine,parkman",165,148,13
+"1642","maine,parsonsfield",362,469,54
+"1643","maine,passadumkeag",267,55,42
+"1644","maine,patten",306,149,41
+"1645","maine,pembroke",146,208,84
+"1646","maine,penobscot99.4% in",258,512,83
+"1647","maine,perham",561,62,135
+"1648","maine,perry99.6% in",385,206,141
+"1649","maine,peru99.6% in",745,322,103
+"1650","maine,phillips",1156,252,25
+"1651","maine,phippsburg99.9% in",1034,794,84
+"1652","maine,pittsfield99.6% in",35,817,139
+"1653","maine,pittston99.7% in",40,691,205
+"1654","maine,pleasant point votng dst",505,196,2094
+"1655","maine,pleasant ridge plt.98.1% in",1906,12,101
+"1656","maine,plymouth99.9% in",160,230,1662
+"1657","maine,poland",521,1513,57
+"1658","maine,portage lake98.9% in",6486,99,230
+"1659","maine,porter",489,328,53
+"1660","maine,portland99.9% in",2266,33786,47
+"1661","maine,pownal99.7% in",340,685,54
+"1662","maine,presque isle",242,1859,84
+"1663","maine,princeton",533,118,55
+"1664","maine,prospect99.1% in",449,170,177
+"1665","maine,randolph99.3% in",86,467,204
+"1666","maine,rangeley",1472,294,18
+"1667","maine,rangeley plt.99.3% in",818,57,182
+"1668","maine,raymond",58,1589,172
+"1669","maine,readfield99.7% in",1056,943,57
+"1670","maine,reed plt.",195,23,177
+"1671","maine,richmond99.3% in",221,934,119
+"1672","maine,ripley",1363,100,52
+"1673","maine,robbinston",776,128,120
+"1674","maine,rockland",350,2493,92
+"1675","maine,rockport",80,1694,648
+"1676","maine,rome",147,340,162
+"1677","maine,roque bluffs",1502,101,618
+"1678","maine,roxbury",1765,89,30
+"1679","maine,rumford",4497,1275,108
+"1680","maine,sabattus99.7% in",334,1034,52
+"1681","maine,saco",833,7794,66
+"1682","maine,saint agatha99.8% in",121,292,416
+"1683","maine,st. albans",663,321,14
+"1684","maine,st. francis",104,121,983
+"1685","maine,st. george99.2% in",36,1108,81
+"1686","maine,st. john plt.",5182,63,692
+"1687","maine,sandy river plt.99% in",479,65,77
+"1688","maine,sanford",5217,5392,84
+"1689","maine,sangerville",481,255,56
+"1690","maine,scarborough99.9% in",721,9487,30
+"1691","maine,searsmont",719,430,65
+"1692","maine,searsport",305,843,31
+"1693","maine,sebago",19,529,100
+"1694","maine,sebec",321,117,80
+"1695","maine,seboeis plt.",1034,22,96
+"1696","maine,sedgwick",497,511,201
+"1697","maine,shapleigh",96,704,208
+"1698","maine,sherman",1688,157,36
+"1699","maine,shirley",2215,34,30
+"1700","maine,sidney",342,1184,51
+"1701","maine,skowhegan",111,1876,182
+"1702","maine,smithfield98.6% in",365,269,58
+"1703","maine,smyrna",213,46,270
+"1704","maine,solon99.7% in",94,243,620
+"1705","maine,somerville99.7% in",1734,131,45
+"1706","maine,sorrento",261,89,705
+"1707","maine,south berwick",173,2748,59
+"1708","maine,south bristol99.6% in",3783,429,44
+"1709","maine,southport99.2% in",403,306,143
+"1710","maine,south portland",381,12075,9
+"1711","maine,south thomaston",135,574,339
+"1712","maine,southwest harbor",169,728,31
+"1713","maine,springfield",3078,26,57
+"1714","maine,stacyville",237,38,63
+"1715","maine,standish99.8% in",524,2820,9
+"1716","maine,starks",409,137,76
+"1717","maine,stetson99.7% in",86,217,8
+"1718","maine,steuben",508,245,32
+"1719","maine,stockholm98.8% in",102,70,27
+"1720","maine,stockton springs",220,529,75
+"1721","maine,stoneham",121,83,89
+"1722","maine,stonington99.8% in",526,409,41
+"1723","maine,stow99.6% in",348,126,93
+"1724","maine,strong",324,266,24
+"1725","maine,sullivan",464,354,57
+"1726","maine,sumner99.6% in",129,206,28
+"1727","maine,surry99.3% in",454,596,6
+"1728","maine,swan's island",108,132,90
+"1729","maine,swanville99.9% in",18,339,28
+"1730","maine,sweden",155,165,50
+"1731","maine,talmadge",18,13,202
+"1732","maine,temple",664,172,35
+"1733","maine,the forks plt.97.4% in",211,18,484
+"1734","maine,thomaston",100,960,95
+"1735","maine,thorndike",2390,228,138
+"1736","maine,topsfield",422,24,80
+"1737","maine,topsham",451,3944,244
+"1738","maine,tremont",340,590,84
+"1739","maine,trenton99.8% in",2052,509,98
+"1740","maine,troy",786,233,4
+"1741","maine,turner",455,1288,81
+"1742","maine,union",47,726,21
+"1743","maine,unity",415,444,183
+"1744","maine,upton",65,16,147
+"1745","maine,van buren",1394,471,24
+"1746","maine,vanceboro",525,28,39
+"1747","maine,vassalboro",182,1075,55
+"1748","maine,veazie",208,646,42
+"1749","maine,verona",287,158,75
+"1750","maine,vienna",79,186,38
+"1751","maine,vinalhaven",33,531,135
+"1752","maine,wade97.9% in",261,53,47
+"1753","maine,waite",1568,18,81
+"1754","maine,waldo85.2% in",616,227,45
+"1755","maine,waldoboro",134,1294,156
+"1756","maine,wales",159,275,211
+"1757","maine,wallagrass99.7% in",1259,153,84
+"1758","maine,waltham",518,68,519
+"1759","maine,warren",540,919,83
+"1760","maine,washburn",2471,278,486
+"1761","maine,washington",557,415,79
+"1762","maine,waterboro99.9% in",2627,1861,7
+"1763","maine,waterford",343,452,176
+"1764","maine,waterville",33,5019,44
+"1765","maine,wayne99.7% in",144,506,333
+"1766","maine,webster plt.",67,9,372
+"1767","maine,weld98.7% in",3333,149,68
+"1768","maine,wellington",45,50,546
+"1769","maine,wells",629,4465,51
+"1770","maine,wesley97.4% in",3591,27,8
+"1771","maine,west bath99.5% in",174,737,130
+"1772","maine,westbrook",30,7274,42
+"1773","maine,westfield99.6% in",1317,92,18
+"1774","maine,west forks plt.98.1% in",24,21,108
+"1775","maine,west gardiner",125,1000,42
+"1776","maine,westmanland",552,30,70
+"1777","maine,weston",231,55,62
+"1778","maine,west paris",753,372,61
+"1779","maine,westport",205,303,389
+"1780","maine,whitefield99.9% in",70,688,236
+"1781","maine,whiting98.9% in",70,147,690
+"1782","maine,whitneyville",1117,55,265
+"1783","maine,willimantic",5280,20,2
+"1784","maine,wilton",899,978,311
+"1785","maine,windham",145,5782,21
+"1786","maine,windsor99.8% in",2360,477,279
+"1787","maine,winn",179,60,95
+"1788","maine,winslow",1245,2184,216
+"1789","maine,winter harbor",72,145,207
+"1790","maine,winterport",1649,1034,48
+"1791","maine,winterville plt.",1112,49,168
+"1792","maine,winthrop99.6% in",409,1963,132
+"1793","maine,wiscasset99.6% in",534,1114,246
+"1794","maine,woodland99.7% in",116,239,237
+"1795","maine,woodstock",1062,368,405
+"1796","maine,woodville",1439,19,3
+"1797","maine,woolwich99.9% in",3352,1035,15
+"1798","maine,yarmouth98.6% in",19,4785,0
+"1799","maine,york99.8% in",66,6117,36
+"1800","maine,frye island",150,38,529565
+"1801","maine,chebeague island",17,255,337256
+"1802","maine,aroostook cty townships",7,141,325939
+"1803","maine,franklin cty townships",159,31,396604
+"1804","maine,hancock cty townships",348,6,14461
+"1805","maine,oxford cty townships",61,152,13592
+"1806","maine,penobscot cty townships",173,150,9245
+"1807","maine,piscataquis cty townshps",21,26,7182
+"1808","maine,somerset cty townships",7,63,1372
+"1809","maine,washington cty townships",35,9,1153
+"1810","maine,me electoral vote district 1",20,288,798
+"1811","maine,me electoral vote district 2",21,930,536
+"1812","maryland,allegany",20886,9158,597
+"1813","maryland,anne arundel",127821,172823,8973
+"1814","maryland,baltimore",146202,258409,10321
+"1815","maryland,baltimore city",25374,207260,4827
+"1816","maryland,calvert",25346,22587,1179
+"1817","maryland,caroline",10283,5095,416
+"1818","maryland,carroll",60218,36456,3653
+"1819","maryland,cecil",29439,16809,1214
+"1820","maryland,charles",25579,62171,1748
+"1821","maryland,dorchester",8764,6857,356
+"1822","maryland,frederick",63682,77675,4258
+"1823","maryland,garrett",12002,3281,328
+"1824","maryland,harford",80930,63095,4161
+"1825","maryland,howard",48390,129433,5239
+"1826","maryland,kent",5195,5329,270
+"1827","maryland,montgomery",101222,419569,12952
+"1828","maryland,prince george's",37090,379208,8557
+"1829","maryland,queen anne's",18741,10709,840
+"1830","maryland,st. mary's",30826,23138,1701
+"1831","maryland,somerset",5739,4241,167
+"1832","maryland,talbot",10946,11062,547
+"1833","maryland,washington",40224,26044,1511
+"1834","maryland,wicomico",22944,22054,1218
+"1835","maryland,worcester",18571,12560,560
+"1836","massachusetts,abington",4236,5209,215
+"1837","massachusetts,acton",2471,11105,351
+"1838","massachusetts,acushnet",3290,2664,114
+"1839","massachusetts,adams",1428,2894,119
+"1840","massachusetts,agawam",8073,7794,318
+"1841","massachusetts,alford98.5% in",50,271,4
+"1842","massachusetts,amesbury",3326,6786,283
+"1843","massachusetts,amherst",873,10718,280
+"1844","massachusetts,andover",6693,14503,547
+"1845","massachusetts,arlington",4381,23671,499
+"1846","massachusetts,ashburnham",1667,2030,130
+"1847","massachusetts,ashby",1008,956,59
+"1848","massachusetts,ashfield",180,993,45
+"1849","massachusetts,ashland",2936,7308,200
+"1850","massachusetts,athol",2579,2705,218
+"1851","massachusetts,attleboro",9272,13661,622
+"1852","massachusetts,auburn",4306,5620,275
+"1853","massachusetts,avon",1030,1601,66
+"1854","massachusetts,ayer",1537,2932,156
+"1855","massachusetts,barnstable",11436,16491,500
+"1856","massachusetts,barre",1523,1535,99
+"1857","massachusetts,becket",413,757,25
+"1858","massachusetts,bedford",2180,6452,227
+"1859","massachusetts,belchertown",3481,5893,235
+"1860","massachusetts,bellingham",4402,5211,276
+"1861","massachusetts,belmont",2956,11999,401
+"1862","massachusetts,berkley",2251,1764,98
+"1863","massachusetts,berlin",816,1375,74
+"1864","massachusetts,bernardston",423,916,36
+"1865","massachusetts,beverly",7205,16703,542
+"1866","massachusetts,billerica",10731,13328,585
+"1867","massachusetts,blackstone",2560,2450,125
+"1868","massachusetts,blandford",454,307,14
+"1869","massachusetts,bolton",1140,2529,93
+"1870","massachusetts,boston",45425,242717,5654
+"1871","massachusetts,bourne",5331,6527,261
+"1872","massachusetts,boxborough",786,2526,90
+"1873","massachusetts,boxford",2271,3117,155
+"1874","massachusetts,boylston",1318,1877,109
+"1875","massachusetts,braintree",8744,12612,439
+"1876","massachusetts,brewster",2338,4940,158
+"1877","massachusetts,bridgewater",6572,7688,356
+"1878","massachusetts,brimfield",1193,1063,58
+"1879","massachusetts,brockton",8689,29475,548
+"1880","massachusetts,brookfield",1054,946,54
+"1881","massachusetts,brookline",3418,27150,516
+"1882","massachusetts,buckland",268,889,34
+"1883","massachusetts,burlington",5566,9447,333
+"1884","massachusetts,cambridge",3519,50233,1043
+"1885","massachusetts,canton",4965,9222,298
+"1886","massachusetts,carlisle",767,2772,99
+"1887","massachusetts,carver",3504,3277,180
+"1888","massachusetts,charlemont",235,492,16
+"1889","massachusetts,charlton",4127,3759,236
+"1890","massachusetts,chatham",1834,3107,134
+"1891","massachusetts,chelmsford",7823,13901,625
+"1892","massachusetts,chelsea",2215,8155,154
+"1893","massachusetts,cheshire",775,1124,47
+"1894","massachusetts,chester",415,313,16
+"1895","massachusetts,chesterfield",287,510,25
+"1896","massachusetts,chicopee",10636,14502,657
+"1897","massachusetts,chilmark",111,796,14
+"1898","massachusetts,clarksburg",390,583,17
+"1899","massachusetts,clinton",2886,4688,252
+"1900","massachusetts,cohasset",1665,3849,155
+"1901","massachusetts,colrain",306,667,34
+"1902","massachusetts,concord",1977,10024,310
+"1903","massachusetts,conway99.6% in",278,989,36
+"1904","massachusetts,cummington",162,413,16
+"1905","massachusetts,dalton",1039,2682,100
+"1906","massachusetts,danvers",6725,9833,349
+"1907","massachusetts,dartmouth",7778,9792,314
+"1908","massachusetts,dedham",4771,10760,336
+"1909","massachusetts,deerfield",839,2425,86
+"1910","massachusetts,dennis",3938,6181,202
+"1911","massachusetts,dighton",2473,2139,112
+"1912","massachusetts,douglas",2956,2458,120
+"1913","massachusetts,dover",1142,2761,120
+"1914","massachusetts,dracut",8812,8706,327
+"1915","massachusetts,dudley",3192,2744,156
+"1916","massachusetts,dunstable",877,1243,53
+"1917","massachusetts,duxbury",4032,6910,277
+"1918","massachusetts,east bridgewater",4366,4183,218
+"1919","massachusetts,east brookfield",741,593,31
+"1920","massachusetts,eastham",1151,2864,85
+"1921","massachusetts,easthampton",2525,7796,271
+"1922","massachusetts,east longmeadow",4623,5295,204
+"1923","massachusetts,easton",5467,8715,337
+"1924","massachusetts,edgartown",854,2185,62
+"1925","massachusetts,egremont",174,783,16
+"1926","massachusetts,erving",355,550,24
+"1927","massachusetts,essex",796,1650,66
+"1928","massachusetts,everett",4093,10492,232
+"1929","massachusetts,fairhaven",4275,5093,189
+"1930","massachusetts,fall river",13571,17459,586
+"1931","massachusetts,falmouth",7319,14134,437
+"1932","massachusetts,fitchburg",6186,9897,426
+"1933","massachusetts,florida",203,209,6
+"1934","massachusetts,foxborough",4357,6740,249
+"1935","massachusetts,framingham",7712,23622,714
+"1936","massachusetts,franklin",7345,12475,526
+"1937","massachusetts,freetown",2906,2483,117
+"1938","massachusetts,gardner",3939,5213,292
+"1939","massachusetts,aquinnah",34,311,10
+"1940","massachusetts,georgetown",2388,3051,146
+"1941","massachusetts,gill",279,679,29
+"1942","massachusetts,gloucester",5595,12138,426
+"1943","massachusetts,goshen",231,418,23
+"1944","massachusetts,gosnold",22,56,4
+"1945","massachusetts,grafton",4011,7139,303
+"1946","massachusetts,granby",1815,2055,86
+"1947","massachusetts,granville",565,402,23
+"1948","massachusetts,great barrington",654,3368,90
+"1949","massachusetts,greenfield",2265,6883,261
+"1950","massachusetts,groton",2149,4941,195
+"1951","massachusetts,groveland",1976,2421,139
+"1952","massachusetts,hadley",925,2476,92
+"1953","massachusetts,halifax",2398,2354,122
+"1954","massachusetts,hamilton",1458,3364,166
+"1955","massachusetts,hampden",1713,1539,87
+"1956","massachusetts,hancock",207,257,14
+"1957","massachusetts,hanover",4507,4910,235
+"1958","massachusetts,hanson",3314,3244,183
+"1959","massachusetts,hardwick",733,749,47
+"1960","massachusetts,harvard",954,3074,101
+"1961","massachusetts,harwich",3365,5833,250
+"1962","massachusetts,hatfield",686,1578,49
+"1963","massachusetts,haverhill",12571,19020,810
+"1964","massachusetts,hawley",70,155,6
+"1965","massachusetts,heath",158,294,16
+"1966","massachusetts,hingham",4986,10855,388
+"1967","massachusetts,hinsdale",402,771,37
+"1968","massachusetts,holbrook",2381,3710,122
+"1969","massachusetts,holden",4996,7325,333
+"1970","massachusetts,holland",793,698,54
+"1971","massachusetts,holliston",2579,6771,267
+"1972","massachusetts,holyoke",4843,11152,318
+"1973","massachusetts,hopedale",1385,2285,105
+"1974","massachusetts,hopkinton",2981,7047,268
+"1975","massachusetts,hubbardston",1442,1390,95
+"1976","massachusetts,hudson",3852,7414,317
+"1977","massachusetts,hull",2433,4507,140
+"1978","massachusetts,huntington",593,585,39
+"1979","massachusetts,ipswich",3109,6273,232
+"1980","massachusetts,kingston",3775,4522,223
+"1981","massachusetts,lakeville",3778,3336,209
+"1982","massachusetts,lancaster",1762,2458,134
+"1983","massachusetts,lanesborough",604,1237,50
+"1984","massachusetts,lawrence",5803,17023,382
+"1985","massachusetts,lee",985,2415,89
+"1986","massachusetts,leicester",3146,3101,168
+"1987","massachusetts,lenox",602,2701,65
+"1988","massachusetts,leominster",8592,12344,589
+"1989","massachusetts,leverett",163,1193,30
+"1990","massachusetts,lexington",3337,16308,403
+"1991","massachusetts,leyden",155,330,17
+"1992","massachusetts,lincoln",683,3493,95
+"1993","massachusetts,littleton",1980,4479,232
+"1994","massachusetts,longmeadow",3493,6679,223
+"1995","massachusetts,lowell",12346,25544,791
+"1996","massachusetts,ludlow",5695,5467,222
+"1997","massachusetts,lunenburg",2936,4027,229
+"1998","massachusetts,lynn",10425,24662,690
+"1999","massachusetts,lynnfield",3969,4213,163
+"2000","massachusetts,malden",6026,19111,486
+"2001","massachusetts,manchester",1014,2712,93
+"2002","massachusetts,mansfield",5149,9024,364
+"2003","massachusetts,marblehead",3790,10128,316
+"2004","massachusetts,marion",1244,2369,83
+"2005","massachusetts,marlborough",6100,12610,433
+"2006","massachusetts,marshfield",7498,9671,313
+"2007","massachusetts,mashpee",4086,5982,195
+"2008","massachusetts,mattapoisett",1888,2730,79
+"2009","massachusetts,maynard",1672,4942,172
+"2010","massachusetts,medfield",2374,5668,169
+"2011","massachusetts,medford",7566,23495,652
+"2012","massachusetts,medway",3004,5156,256
+"2013","massachusetts,melrose",4646,13213,382
+"2014","massachusetts,mendon",1774,2067,103
+"2015","massachusetts,merrimac",1725,2549,117
+"2016","massachusetts,methuen",11127,14328,464
+"2017","massachusetts,middleborough",7164,6324,369
+"2018","massachusetts,middlefield",124,199,11
+"2019","massachusetts,middleton",2966,2764,128
+"2020","massachusetts,milford",5544,8700,336
+"2021","massachusetts,millbury",3739,4196,227
+"2022","massachusetts,millis",2001,3502,136
+"2023","massachusetts,millville",976,821,51
+"2024","massachusetts,milton",4441,12862,351
+"2025","massachusetts,monroe",31,28,1
+"2026","massachusetts,monson",2588,2446,141
+"2027","massachusetts,montague",1211,3520,167
+"2028","massachusetts,monterey",102,481,9
+"2029","massachusetts,montgomery",312,246,6
+"2030","massachusetts,mount washington",16,102,7
+"2031","massachusetts,nahant",842,1629,53
+"2032","massachusetts,nantucket",1914,5241,151
+"2033","massachusetts,natick",4971,16330,475
+"2034","massachusetts,needham",4078,15573,462
+"2035","massachusetts,new ashford",48,98,5
+"2036","massachusetts,new bedford",12964,21267,646
+"2037","massachusetts,new braintree",337,319,15
+"2038","massachusetts,newbury",1754,3138,133
+"2039","massachusetts,newburyport",3253,9224,231
+"2040","massachusetts,new marlborough",264,678,17
+"2041","massachusetts,new salem",237,419,25
+"2042","massachusetts,newton",8357,40907,1031
+"2043","massachusetts,norfolk",2570,4100,183
+"2044","massachusetts,north adams",1600,4216,116
+"2045","massachusetts,northampton",1855,15649,421
+"2046","massachusetts,north andover",6548,11022,442
+"2047","massachusetts,north attleborough",7050,9724,417
+"2048","massachusetts,northborough",2913,6476,298
+"2049","massachusetts,northbridge",4244,4720,264
+"2050","massachusetts,north brookfield",1459,1181,75
+"2051","massachusetts,northfield",592,1211,52
+"2052","massachusetts,north reading",4116,5585,229
+"2053","massachusetts,norton",4735,5918,321
+"2054","massachusetts,norwell",2920,4291,175
+"2055","massachusetts,norwood",5824,11212,417
+"2056","massachusetts,oak bluffs",730,2420,59
+"2057","massachusetts,oakham",664,554,39
+"2058","massachusetts,orange",1699,1984,117
+"2059","massachusetts,orleans",1458,3288,96
+"2060","massachusetts,otis",441,550,23
+"2061","massachusetts,oxford",3765,3593,216
+"2062","massachusetts,palmer",3240,3108,155
+"2063","massachusetts,paxton",1268,1625,69
+"2064","massachusetts,peabody",12704,16860,526
+"2065","massachusetts,pelham",89,819,17
+"2066","massachusetts,pembroke",5263,6174,316
+"2067","massachusetts,pepperell",3205,3869,233
+"2068","massachusetts,peru",216,299,18
+"2069","massachusetts,petersham",321,528,23
+"2070","massachusetts,phillipston",607,465,22
+"2071","massachusetts,pittsfield",5017,16404,521
+"2072","massachusetts,plainfield",116,316,11
+"2073","massachusetts,plainville",2474,3196,153
+"2074","massachusetts,plymouth",15152,21266,918
+"2075","massachusetts,plympton",912,962,44
+"2076","massachusetts,princeton",977,1530,68
+"2077","massachusetts,provincetown",182,2402,29
+"2078","massachusetts,quincy",14340,30446,1007
+"2079","massachusetts,randolph",3523,13676,256
+"2080","massachusetts,raynham",4243,4372,196
+"2081","massachusetts,reading",5444,11134,374
+"2082","massachusetts,rehoboth",4076,3650,191
+"2083","massachusetts,revere",7203,13360,327
+"2084","massachusetts,richmond",215,828,14
+"2085","massachusetts,rochester",1991,1762,80
+"2086","massachusetts,rockland",4319,5400,275
+"2087","massachusetts,rockport",1306,3861,108
+"2088","massachusetts,rowe",113,152,2
+"2089","massachusetts,rowley",1942,2180,105
+"2090","massachusetts,royalston",357,408,22
+"2091","massachusetts,russell",512,366,41
+"2092","massachusetts,rutland",2667,2818,190
+"2093","massachusetts,salem",5433,18023,562
+"2094","massachusetts,salisbury",2597,2845,114
+"2095","massachusetts,sandisfield",200,306,9
+"2096","massachusetts,sandwich",6044,7739,278
+"2097","massachusetts,saugus",7543,8001,253
+"2098","massachusetts,savoy",161,226,12
+"2099","massachusetts,scituate",4614,8608,308
+"2100","massachusetts,seekonk",3970,4786,199
+"2101","massachusetts,sharon",2603,8778,236
+"2102","massachusetts,sheffield",578,1542,42
+"2103","massachusetts,shelburne",209,927,38
+"2104","massachusetts,sherborn",579,2267,117
+"2105","massachusetts,shirley",1493,2100,107
+"2106","massachusetts,shrewsbury",7058,13590,483
+"2107","massachusetts,shutesbury",144,1154,32
+"2108","massachusetts,somerset",5113,5815,194
+"2109","massachusetts,somerville",4283,37027,890
+"2110","massachusetts,southampton",1811,2231,152
+"2111","massachusetts,southborough",1851,4618,196
+"2112","massachusetts,southbridge",3022,4079,160
+"2113","massachusetts,south hadley",3230,6590,239
+"2114","massachusetts,southwick",3221,2360,151
+"2115","massachusetts,spencer",3287,2989,136
+"2116","massachusetts,springfield",13957,39361,1055
+"2117","massachusetts,sterling",2444,2841,166
+"2118","massachusetts,stockbridge",237,1099,27
+"2119","massachusetts,stoneham",5372,8676,274
+"2120","massachusetts,stoughton",5081,10254,288
+"2121","massachusetts,stow",1258,3551,155
+"2122","massachusetts,sturbridge",2515,3417,161
+"2123","massachusetts,sudbury",2691,9345,318
+"2124","massachusetts,sunderland",394,1605,51
+"2125","massachusetts,sutton",3081,3091,146
+"2126","massachusetts,swampscott",2555,6845,172
+"2127","massachusetts,swansea",5123,4736,175
+"2128","massachusetts,taunton",11148,14996,629
+"2129","massachusetts,templeton",2289,2061,145
+"2130","massachusetts,tewksbury",8783,9954,400
+"2131","massachusetts,tisbury",542,2225,68
+"2132","massachusetts,tolland",186,136,6
+"2133","massachusetts,topsfield",1602,2460,82
+"2134","massachusetts,townsend",2620,2687,169
+"2135","massachusetts,truro",340,1386,36
+"2136","massachusetts,tyngsborough",3375,4034,136
+"2137","massachusetts,tyringham",72,234,8
+"2138","massachusetts,upton",1988,3173,139
+"2139","massachusetts,uxbridge",4093,4351,283
+"2140","massachusetts,wakefield",6032,10215,376
+"2141","massachusetts,wales",619,429,39
+"2142","massachusetts,walpole",6243,9474,449
+"2143","massachusetts,waltham",7787,20424,685
+"2144","massachusetts,ware",2444,2353,154
+"2145","massachusetts,wareham",5518,6883,325
+"2146","massachusetts,warren",1375,1149,75
+"2147","massachusetts,warwick",160,343,20
+"2148","massachusetts,washington",107,240,6
+"2149","massachusetts,watertown",3801,14970,456
+"2150","massachusetts,wayland",1705,7344,253
+"2151","massachusetts,webster",4039,4046,213
+"2152","massachusetts,wellesley",3295,12630,417
+"2153","massachusetts,wellfleet",496,1971,49
+"2154","massachusetts,wendell",105,487,22
+"2155","massachusetts,wenham",765,1761,82
+"2156","massachusetts,westborough",2776,7569,291
+"2157","massachusetts,west boylston",1872,2788,142
+"2158","massachusetts,west bridgewater",2272,2224,129
+"2159","massachusetts,west brookfield",1127,1137,63
+"2160","massachusetts,westfield",9858,10200,627
+"2161","massachusetts,westford",4656,10229,413
+"2162","massachusetts,westhampton",426,746,23
+"2163","massachusetts,westminster",2477,2665,152
+"2164","massachusetts,west newbury",1061,2111,98
+"2165","massachusetts,weston",1712,5129,244
+"2166","massachusetts,westport",5018,5319,209
+"2167","massachusetts,west springfield",6067,7157,289
+"2168","massachusetts,west stockbridge",164,784,23
+"2169","massachusetts,west tisbury",338,1921,36
+"2170","massachusetts,westwood",3444,6832,269
+"2171","massachusetts,weymouth",12460,19615,752
+"2172","massachusetts,whately",332,745,30
+"2173","massachusetts,whitman",3882,4496,251
+"2174","massachusetts,wilbraham",4262,4928,207
+"2175","massachusetts,williamsburg",337,1446,39
+"2176","massachusetts,williamstown",499,3196,62
+"2177","massachusetts,wilmington",6448,8027,331
+"2178","massachusetts,winchendon",2661,2313,178
+"2179","massachusetts,winchester",3736,9777,357
+"2180","massachusetts,windsor",201,370,8
+"2181","massachusetts,winthrop",3770,6290,192
+"2182","massachusetts,woburn",8483,13530,405
+"2183","massachusetts,worcester",21169,48584,1617
+"2184","massachusetts,worthington",271,571,28
+"2185","massachusetts,wrentham",3319,4247,241
+"2186","massachusetts,yarmouth",5993,9149,310
+"2187","michigan,alcona",4848,2142,74
+"2188","michigan,alger",3014,2053,61
+"2189","michigan,allegan",41392,24449,1253
+"2190","michigan,alpena",10686,6000,283
+"2191","michigan,antrim",9748,5960,241
+"2192","michigan,arenac",5928,2774,129
+"2193","michigan,baraga",2512,1478,48
+"2194","michigan,barry",23471,11797,637
+"2195","michigan,bay",33125,26151,979
+"2196","michigan,benzie",6601,5480,181
+"2197","michigan,berrien",43519,37438,1434
+"2198","michigan,branch",14064,6159,313
+"2199","michigan,calhoun",36221,28877,1183
+"2200","michigan,cass",16699,9130,387
+"2201","michigan,charlevoix",9841,6939,220
+"2202","michigan,cheboygan",10186,5437,245
+"2203","michigan,chippewa",10681,6648,313
+"2204","michigan,clare",10861,5199,221
+"2205","michigan,clinton",25098,21968,861
+"2206","michigan,crawford",5087,2672,102
+"2207","michigan,delta",13207,7606,338
+"2208","michigan,dickinson",9617,4744,228
+"2209","michigan,eaton",31798,31299,1230
+"2210","michigan,emmet",12135,9662,380
+"2211","michigan,genesee",98714,119390,3256
+"2212","michigan,gladwin",9893,4524,186
+"2213","michigan,gogebic",4600,3570,96
+"2214","michigan,grand traverse",30502,28683,1051
+"2215","michigan,gratiot",12102,6693,332
+"2216","michigan,hillsdale",17037,5883,382
+"2217","michigan,houghton",10378,7750,373
+"2218","michigan,huron",12731,5490,216
+"2219","michigan,ingham",47639,94212,2699
+"2220","michigan,ionia",20657,10901,651
+"2221","michigan,iosco",9759,5373,231
+"2222","michigan,iron",4216,2493,80
+"2223","michigan,isabella",14815,14072,534
+"2224","michigan,jackson",47372,31995,1494
+"2225","michigan,kalamazoo",56823,83686,2905
+"2226","michigan,kalkaska",7436,3002,193
+"2227","michigan,kent",165741,187915,7392
+"2228","michigan,keweenaw",862,672,23
+"2229","michigan,lake",3946,2288,89
+"2230","michigan,lapeer",35482,16367,801
+"2231","michigan,leelanau",7916,8795,189
+"2232","michigan,lenawee",31541,20918,916
+"2233","michigan,livingston",76982,48220,1995
+"2234","michigan,luce",2109,842,50
+"2235","michigan,mackinac",4304,2632,79
+"2236","michigan,macomb",263863,223952,6441
+"2237","michigan,manistee",8321,6107,227
+"2238","michigan,marquette",16286,20465,711
+"2239","michigan,mason",10207,6802,245
+"2240","michigan,mecosta",13267,7375,407
+"2241","michigan,menominee",8117,4316,174
+"2242","michigan,midland",27675,20493,920
+"2243","michigan,missaukee",6648,1967,140
+"2244","michigan,monroe",52710,32975,1463
+"2245","michigan,montcalm",21815,9703,582
+"2246","michigan,montmorency",4171,1628,60
+"2247","michigan,muskegon",45133,45643,1668
+"2248","michigan,newaygo",18857,7873,431
+"2249","michigan,oakland",325971,434148,10232
+"2250","michigan,oceana",8892,4944,226
+"2251","michigan,ogemaw",8253,3475,179
+"2252","michigan,ontonagon",2358,1391,55
+"2253","michigan,osceola",8928,3214,187
+"2254","michigan,oscoda",3466,1342,66
+"2255","michigan,otsego",9779,4743,235
+"2256","michigan,ottawa",100913,64705,3095
+"2257","michigan,presque isle",5342,2911,91
+"2258","michigan,roscommon",9670,5166,182
+"2259","michigan,saginaw",50785,51088,1476
+"2260","michigan,st. clair",59185,31363,1516
+"2261","michigan,st. joseph",18127,9262,547
+"2262","michigan,sanilac",16194,5966,286
+"2263","michigan,schoolcraft",3090,1589,66
+"2264","michigan,shiawassee",23149,15347,728
+"2265","michigan,tuscola",20297,8712,436
+"2266","michigan,van buren",21591,16803,672
+"2267","michigan,washtenaw",56241,157136,3041
+"2268","michigan,wayne",264553,597170,10746
+"2269","michigan,wexford",12102,5838,325
+"2270","minnesota,aitkin",6258,3607,160
+"2271","minnesota,anoka",104902,100893,5337
+"2272","minnesota,becker99% in",12438,6589,374
+"2273","minnesota,beltrami95% in",12188,11426,575
+"2274","minnesota,benton95% in",14382,7280,598
+"2275","minnesota,big stone95% in",1863,1053,58
+"2276","minnesota,blue earth91.3% in",16731,18330,990
+"2277","minnesota,brown95% in",9552,4753,330
+"2278","minnesota,carlton99% in",9791,10098,480
+"2279","minnesota,carver99% in",34009,30774,1578
+"2280","minnesota,cass95% in",11620,6342,327
+"2281","minnesota,chippewa95% in",4250,2226,135
+"2282","minnesota,chisago95% in",21916,11806,848
+"2283","minnesota,clay94.5% in",15043,16357,839
+"2284","minnesota,clearwater95% in",3372,1260,76
+"2285","minnesota,cook95% in",1203,2496,107
+"2286","minnesota,cottonwood94.8% in",4165,1834,108
+"2287","minnesota,crow wing95% in",25676,13726,771
+"2288","minnesota,dakota95% in",109638,146155,6466
+"2289","minnesota,dodge95% in",7783,4079,325
+"2290","minnesota,douglas95% in",15799,7868,498
+"2291","minnesota,faribault95% in",5191,2531,192
+"2292","minnesota,fillmore95% in",7301,4551,289
+"2293","minnesota,freeborn94.5% in",9578,6889,351
+"2294","minnesota,goodhue95% in",16052,11806,778
+"2295","minnesota,grant95% in",2269,1300,85
+"2296","minnesota,hennepin95% in",205973,532623,17373
+"2297","minnesota,houston95% in",6334,4853,253
+"2298","minnesota,hubbard95% in",8202,4462,301
+"2299","minnesota,isanti95% in",16491,7138,606
+"2300","minnesota,itasca99% in",15239,10786,536
+"2301","minnesota,jackson95% in",3948,1745,126
+"2302","minnesota,kanabec95% in",6278,2774,190
+"2303","minnesota,kandiyohi95% in",14437,8440,490
+"2304","minnesota,kittson99% in",1546,1006,87
+"2305","minnesota,koochiching95% in",4131,2659,132
+"2306","minnesota,lac qui parle94.7% in",2528,1446,66
+"2307","minnesota,lake91.3% in",3393,3647,162
+"2308","minnesota,lake of the woods95% in",1704,671,33
+"2309","minnesota,le sueur95% in",10775,5672,371
+"2310","minnesota,lincoln93.2% in",2121,937,57
+"2311","minnesota,lyon99% in",7979,4634,280
+"2312","minnesota,mcleod95% in",13986,6413,534
+"2313","minnesota,mahnomen99% in",1142,1112,50
+"2314","minnesota,marshall95% in",3721,1295,97
+"2315","minnesota,martin94.2% in",7480,3305,224
+"2316","minnesota,meeker95% in",9359,3867,303
+"2317","minnesota,mille lacs99% in",9952,4404,333
+"2318","minnesota,morrison95% in",14821,4367,370
+"2319","minnesota,mower95% in",10025,8899,421
+"2320","minnesota,murray95% in",3363,1449,84
+"2321","minnesota,nicollet90.2% in",9018,9622,485
+"2322","minnesota,nobles99% in",5600,2933,182
+"2323","minnesota,norman95% in",1953,1404,84
+"2324","minnesota,olmsted95% in",39692,49491,2202
+"2325","minnesota,otter tail95% in",23800,11958,641
+"2326","minnesota,pennington95% in",4532,2568,177
+"2327","minnesota,pine95% in",10256,5419,326
+"2328","minnesota,pipestone99% in",3553,1306,81
+"2329","minnesota,polk95% in",9865,5439,290
+"2330","minnesota,pope95% in",4417,2477,128
+"2331","minnesota,ramsey91.9% in",77376,211620,6981
+"2332","minnesota,red lake99% in",1454,691,51
+"2333","minnesota,redwood99% in",5771,2355,158
+"2334","minnesota,renville99% in",5467,2496,165
+"2335","minnesota,rice94.8% in",17464,17402,820
+"2336","minnesota,rock99% in",3583,1556,101
+"2337","minnesota,roseau95% in",6065,2188,168
+"2338","minnesota,st. louis89.5% in",49017,67704,2810
+"2339","minnesota,scott95% in",45872,40040,2053
+"2340","minnesota,sherburne95% in",36222,18065,1325
+"2341","minnesota,sibley95% in",5864,2417,171
+"2342","minnesota,stearns91.9% in",50959,31879,1997
+"2343","minnesota,steele95% in",12656,7917,555
+"2344","minnesota,stevens99% in",3044,1922,119
+"2345","minnesota,swift95% in",3316,1784,93
+"2346","minnesota,todd95% in",9753,3286,218
+"2347","minnesota,traverse94.3% in",1172,661,31
+"2348","minnesota,wabasha95% in",8153,4696,274
+"2349","minnesota,wadena95% in",5520,2023,134
+"2350","minnesota,waseca99% in",6624,3496,269
+"2351","minnesota,washington95% in",73764,89165,3857
+"2352","minnesota,watonwan95% in",3103,1987,111
+"2353","minnesota,wilkin95% in",2328,1026,76
+"2354","minnesota,winona86.4% in",13227,13333,613
+"2355","minnesota,wright95% in",51973,28430,2023
+"2356","minnesota,yellow medicine95% in",3734,1688,106
+"2357","mississippi,adams99% in",5696,7917,146
+"2358","mississippi,alcorn",12818,2782,213
+"2359","mississippi,amite",4503,2620,84
+"2360","mississippi,attala",5178,3542,112
+"2361","mississippi,benton",2570,1679,43
+"2362","mississippi,bolivar",4671,8904,180
+"2363","mississippi,calhoun",4625,1902,68
+"2364","mississippi,carroll95% in",3924,1729,52
+"2365","mississippi,chickasaw",4175,3810,163
+"2366","mississippi,choctaw",3001,1185,39
+"2367","mississippi,claiborne",603,3772,78
+"2368","mississippi,clarke",5417,2838,92
+"2369","mississippi,clay",4181,5844,181
+"2370","mississippi,coahoma",2375,6020,112
+"2371","mississippi,copiah",6250,6470,177
+"2372","mississippi,covington",5854,3416,101
+"2373","mississippi,desoto",46462,28265,1521
+"2374","mississippi,forrest",17290,13755,680
+"2375","mississippi,franklin",2923,1480,61
+"2376","mississippi,george",9713,1218,133
+"2377","mississippi,greene",4794,966,56
+"2378","mississippi,grenada95% in",6081,4734,104
+"2379","mississippi,hancock",16132,4504,321
+"2380","mississippi,harrison",46822,27728,1315
+"2381","mississippi,hinds85.5% in",25141,73550,1500
+"2382","mississippi,holmes99% in",1369,6588,158
+"2383","mississippi,humphreys",1118,3016,55
+"2384","mississippi,issaquena",308,355,13
+"2385","mississippi,itawamba",9438,1249,139
+"2386","mississippi,jackson",36295,17375,953
+"2387","mississippi,jasper",4302,4341,99
+"2388","mississippi,jefferson",531,3327,53
+"2389","mississippi,jeff davis",2534,3599,80
+"2390","mississippi,jones",21226,8517,348
+"2391","mississippi,kemper",1787,2887,58
+"2392","mississippi,lafayette",12949,10070,462
+"2393","mississippi,lamar",20704,7340,482
+"2394","mississippi,lauderdale",17967,12960,339
+"2395","mississippi,lawrence99% in",4285,2260,72
+"2396","mississippi,leake",5228,3897,79
+"2397","mississippi,lee95% in",24207,12189,607
+"2398","mississippi,leflore99% in",3129,7648,116
+"2399","mississippi,lincoln",11596,5040,182
+"2400","mississippi,lowndes",13800,13087,387
+"2401","mississippi,madison",31091,24440,804
+"2402","mississippi,marion",8273,3787,134
+"2403","mississippi,marshall",7566,8057,207
+"2404","mississippi,monroe",11177,5874,228
+"2405","mississippi,montgomery",2917,2121,40
+"2406","mississippi,neshoba",8320,3260,140
+"2407","mississippi,newton",6997,3075,117
+"2408","mississippi,noxubee",1240,4040,61
+"2409","mississippi,oktibbeha",9004,10299,509
+"2410","mississippi,panola",8060,7403,172
+"2411","mississippi,pearl river",19595,4148,313
+"2412","mississippi,perry",4500,1362,60
+"2413","mississippi,pike",8479,8646,235
+"2414","mississippi,pontotoc",11550,2614,213
+"2415","mississippi,prentiss",8370,2153,138
+"2416","mississippi,quitman",1026,2150,53
+"2417","mississippi,rankin",50895,18847,913
+"2418","mississippi,scott",6285,4330,129
+"2419","mississippi,sharkey",688,1465,30
+"2420","mississippi,simpson",7635,4037,148
+"2421","mississippi,smith",6458,1791,78
+"2422","mississippi,stone",5964,1802,112
+"2423","mississippi,sunflower",2799,6781,103
+"2424","mississippi,tallahatchie",2488,3105,98
+"2425","mississippi,tate",8707,4183,211
+"2426","mississippi,tippah",8054,1937,111
+"2427","mississippi,tishomingo",7933,1059,155
+"2428","mississippi,tunica",926,2580,59
+"2429","mississippi,union",10373,2160,150
+"2430","mississippi,walthall95% in",4220,2835,67
+"2431","mississippi,warren",10365,10442,249
+"2432","mississippi,washington95% in",5300,12503,222
+"2433","mississippi,wayne",6307,3624,135
+"2434","mississippi,webster",4291,1043,68
+"2435","mississippi,wilkinson",1324,2749,57
+"2436","mississippi,winston",5112,4040,92
+"2437","mississippi,yalobusha",3671,2785,82
+"2438","mississippi,yazoo",4832,5496,113
+"2439","missouri,adair",6413,3710,213
+"2440","missouri,andrew",7255,2351,146
+"2441","missouri,atchison",2199,564,51
+"2442","missouri,audrain",7732,2704,220
+"2443","missouri,barry",12425,2948,225
+"2444","missouri,barton",5168,844,65
+"2445","missouri,bates",6597,1672,147
+"2446","missouri,benton",8109,2180,187
+"2447","missouri,bollinger",5167,750,70
+"2448","missouri,boone",38646,50064,2458
+"2449","missouri,buchanan",22450,13445,703
+"2450","missouri,butler",14602,3301,238
+"2451","missouri,caldwell",3725,897,60
+"2452","missouri,callaway",14815,5870,459
+"2453","missouri,camden",18850,5652,310
+"2454","missouri,cape girardeau",28907,10760,661
+"2455","missouri,carroll",3706,786,40
+"2456","missouri,carter",2451,418,28
+"2457","missouri,cass",37197,19052,1159
+"2458","missouri,cedar",5788,1145,111
+"2459","missouri,chariton",3111,916,50
+"2460","missouri,christian",34920,11131,788
+"2461","missouri,clark",2672,678,44
+"2462","missouri,clay",64605,59400,2564
+"2463","missouri,clinton",7799,2896,193
+"2464","missouri,cole",26086,12694,749
+"2465","missouri,cooper",6272,2249,172
+"2466","missouri,crawford",8725,2113,135
+"2467","missouri,dade",3414,656,49
+"2468","missouri,dallas",6619,1380,105
+"2469","missouri,daviess",3102,746,63
+"2470","missouri,dekalb",3828,930,85
+"2471","missouri,dent",5987,1056,99
+"2472","missouri,douglas",5898,1016,86
+"2473","missouri,dunklin",8135,2200,84
+"2474","missouri,franklin",38058,14569,1058
+"2475","missouri,gasconade",6222,1601,100
+"2476","missouri,gentry",2581,613,43
+"2477","missouri,greene",83630,55068,3102
+"2478","missouri,grundy",3585,799,53
+"2479","missouri,harrison",3198,597,31
+"2480","missouri,henry",8027,2619,142
+"2481","missouri,hickory",3966,1056,58
+"2482","missouri,holt",1976,338,29
+"2483","missouri,howard",3553,1413,126
+"2484","missouri,howell",15181,3218,251
+"2485","missouri,iron",3596,945,51
+"2486","missouri,jackson",126535,199842,6686
+"2487","missouri,jasper",37728,13549,1075
+"2488","missouri,jefferson",77046,37523,2119
+"2489","missouri,johnson",15489,6974,660
+"2490","missouri,knox",1486,340,28
+"2491","missouri,laclede",13762,2780,251
+"2492","missouri,lafayette",12273,4472,310
+"2493","missouri,lawrence",14426,3214,265
+"2494","missouri,lewis",3553,984,82
+"2495","missouri,lincoln",21848,6607,563
+"2496","missouri,linn",4363,1275,88
+"2497","missouri,livingston",5267,1410,81
+"2498","missouri,mcdonald",7465,1439,149
+"2499","missouri,macon",6076,1662,98
+"2500","missouri,madison",4584,1019,73
+"2501","missouri,maries",3892,814,65
+"2502","missouri,marion",9915,3202,231
+"2503","missouri,mercer",1541,222,16
+"2504","missouri,miller",10176,2038,168
+"2505","missouri,mississippi",3537,1178,41
+"2506","missouri,moniteau",5744,1308,105
+"2507","missouri,monroe",3477,936,72
+"2508","missouri,montgomery",4465,1208,107
+"2509","missouri,morgan",7442,1924,121
+"2510","missouri,new madrid",5447,1748,55
+"2511","missouri,newton",22120,5818,467
+"2512","missouri,nodaway",6865,2853,175
+"2513","missouri,oregon",3847,823,69
+"2514","missouri,osage",6425,1037,77
+"2515","missouri,ozark",4064,752,48
+"2516","missouri,pemiscot",4120,1560,55
+"2517","missouri,perry",7657,1664,126
+"2518","missouri,pettis",13854,4783,460
+"2519","missouri,phelps",13480,5637,451
+"2520","missouri,pike",5863,1717,115
+"2521","missouri,platte",28917,27179,1174
+"2522","missouri,polk",11850,2885,329
+"2523","missouri,pulaski",10329,3740,359
+"2524","missouri,putnam",1984,361,16
+"2525","missouri,ralls",4396,1205,61
+"2526","missouri,randolph",8018,2485,241
+"2527","missouri,ray",8345,3109,195
+"2528","missouri,reynolds",2733,529,36
+"2529","missouri,ripley",4839,833,45
+"2530","missouri,st. charles",128389,89530,4098
+"2531","missouri,st. clair",3932,988,54
+"2532","missouri,st. francois",20511,7044,446
+"2533","missouri,st. louis county",199493,328151,8802
+"2534","missouri,st. louis city",21474,110089,2304
+"2535","missouri,ste. genevieve",6630,2713,141
+"2536","missouri,saline",6451,2904,164
+"2537","missouri,schuyler",1606,373,24
+"2538","missouri,scotland",1560,388,36
+"2539","missouri,scott",13769,3753,197
+"2540","missouri,shannon",3165,706,35
+"2541","missouri,shelby",2700,592,58
+"2542","missouri,stoddard",11484,1819,123
+"2543","missouri,stone",14800,3506,177
+"2544","missouri,sullivan",1974,478,19
+"2545","missouri,taney",20508,5339,441
+"2546","missouri,texas",9478,1716,121
+"2547","missouri,vernon",7155,1903,127
+"2548","missouri,warren",13222,4769,384
+"2549","missouri,washington",8047,1804,125
+"2550","missouri,wayne",4987,845,46
+"2551","missouri,webster",14880,3573,330
+"2552","missouri,worth",877,215,15
+"2553","missouri,wright",7453,1168,122
+"2554","montana,beaverhead99.9% in",3923,1608,130
+"2555","montana,big horn99.8% in",2207,2491,86
+"2556","montana,blaine99.4% in",1469,1589,59
+"2557","montana,broadwater99.7% in",3173,835,89
+"2558","montana,carbon",4468,2421,212
+"2559","montana,carter",775,74,15
+"2560","montana,cascade99.6% in",23315,15456,1114
+"2561","montana,chouteau99.4% in",1891,991,92
+"2562","montana,custer",4205,1514,164
+"2563","montana,daniels98.4% in",799,195,20
+"2564","montana,dawson",3758,962,117
+"2565","montana,deer lodge",2186,2562,143
+"2566","montana,fallon99.9% in",1375,172,28
+"2567","montana,fergus",4869,1496,166
+"2568","montana,flathead",38321,20274,1663
+"2569","montana,gallatin",31696,37044,2767
+"2570","montana,garfield",764,41,8
+"2571","montana,glacier98.6% in",1884,3610,145
+"2572","montana,golden valley99.8% in",414,78,11
+"2573","montana,granite",1419,638,45
+"2574","montana,hill99.4% in",3957,2981,244
+"2575","montana,jefferson",5345,2625,221
+"2576","montana,judith basin99.7% in",1040,275,29
+"2577","montana,lake",9322,6916,388
+"2578","montana,lewis and clark99.9% in",21409,19743,1333
+"2579","montana,liberty99.5% in",821,249,13
+"2580","montana,lincoln",8672,2835,240
+"2581","montana,mccone",956,155,17
+"2582","montana,madison99.9% in",4191,1771,151
+"2583","montana,meagher99.3% in",833,258,19
+"2584","montana,mineral",1828,686,49
+"2585","montana,missoula",26347,43357,2282
+"2586","montana,musselshell",2423,413,45
+"2587","montana,park",6025,5280,313
+"2588","montana,petroleum",298,39,14
+"2589","montana,phillips",1936,416,34
+"2590","montana,pondera99.7% in",2031,903,61
+"2591","montana,powder river99.9% in",970,154,12
+"2592","montana,powell",2355,752,88
+"2593","montana,prairie99.6% in",603,126,15
+"2594","montana,ravalli99.8% in",19114,8763,630
+"2595","montana,richland",4800,875,123
+"2596","montana,roosevelt99.9% in",1996,1910,122
+"2597","montana,rosebud",2486,1199,99
+"2598","montana,sanders",5660,1820,172
+"2599","montana,sheridan",1403,574,53
+"2600","montana,silver bow",7745,10392,690
+"2601","montana,stillwater99.9% in",4462,1156,123
+"2602","montana,sweet grass99.5% in",1840,549,57
+"2603","montana,teton99.7% in",2608,1007,80
+"2604","montana,toole",1596,467,60
+"2605","montana,treasure99.1% in",373,78,9
+"2606","montana,valley",3135,1030,107
+"2607","montana,wheatland",823,225,20
+"2608","montana,wibaux",516,77,5
+"2609","montana,yellowstone99.7% in",50772,30679,2370
+"2610","nebraska,adams",10085,43,750
+"2611","nebraska,antelope",3093,35,48
+"2612","nebraska,arthur",260,499,114
+"2613","nebraska,banner",362,1051,1923
+"2614","nebraska,blaine",280,135,321
+"2615","nebraska,boone",2653,191,270
+"2616","nebraska,box butte",4002,6350,1290
+"2617","nebraska,boyd",1010,1063,324
+"2618","nebraska,brown",1470,873,117
+"2619","nebraska,buffalo",16640,4737,171
+"2620","nebraska,burt",2580,725,315
+"2621","nebraska,butler",3542,226,285
+"2622","nebraska,cass",10121,373,237
+"2623","nebraska,cedar",4174,855,312
+"2624","nebraska,chase",1740,632,390
+"2625","nebraska,cherry",2844,1025,378
+"2626","nebraska,cheyenne",3813,870,357
+"2627","nebraska,clay",2848,786,657
+"2628","nebraska,colfax",2636,2744,4827
+"2629","nebraska,cuming",3507,1082,303
+"2630","nebraska,custer",5090,2497,1086
+"2631","nebraska,dakota",3926,141,16338
+"2632","nebraska,dawes",2931,651,51
+"2633","nebraska,dawson",6524,5544,249
+"2634","nebraska,deuel",871,150350,186
+"2635","nebraska,dixon",2335,105,81
+"2636","nebraska,dodge",10984,693,120
+"2637","nebraska,douglas",119159,276,723
+"2638","nebraska,dundy",883,189,54
+"2639","nebraska,fillmore",2359,399,30
+"2640","nebraska,franklin",1437,3385,258
+"2641","nebraska,frontier",1229,161,120
+"2642","nebraska,furnas",2163,133,57
+"2643","nebraska,gage",7445,215,1518
+"2644","nebraska,garden",1016,20,321
+"2645","nebraska,garfield",933,229,132
+"2646","nebraska,gosper",893,7681,18
+"2647","nebraska,grant",375,1118,120
+"2648","nebraska,greeley",1016,282,288
+"2649","nebraska,hall",16189,34,33
+"2650","nebraska,hamilton",4309,175,240
+"2651","nebraska,harlan",1615,686,267
+"2652","nebraska,hayes",494,59,195
+"2653","nebraska,hitchcock",1264,648,252
+"2654","nebraska,holt",4769,1016,204
+"2655","nebraska,hooker",376,647,3384
+"2656","nebraska,howard",2786,701,297
+"2657","nebraska,jefferson",2616,763,213
+"2658","nebraska,johnson",1518,49,11118
+"2659","nebraska,kearney",2822,268,1032
+"2660","nebraska,keith",3544,905,177
+"2661","nebraska,keya paha",476,82293,102
+"2662","nebraska,kimball",1563,3692,33
+"2663","nebraska,knox",3721,38,1053
+"2664","nebraska,lancaster",70092,75,312
+"2665","nebraska,lincoln",13071,17,180
+"2666","nebraska,logan",407,3478,216
+"2667","nebraska,loup",370,743,222
+"2668","nebraska,mcpherson",275,386,114
+"2669","nebraska,madison",11940,359,564
+"2670","nebraska,merrick",3419,921,126
+"2671","nebraska,morrill",2113,409,216
+"2672","nebraska,nance",1437,2490,324
+"2673","nebraska,nemaha",2428,322,246
+"2674","nebraska,nuckolls",1857,199,705
+"2675","nebraska,otoe",5649,752,177
+"2676","nebraska,pawnee",1071,480,378
+"2677","nebraska,perkins",1321,3260,1731
+"2678","nebraska,phelps",4157,530,192
+"2679","nebraska,pierce",3462,811,624
+"2680","nebraska,platte",12186,996,7635
+"2681","nebraska,polk",2291,84,924
+"2682","nebraska,red willow",4525,1986,969
+"2683","nebraska,richardson",3073,41206,648
+"2684","nebraska,rock",744,3331,132
+"2685","nebraska,saline",3631,4196,126
+"2686","nebraska,sarpy",51979,2438,45
+"2687","nebraska,saunders",9108,340,366
+"2688","nebraska,scotts bluff",10952,343,156
+"2689","nebraska,seward",6490,72,177
+"2690","nebraska,sheridan",2292,532,123
+"2691","nebraska,sherman",1322,624,81
+"2692","nebraska,sioux",642,45,831
+"2693","nebraska,stanton",2561,1122,423
+"2694","nebraska,thayer",2308,412,540960
+"2695","nebraska,thomas",377,3554,463146
+"2696","nebraska,thurston",1180,1022,667065
+"2697","nebraska,valley",1901,335,396936
+"2698","nebraska,washington",8583,59,529404
+"2699","nebraska,wayne",3055,1630,197565
+"2700","nebraska,webster",1511,304,22488
+"2701","nebraska,wheeler",438,38,20727
+"2702","nebraska,york",5337,3,17664
+"2703","nebraska,ne electoral vote district 1",4213,5,4986
+"2704","nebraska,ne electoral vote district 2",452,2,5742
+"2705","nebraska,ne electoral vote district 3",21,65,2727
+"2706","nevada,carson city",16113,12735,891
+"2707","nevada,churchill",9372,3051,467
+"2708","nevada,clark",430930,521852,19728
+"2709","nevada,douglas",21630,11571,924
+"2710","nevada,elko",16741,4557,669
+"2711","nevada,esmeralda",400,74,13
+"2712","nevada,eureka",895,105,17
+"2713","nevada,humboldt",5877,1689,205
+"2714","nevada,lander",2198,496,71
+"2715","nevada,lincoln",2067,330,49
+"2716","nevada,lyon",20914,8473,851
+"2717","nevada,mineral",1423,829,83
+"2718","nevada,nye",17528,7288,562
+"2719","nevada,pershing",1731,547,42
+"2720","nevada,storey",1908,902,67
+"2721","nevada,washoe",116760,128128,7254
+"2722","nevada,white pine",3403,859,107
+"2723","new-hampshire,acworth",269,293,7
+"2724","new-hampshire,albany",190,250,9
+"2725","new-hampshire,alexandria",616,440,24
+"2726","new-hampshire,allenstown",1233,1050,42
+"2727","new-hampshire,alstead",477,684,28
+"2728","new-hampshire,alton",2420,1438,45
+"2729","new-hampshire,amherst",3208,4796,133
+"2730","new-hampshire,andover",726,844,25
+"2731","new-hampshire,antrim",779,761,44
+"2732","new-hampshire,ashland",562,632,24
+"2733","new-hampshire,atkinson",2795,2250,59
+"2734","new-hampshire,auburn",2265,1619,46
+"2735","new-hampshire,barnstead",1698,1150,74
+"2736","new-hampshire,barrington",2733,3142,129
+"2737","new-hampshire,bartlett",773,1374,23
+"2738","new-hampshire,bath",353,259,11
+"2739","new-hampshire,bedford",7052,7521,166
+"2740","new-hampshire,belmont",2365,1609,78
+"2741","new-hampshire,bennington",424,395,18
+"2742","new-hampshire,benton",143,89,3
+"2743","new-hampshire,berlin",1852,2147,66
+"2744","new-hampshire,bethlehem",620,1021,30
+"2745","new-hampshire,boscawen",1064,931,45
+"2746","new-hampshire,bow",2167,3256,89
+"2747","new-hampshire,bradford",478,563,32
+"2748","new-hampshire,brentwood",1372,1505,37
+"2749","new-hampshire,bridgewater",472,364,21
+"2750","new-hampshire,bristol",994,842,35
+"2751","new-hampshire,brookfield",315,218,12
+"2752","new-hampshire,brookline",1647,1903,78
+"2753","new-hampshire,campton",964,1120,45
+"2754","new-hampshire,canaan",890,1162,34
+"2755","new-hampshire,candia",1702,1039,48
+"2756","new-hampshire,canterbury",718,1009,27
+"2757","new-hampshire,carroll",267,266,5
+"2758","new-hampshire,center harbor",407,379,6
+"2759","new-hampshire,charlestown",1239,1185,57
+"2760","new-hampshire,chatham",130,106,8
+"2761","new-hampshire,chester",1951,1465,53
+"2762","new-hampshire,chesterfield",958,1390,44
+"2763","new-hampshire,chichester",930,770,36
+"2764","new-hampshire,claremont",2788,2895,130
+"2765","new-hampshire,clarksville",108,72,3
+"2766","new-hampshire,colebrook",630,418,26
+"2767","new-hampshire,columbia",235,114,2
+"2768","new-hampshire,concord",7983,15511,381
+"2769","new-hampshire,conway",2465,3411,90
+"2770","new-hampshire,cornish",408,679,22
+"2771","new-hampshire,croydon",319,172,22
+"2772","new-hampshire,dalton",295,231,2
+"2773","new-hampshire,danbury",414,290,21
+"2774","new-hampshire,danville",1686,1082,48
+"2775","new-hampshire,deerfield",1786,1360,75
+"2776","new-hampshire,deering",670,462,26
+"2777","new-hampshire,derry",9412,8215,267
+"2778","new-hampshire,dixville",0,5,0
+"2779","new-hampshire,dorchester",124,105,4
+"2780","new-hampshire,dover",6331,12508,390
+"2781","new-hampshire,dublin",404,687,18
+"2782","new-hampshire,dummer",113,67,4
+"2783","new-hampshire,dunbarton",1121,877,32
+"2784","new-hampshire,durham",1712,5970,128
+"2785","new-hampshire,east kingston",889,781,22
+"2786","new-hampshire,easton",64,167,3
+"2787","new-hampshire,eaton",117,188,4
+"2788","new-hampshire,effingham",526,391,9
+"2789","new-hampshire,ellsworth",32,45,1
+"2790","new-hampshire,enfield",930,1777,58
+"2791","new-hampshire,epping",2311,2047,79
+"2792","new-hampshire,epsom",1702,1180,45
+"2793","new-hampshire,errol",148,74,1
+"2794","new-hampshire,exeter",3321,6820,195
+"2795","new-hampshire,farmington",2000,1365,68
+"2796","new-hampshire,fitzwilliam",682,666,19
+"2797","new-hampshire,francestown",534,592,26
+"2798","new-hampshire,franconia",248,542,11
+"2799","new-hampshire,franklin",2281,1804,93
+"2800","new-hampshire,freedom",538,538,14
+"2801","new-hampshire,fremont",1635,1151,53
+"2802","new-hampshire,gilford",2748,2508,57
+"2803","new-hampshire,gilmanton",1423,1020,57
+"2804","new-hampshire,gilsum",263,240,13
+"2805","new-hampshire,goffstown",5040,4967,189
+"2806","new-hampshire,gorham",748,906,32
+"2807","new-hampshire,goshen",284,186,11
+"2808","new-hampshire,grafton",423,345,16
+"2809","new-hampshire,grantham",747,1669,31
+"2810","new-hampshire,greenfield",466,529,15
+"2811","new-hampshire,greenland",1160,1723,36
+"2812","new-hampshire,greenville",532,501,21
+"2813","new-hampshire,groton",232,142,6
+"2814","new-hampshire,hampstead",3303,2494,100
+"2815","new-hampshire,hampton",5212,6150,140
+"2816","new-hampshire,hampton falls",863,845,12
+"2817","new-hampshire,hancock",408,875,15
+"2818","new-hampshire,hanover",841,6210,66
+"2819","new-hampshire,harrisville",201,553,6
+"2820","new-hampshire,harts location",20,23,0
+"2821","new-hampshire,haverhill",1180,925,39
+"2822","new-hampshire,hebron",267,239,17
+"2823","new-hampshire,henniker",1075,1569,67
+"2824","new-hampshire,hill",403,224,8
+"2825","new-hampshire,hillsborough",1722,1475,79
+"2826","new-hampshire,hinsdale",829,1048,38
+"2827","new-hampshire,holderness",569,890,22
+"2828","new-hampshire,hollis",2468,3277,80
+"2829","new-hampshire,hooksett",4387,4060,138
+"2830","new-hampshire,hopkinton",1400,2688,75
+"2831","new-hampshire,hudson",7744,6632,265
+"2832","new-hampshire,jackson",212,567,7
+"2833","new-hampshire,jaffrey",1410,1528,80
+"2834","new-hampshire,jefferson",394,257,11
+"2835","new-hampshire,keene",3758,8950,221
+"2836","new-hampshire,kensington",726,805,26
+"2837","new-hampshire,kingston",2311,1731,60
+"2838","new-hampshire,laconia",4642,4141,172
+"2839","new-hampshire,lancaster",874,817,44
+"2840","new-hampshire,landaff",155,126,4
+"2841","new-hampshire,langdon",199,206,7
+"2842","new-hampshire,lebanon",1954,5895,100
+"2843","new-hampshire,lee",971,1957,48
+"2844","new-hampshire,lempster",440,274,12
+"2845","new-hampshire,lincoln",397,513,13
+"2846","new-hampshire,lisbon",431,353,13
+"2847","new-hampshire,litchfield",2824,2497,89
+"2848","new-hampshire,littleton",1507,1557,51
+"2849","new-hampshire,londonderry",7905,7738,230
+"2850","new-hampshire,loudon",2152,1489,84
+"2851","new-hampshire,lyman",208,174,3
+"2852","new-hampshire,lyme",218,1074,13
+"2853","new-hampshire,lyndeborough",541,564,33
+"2854","new-hampshire,madbury",454,824,34
+"2855","new-hampshire,madison",760,926,17
+"2856","new-hampshire,manchester",22127,29464,1015
+"2857","new-hampshire,marlborough",441,806,26
+"2858","new-hampshire,marlow",207,277,12
+"2859","new-hampshire,mason",535,380,34
+"2860","new-hampshire,meredith",2208,2139,60
+"2861","new-hampshire,merrimack",7669,8725,303
+"2862","new-hampshire,middleton",643,378,21
+"2863","new-hampshire,milan",437,345,12
+"2864","new-hampshire,milford",4123,4644,194
+"2865","new-hampshire,millsfield",16,5,0
+"2866","new-hampshire,milton",1476,1015,48
+"2867","new-hampshire,monroe",309,227,8
+"2868","new-hampshire,mont vernon",730,1011,37
+"2869","new-hampshire,moultonborough",1997,1605,62
+"2870","new-hampshire,nashua",17806,26770,705
+"2871","new-hampshire,nelson",164,275,12
+"2872","new-hampshire,new boston",2036,1826,72
+"2873","new-hampshire,newbury",726,905,36
+"2874","new-hampshire,new castle",281,619,4
+"2875","new-hampshire,new durham",1109,727,32
+"2876","new-hampshire,newfields",512,719,24
+"2877","new-hampshire,new hampton",810,697,32
+"2878","new-hampshire,newington",325,304,10
+"2879","new-hampshire,new ipswich",2099,962,62
+"2880","new-hampshire,new london",1059,2081,54
+"2881","new-hampshire,newmarket",1925,3953,126
+"2882","new-hampshire,newport",1773,1301,64
+"2883","new-hampshire,newton",1680,1277,37
+"2884","new-hampshire,northfield",1435,1122,62
+"2885","new-hampshire,north hampton",1455,1987,42
+"2886","new-hampshire,northumberland",614,424,18
+"2887","new-hampshire,northwood",1483,1329,69
+"2888","new-hampshire,nottingham",1641,1769,86
+"2889","new-hampshire,orange",110,80,6
+"2890","new-hampshire,orford",269,539,15
+"2891","new-hampshire,ossipee",1487,965,67
+"2892","new-hampshire,pelham",5253,3480,121
+"2893","new-hampshire,pembroke",2057,2189,79
+"2894","new-hampshire,peterborough",1246,3090,64
+"2895","new-hampshire,piermont",194,241,5
+"2896","new-hampshire,pittsburg",380,158,7
+"2897","new-hampshire,pittsfield",1230,807,58
+"2898","new-hampshire,plainfield",522,1135,28
+"2899","new-hampshire,plaistow",2504,2045,68
+"2900","new-hampshire,plymouth",1123,2214,78
+"2901","new-hampshire,portsmouth",3836,10663,202
+"2902","new-hampshire,randolph",83,186,8
+"2903","new-hampshire,raymond",3517,2378,105
+"2904","new-hampshire,richmond",413,292,14
+"2905","new-hampshire,rindge",2144,1443,71
+"2906","new-hampshire,rochester",8367,8132,408
+"2907","new-hampshire,rollinsford",735,951,50
+"2908","new-hampshire,roxbury",52,92,0
+"2909","new-hampshire,rumney",527,410,19
+"2910","new-hampshire,rye",1620,2781,64
+"2911","new-hampshire,salem",9969,7638,234
+"2912","new-hampshire,salisbury",517,380,28
+"2913","new-hampshire,sanbornton",1134,875,36
+"2914","new-hampshire,sandown",2273,1632,70
+"2915","new-hampshire,sandwich",413,718,12
+"2916","new-hampshire,seabrook",2595,1973,71
+"2917","new-hampshire,sharon",116,153,4
+"2918","new-hampshire,shelburne",122,131,1
+"2919","new-hampshire,somersworth",2550,3422,99
+"2920","new-hampshire,south hampton",326,304,22
+"2921","new-hampshire,springfield",436,437,16
+"2922","new-hampshire,stark",188,106,1
+"2923","new-hampshire,stewartstown",291,117,5
+"2924","new-hampshire,stoddard",430,419,0
+"2925","new-hampshire,strafford",1408,1330,64
+"2926","new-hampshire,stratford",140,159,1
+"2927","new-hampshire,stratham",2115,3306,64
+"2928","new-hampshire,sugar hill",153,316,16
+"2929","new-hampshire,sullivan",186,216,10
+"2930","new-hampshire,sunapee",1086,1309,36
+"2931","new-hampshire,surry",252,307,4
+"2932","new-hampshire,sutton",574,753,21
+"2933","new-hampshire,swanzey",1763,2008,59
+"2934","new-hampshire,tamworth",838,899,31
+"2935","new-hampshire,temple",432,518,11
+"2936","new-hampshire,thornton",737,958,36
+"2937","new-hampshire,tilton",1044,938,43
+"2938","new-hampshire,troy",583,509,25
+"2939","new-hampshire,tuftonboro",1012,875,13
+"2940","new-hampshire,unity",531,335,26
+"2941","new-hampshire,wakefield",1986,1240,44
+"2942","new-hampshire,walpole",834,1470,43
+"2943","new-hampshire,warner",844,1050,34
+"2944","new-hampshire,warren",275,189,14
+"2945","new-hampshire,washington",467,314,16
+"2946","new-hampshire,waterville",127,238,9
+"2947","new-hampshire,weare",3213,2211,114
+"2948","new-hampshire,webster",669,548,24
+"2949","new-hampshire,wentworth",323,280,17
+"2950","new-hampshire,wentworth's location",13,4,1
+"2951","new-hampshire,westmoreland",453,660,20
+"2952","new-hampshire,whitefield",669,631,21
+"2953","new-hampshire,wilmot",366,583,7
+"2954","new-hampshire,wilton",1090,1330,53
+"2955","new-hampshire,winchester",988,986,45
+"2956","new-hampshire,windham",5196,4567,137
+"2957","new-hampshire,windsor",91,33,5
+"2958","new-hampshire,wolfeboro",2371,2355,51
+"2959","new-hampshire,woodstock",364,480,14
+"2960","new-jersey,atlantic",64438,73808,2195
+"2961","new-jersey,bergen",204417,285967,7076
+"2962","new-jersey,burlington",103345,154595,4710
+"2963","new-jersey,camden",86207,175065,4327
+"2964","new-jersey,cape may",33158,23941,834
+"2965","new-jersey,cumberland",28952,32742,881
+"2966","new-jersey,essex",75475,266820,3016
+"2967","new-jersey,gloucester",83340,86702,3411
+"2968","new-jersey,hudson",65698,181452,3308
+"2969","new-jersey,hunterdon",43153,39457,2063
+"2970","new-jersey,mercer",51641,122532,3050
+"2971","new-jersey,middlesex",143467,226250,5975
+"2972","new-jersey,monmouth",191808,181291,5291
+"2973","new-jersey,morris",141134,153881,5902
+"2974","new-jersey,ocean",217740,119456,5550
+"2975","new-jersey,passaic",92009,129097,3224
+"2976","new-jersey,salem",18827,14479,736
+"2977","new-jersey,somerset",71996,111173,3722
+"2978","new-jersey,sussex",51698,34481,2173
+"2979","new-jersey,union",80002,170245,3794
+"2980","new-jersey,warren",34769,24901,1387
+"2981","new-mexico,bernalillo",116135,193757,7698
+"2982","new-mexico,catron",1698,595,33
+"2983","new-mexico,chaves",15656,6381,406
+"2984","new-mexico,cibola",3975,4745,183
+"2985","new-mexico,colfax",3271,2611,134
+"2986","new-mexico,curry",10444,4307,350
+"2987","new-mexico,debaca",656,231,14
+"2988","new-mexico,dona ana",32802,47957,1882
+"2989","new-mexico,eddy",17454,5424,344
+"2990","new-mexico,grant",6553,7590,292
+"2991","new-mexico,guadalupe",917,1234,38
+"2992","new-mexico,harding",319,179,7
+"2993","new-mexico,hidalgo",1120,823,31
+"2994","new-mexico,lea",16531,4061,326
+"2995","new-mexico,lincoln",6942,3194,170
+"2996","new-mexico,los alamos",4278,7554,461
+"2997","new-mexico,luna",4408,3563,132
+"2998","new-mexico,mckinley",7801,18029,656
+"2999","new-mexico,mora",903,1745,38
+"3000","new-mexico,otero",14521,8485,565
+"3001","new-mexico,quay",2634,1170,69
+"3002","new-mexico,rio arriba",5408,10990,230
+"3003","new-mexico,roosevelt",4634,1802,172
+"3004","new-mexico,sandoval",34174,40588,1800
+"3005","new-mexico,san juan",32874,18083,1337
+"3006","new-mexico,san miguel",3421,7888,222
+"3007","new-mexico,santa fe",18329,62530,1368
+"3008","new-mexico,sierra",3542,2265,138
+"3009","new-mexico,socorro",3255,3722,183
+"3010","new-mexico,taos",3715,13121,345
+"3011","new-mexico,torrance",4772,2344,165
+"3012","new-mexico,union",1388,383,18
+"3013","new-mexico,valencia",17364,14263,650
+"3014","new-york,albany",51081,99474,3031
+"3015","new-york,allegany",14135,6048,533
+"3016","new-york,bronx",67740,355374,2769
+"3017","new-york,broome",43800,47010,1984
+"3018","new-york,cattaraugus",22155,11879,726
+"3019","new-york,cayuga",19512,16149,760
+"3020","new-york,chautauqua",34853,23087,1255
+"3021","new-york,chemung",21922,16636,852
+"3022","new-york,chenango",13482,8290,510
+"3023","new-york,clinton",16514,18364,559
+"3024","new-york,columbia",14464,20386,672
+"3025","new-york,cortland",10789,10369,520
+"3026","new-york,delaware",13387,9143,441
+"3027","new-york,dutchess",66872,81443,2430
+"3028","new-york,erie",197527,267174,8320
+"3029","new-york,essex",8976,9947,348
+"3030","new-york,franklin",9668,9253,347
+"3031","new-york,fulton",15378,7931,409
+"3032","new-york,genesee",18876,9625,716
+"3033","new-york,greene",14271,10346,520
+"3034","new-york,hamilton",2225,1178,57
+"3035","new-york,herkimer",18870,9937,512
+"3036","new-york,jefferson",25629,17307,919
+"3037","new-york,brooklyn",202772,703310,7608
+"3038","new-york,lewis",8894,3824,226
+"3039","new-york,livingston",18182,12477,742
+"3040","new-york,madison",18408,14807,823
+"3041","new-york,monroe",145661,225746,8457
+"3042","new-york,montgomery",12745,7977,412
+"3043","new-york,nassau",326716,396504,7763
+"3044","new-york,manhattan",85185,603040,7038
+"3045","new-york,niagara",56068,46029,2026
+"3046","new-york,oneida",57180,41567,1999
+"3047","new-york,onondaga",90619,138894,5222
+"3048","new-york,ontario",29039,29025,1610
+"3049","new-york,orange",84996,84684,2516
+"3050","new-york,orleans",12126,5587,441
+"3051","new-york,oswego",32138,21143,1210
+"3052","new-york,otsego",14382,12975,653
+"3053","new-york,putnam",29283,24953,753
+"3054","new-york,queens",212665,569038,6559
+"3055","new-york,rensselaer",36500,40969,1817
+"3056","new-york,staten island",123320,90997,1961
+"3057","new-york,rockland",73186,75802,1381
+"3058","new-york,saint lawrence",24608,19361,831
+"3059","new-york,saratoga",61305,68471,2879
+"3060","new-york,schenectady",30741,42465,1656
+"3061","new-york,schoharie",9903,5345,437
+"3062","new-york,schuyler",5621,3903,216
+"3063","new-york,seneca",8329,6914,365
+"3064","new-york,steuben",29474,15790,915
+"3065","new-york,suffolk",381253,381021,9267
+"3066","new-york,sullivan",18665,15489,493
+"3067","new-york,tioga",14791,9634,611
+"3068","new-york,tompkins",11096,33619,1020
+"3069","new-york,ulster",37590,57970,1860
+"3070","new-york,warren",17699,17642,808
+"3071","new-york,washington",15941,11565,595
+"3072","new-york,wayne",26204,17456,1067
+"3073","new-york,westchester",144713,312371,5181
+"3074","new-york,wyoming",13898,5073,428
+"3075","new-york,yates",6208,4219,274
+"3076","north-carolina,alamance",46056,38825,1210
+"3077","north-carolina,alexander",15888,4145,203
+"3078","north-carolina,alleghany",4527,1486,63
+"3079","north-carolina,anson",5321,5789,84
+"3080","north-carolina,ashe",11451,4164,199
+"3081","north-carolina,avery",7172,2191,95
+"3082","north-carolina,beaufort",16437,9633,245
+"3083","north-carolina,bertie",3817,5939,59
+"3084","north-carolina,bladen",9676,7326,123
+"3085","north-carolina,brunswick",55850,33310,1015
+"3086","north-carolina,buncombe",62412,96515,2642
+"3087","north-carolina,burke",31019,13118,465
+"3088","north-carolina,cabarrus",63237,52162,1828
+"3089","north-carolina,caldwell",32119,10245,465
+"3090","north-carolina,camden",4312,1537,104
+"3091","north-carolina,carteret",30028,12093,574
+"3092","north-carolina,caswell",7089,4860,102
+"3093","north-carolina,catawba",56588,25689,1148
+"3094","north-carolina,chatham",21186,26787,626
+"3095","north-carolina,cherokee",12628,3583,212
+"3096","north-carolina,chowan",4471,3247,66
+"3097","north-carolina,clay",5112,1699,82
+"3098","north-carolina,cleveland",33798,16955,555
+"3099","north-carolina,columbus",16832,9446,168
+"3100","north-carolina,craven",31032,21148,885
+"3101","north-carolina,cumberland",60032,84469,2649
+"3102","north-carolina,currituck",11657,4195,295
+"3103","north-carolina,dare",13938,9936,358
+"3104","north-carolina,davidson",64658,22636,1220
+"3105","north-carolina,davie",18228,6713,370
+"3106","north-carolina,duplin",13793,8767,155
+"3107","north-carolina,durham",32459,144688,2767
+"3108","north-carolina,edgecombe",9206,16089,182
+"3109","north-carolina,forsyth",85064,113033,3173
+"3110","north-carolina,franklin",20901,15879,571
+"3111","north-carolina,gaston",73033,40959,1506
+"3112","north-carolina,gates",3367,2546,58
+"3113","north-carolina,graham",3710,905,50
+"3114","north-carolina,granville",16647,14565,386
+"3115","north-carolina,greene",4874,3832,47
+"3116","north-carolina,guilford",107294,173086,4106
+"3117","north-carolina,halifax",10080,15545,134
+"3118","north-carolina,harnett",35177,22093,1023
+"3119","north-carolina,haywood",22834,13144,564
+"3120","north-carolina,henderson",40032,27211,1128
+"3121","north-carolina,hertford",3479,7097,58
+"3122","north-carolina,hoke",9453,11804,382
+"3123","north-carolina,hyde",1418,1046,28
+"3124","north-carolina,iredell",67010,33888,1473
+"3125","north-carolina,jackson",11356,9591,481
+"3126","north-carolina,johnston",68353,41257,1747
+"3127","north-carolina,jones",3280,2197,48
+"3128","north-carolina,lee",16469,12143,396
+"3129","north-carolina,lenoir",14590,13605,214
+"3130","north-carolina,lincoln",36341,13274,602
+"3131","north-carolina,mcdowell",16883,5832,288
+"3132","north-carolina,macon",14211,6230,302
+"3133","north-carolina,madison",7979,4901,196
+"3134","north-carolina,martin",6532,5911,97
+"3135","north-carolina,mecklenburg",179211,378107,9735
+"3136","north-carolina,mitchell",7090,1867,84
+"3137","north-carolina,montgomery",8411,4327,111
+"3138","north-carolina,moore",36764,20779,796
+"3139","north-carolina,nash",25827,25947,497
+"3140","north-carolina,new hanover",63331,66138,2361
+"3141","north-carolina,northampton",3989,6069,51
+"3142","north-carolina,onslow",46078,24266,1891
+"3143","north-carolina,orange",20176,63594,1227
+"3144","north-carolina,pamlico",4849,2713,69
+"3145","north-carolina,pasquotank",9770,9832,295
+"3146","north-carolina,pender",21956,11723,490
+"3147","north-carolina,perquimans",4903,2492,89
+"3148","north-carolina,person",13184,8465,245
+"3149","north-carolina,pitt",38982,47252,1339
+"3150","north-carolina,polk",7689,4518,151
+"3151","north-carolina,randolph",56894,15618,804
+"3152","north-carolina,richmond",11830,8754,179
+"3153","north-carolina,robeson",27806,19020,362
+"3154","north-carolina,rockingham",31301,15992,516
+"3155","north-carolina,rowan",49297,23114,997
+"3156","north-carolina,rutherford",24891,9135,403
+"3157","north-carolina,sampson",17411,10966,241
+"3158","north-carolina,scotland",7473,7186,116
+"3159","north-carolina,stanly",25458,8129,352
+"3160","north-carolina,stokes",20142,5286,273
+"3161","north-carolina,surry",27538,8721,379
+"3162","north-carolina,swain",4161,2780,127
+"3163","north-carolina,transylvania",11636,8444,324
+"3164","north-carolina,tyrrell",1044,758,15
+"3165","north-carolina,union",80382,48725,1904
+"3166","north-carolina,vance",8391,12431,177
+"3167","north-carolina,wake",226197,393336,12297
+"3168","north-carolina,warren",3752,6400,141
+"3169","north-carolina,washington",2781,3396,28
+"3170","north-carolina,watauga",14451,17122,647
+"3171","north-carolina,wayne",30709,24215,613
+"3172","north-carolina,wilkes",27592,7511,363
+"3173","north-carolina,wilson",19581,20754,400
+"3174","north-carolina,yadkin",15933,3763,227
+"3175","north-carolina,yancey",7516,3688,148
+"3176","north-dakota,adams",981,258,30
+"3177","north-dakota,barnes",3568,1820,177
+"3178","north-dakota,benson",1094,822,45
+"3179","north-dakota,billings",541,72,22
+"3180","north-dakota,bottineau",2575,821,75
+"3181","north-dakota,bowman",1395,228,34
+"3182","north-dakota,burke",994,137,24
+"3183","north-dakota,burleigh",34744,14348,1661
+"3184","north-dakota,cass",42619,40311,3123
+"3185","north-dakota,cavalier",1499,474,47
+"3186","north-dakota,dickey",1742,608,74
+"3187","north-dakota,divide",904,265,33
+"3188","north-dakota,dunn",1951,342,45
+"3189","north-dakota,eddy",854,383,24
+"3190","north-dakota,emmons",1738,237,34
+"3191","north-dakota,foster",1362,373,43
+"3192","north-dakota,golden valley",871,137,18
+"3193","north-dakota,grand forks",16987,12880,1103
+"3194","north-dakota,grant",1145,207,29
+"3195","north-dakota,griggs",907,308,35
+"3196","north-dakota,hettinger",1091,196,25
+"3197","north-dakota,kidder",1215,221,24
+"3198","north-dakota,lamoure",1645,527,47
+"3199","north-dakota,logan",930,128,18
+"3200","north-dakota,mchenry",2364,564,75
+"3201","north-dakota,mcintosh",1153,261,41
+"3202","north-dakota,mckenzie",4482,814,123
+"3203","north-dakota,mclean",4198,1230,108
+"3204","north-dakota,mercer",3856,704,115
+"3205","north-dakota,morton",12243,3872,504
+"3206","north-dakota,mountrail",2824,1256,85
+"3207","north-dakota,nelson",1141,586,50
+"3208","north-dakota,oliver",918,129,19
+"3209","north-dakota,pembina",2460,786,85
+"3210","north-dakota,pierce",1585,497,46
+"3211","north-dakota,ramsey",3577,1639,156
+"3212","north-dakota,ransom",1418,945,91
+"3213","north-dakota,renville",1065,220,34
+"3214","north-dakota,richland",5072,2510,230
+"3215","north-dakota,rolette",1257,2482,65
+"3216","north-dakota,sargent",1266,738,66
+"3217","north-dakota,sheridan",688,104,20
+"3218","north-dakota,sioux",258,804,124
+"3219","north-dakota,slope",380,44,3
+"3220","north-dakota,stark",12110,2499,441
+"3221","north-dakota,steele",652,392,44
+"3222","north-dakota,stutsman",6994,2676,289
+"3223","north-dakota,towner",830,317,27
+"3224","north-dakota,traill",2522,1493,121
+"3225","north-dakota,walsh",3324,1333,126
+"3226","north-dakota,ward",19974,7293,979
+"3227","north-dakota,wells",1893,442,39
+"3228","north-dakota,williams",11739,2169,426
+"3229","ohio,adams",9870,2156,119
+"3230","ohio,allen",33116,14149,741
+"3231","ohio,ashland",19407,6541,457
+"3232","ohio,ashtabula",26890,16497,760
+"3233","ohio,athens",10862,14772,425
+"3234","ohio,auglaize",20798,4651,328
+"3235","ohio,belmont",23560,9138,390
+"3236","ohio,brown",16480,4380,236
+"3237","ohio,butler",114392,69613,2732
+"3238","ohio,carroll",10745,3251,216
+"3239","ohio,champaign",14589,5062,321
+"3240","ohio,clark",39032,24076,1104
+"3241","ohio,clermont",74570,34092,1818
+"3242","ohio,clinton",15488,4697,342
+"3243","ohio,columbiana",35726,13359,775
+"3244","ohio,coshocton",12325,4125,289
+"3245","ohio,crawford",15436,4916,334
+"3246","ohio,cuyahoga",202699,416176,6795
+"3247","ohio,darke",22004,4731,399
+"3248","ohio,defiance",13038,5981,362
+"3249","ohio,delaware",66356,57735,1979
+"3250","ohio,erie",22160,17493,682
+"3251","ohio,fairfield",50797,31224,1290
+"3252","ohio,fayette",9473,2975,164
+"3253","ohio,franklin",211237,409144,10196
+"3254","ohio,fulton",15731,6664,375
+"3255","ohio,gallia",10645,2990,164
+"3256","ohio,geauga",34143,21201,677
+"3257","ohio,greene",52072,34798,1773
+"3258","ohio,guernsey",13407,4577,246
+"3259","ohio,hamilton",177886,246266,6777
+"3260","ohio,hancock",26310,11757,704
+"3261","ohio,hardin",9949,3062,236
+"3262","ohio,harrison",5792,1768,95
+"3263","ohio,henry",10479,4062,223
+"3264","ohio,highland",15678,3799,199
+"3265","ohio,hocking",9737,3880,207
+"3266","ohio,holmes",10796,1994,157
+"3267","ohio,huron",18956,7759,475
+"3268","ohio,jackson",11309,3311,174
+"3269","ohio,jefferson",22828,10018,516
+"3270","ohio,knox",22340,8589,469
+"3271","ohio,lake",73278,55514,1717
+"3272","ohio,lawrence",20306,7489,332
+"3273","ohio,licking",59514,33055,1641
+"3274","ohio,logan",17964,5055,349
+"3275","ohio,lorain",79520,75667,2250
+"3276","ohio,lucas",81763,115411,3449
+"3277","ohio,madison",13835,5698,322
+"3278","ohio,mahoning",59903,57641,1422
+"3279","ohio,marion",19023,8269,526
+"3280","ohio,medina",64598,39800,1427
+"3281","ohio,meigs",8316,2492,143
+"3282","ohio,mercer",19452,4030,279
+"3283","ohio,miami",41371,15663,938
+"3284","ohio,monroe",5463,1605,80
+"3285","ohio,montgomery",129034,135064,4407
+"3286","ohio,morgan",5041,1725,81
+"3287","ohio,morrow",14077,4048,332
+"3288","ohio,muskingum",27867,11971,627
+"3289","ohio,noble",5135,1170,38
+"3290","ohio,ottawa",14628,9008,371
+"3291","ohio,paulding",7086,2213,168
+"3292","ohio,perry",12357,4098,220
+"3293","ohio,pickaway",20593,7304,374
+"3294","ohio,pike",9157,3110,145
+"3295","ohio,portage",45990,35661,1221
+"3296","ohio,preble",17022,4493,294
+"3297","ohio,putnam",16412,3195,314
+"3298","ohio,richland",41472,17640,863
+"3299","ohio,ross",22278,10557,464
+"3300","ohio,sandusky",18896,10596,582
+"3301","ohio,scioto",22609,9080,358
+"3302","ohio,seneca",17086,8266,458
+"3303","ohio,shelby",20422,4465,371
+"3304","ohio,stark",111097,75904,2878
+"3305","ohio,summit",124833,151668,3972
+"3306","ohio,trumbull",55194,44519,1288
+"3307","ohio,tuscarawas",30458,12889,668
+"3308","ohio,union",21669,11141,635
+"3309","ohio,van wert",11650,3067,248
+"3310","ohio,vinton",4632,1331,67
+"3311","ohio,warren",87988,46069,2043
+"3312","ohio,washington",22307,9243,481
+"3313","ohio,wayne",36759,16660,864
+"3314","ohio,williams",13452,4842,357
+"3315","ohio,wood",35757,30617,1223
+"3316","ohio,wyandot",8462,2733,195
+"3317","oklahoma,adair",5585,1387,136
+"3318","oklahoma,alfalfa",1978,232,52
+"3319","oklahoma,atoka",4557,765,67
+"3320","oklahoma,beaver",1968,190,20
+"3321","oklahoma,beckham",6767,1048,133
+"3322","oklahoma,blaine",3136,688,77
+"3323","oklahoma,bryan",12344,3323,309
+"3324","oklahoma,caddo",7013,2670,176
+"3325","oklahoma,canadian",43550,16742,1648
+"3326","oklahoma,carter",14699,4470,310
+"3327","oklahoma,cherokee",11223,6027,464
+"3328","oklahoma,choctaw",4698,1082,52
+"3329","oklahoma,cimarron",970,70,14
+"3330","oklahoma,cleveland",66677,49827,3274
+"3331","oklahoma,coal",2091,374,59
+"3332","oklahoma,comanche",20905,13747,979
+"3333","oklahoma,cotton",2117,393,62
+"3334","oklahoma,craig",4686,1217,129
+"3335","oklahoma,creek",23294,6577,634
+"3336","oklahoma,custer",8060,2369,262
+"3337","oklahoma,delaware",13557,3472,216
+"3338","oklahoma,dewey",2124,214,21
+"3339","oklahoma,ellis",1688,162,23
+"3340","oklahoma,garfield",16970,4919,541
+"3341","oklahoma,garvin",8878,1865,179
+"3342","oklahoma,grady",18538,4144,419
+"3343","oklahoma,grant",1916,280,30
+"3344","oklahoma,greer",1605,328,40
+"3345","oklahoma,harmon",747,177,9
+"3346","oklahoma,harper",1327,136,24
+"3347","oklahoma,haskell",4165,783,66
+"3348","oklahoma,hughes",3875,919,63
+"3349","oklahoma,jackson",6392,1646,183
+"3350","oklahoma,jefferson",2026,319,40
+"3351","oklahoma,johnston",3441,738,72
+"3352","oklahoma,kay",12834,4040,375
+"3353","oklahoma,kingfisher",5521,854,90
+"3354","oklahoma,kiowa",2673,699,55
+"3355","oklahoma,latimer",3437,762,50
+"3356","oklahoma,leflore",15213,3299,293
+"3357","oklahoma,lincoln",12013,2609,266
+"3358","oklahoma,logan",15608,5455,511
+"3359","oklahoma,love",3305,711,60
+"3360","oklahoma,mcclain",15295,3582,359
+"3361","oklahoma,mccurtain",9485,1858,124
+"3362","oklahoma,mcintosh",6172,2031,132
+"3363","oklahoma,major",3084,320,63
+"3364","oklahoma,marshall",4891,1100,73
+"3365","oklahoma,mayes",12749,3581,296
+"3366","oklahoma,murray",4612,1156,126
+"3367","oklahoma,muskogee",16526,8027,528
+"3368","oklahoma,noble",3821,1003,114
+"3369","oklahoma,nowata",3610,712,69
+"3370","oklahoma,okfuskee",3058,896,84
+"3371","oklahoma,oklahoma",145050,141724,7966
+"3372","oklahoma,okmulgee",9668,4357,288
+"3373","oklahoma,osage",14121,6002,415
+"3374","oklahoma,ottawa",8545,2686,207
+"3375","oklahoma,pawnee",5267,1363,156
+"3376","oklahoma,payne",17813,10904,926
+"3377","oklahoma,pittsburg",13851,3768,305
+"3378","oklahoma,pontotoc",10805,4117,398
+"3379","oklahoma,pottawatomie",20240,7275,670
+"3380","oklahoma,pushmataha",4016,668,55
+"3381","oklahoma,roger mills",1629,168,37
+"3382","oklahoma,rogers",34031,9589,933
+"3383","oklahoma,seminole",6011,2150,176
+"3384","oklahoma,sequoyah",12113,3035,238
+"3385","oklahoma,stephens",15560,3154,343
+"3386","oklahoma,texas",4505,894,122
+"3387","oklahoma,tillman",2076,597,35
+"3388","oklahoma,tulsa",150574,108996,7108
+"3389","oklahoma,wagoner",26165,8464,709
+"3390","oklahoma,washington",17076,5790,635
+"3391","oklahoma,washita",4086,598,93
+"3392","oklahoma,woods",2993,591,94
+"3393","oklahoma,woodward",6611,1005,169
+"3394","oregon,baker",7352,2346,234
+"3395","oregon,benton",14878,35827,2094
+"3396","oregon,clackamas",110509,139043,8127
+"3397","oregon,clatsop",10218,12916,776
+"3398","oregon,columbia",17150,13835,1236
+"3399","oregon,coos",21829,14243,1003
+"3400","oregon,crook",11287,3801,360
+"3401","oregon,curry",8484,6058,383
+"3402","oregon,deschutes",55646,65962,3626
+"3403","oregon,douglas",43298,19160,1891
+"3404","oregon,gilliam",834,324,20
+"3405","oregon,grant",3545,929,122
+"3406","oregon,harney",3475,894,112
+"3407","oregon,hood river",3955,8764,371
+"3408","oregon,jackson",63869,59478,3818
+"3409","oregon,jefferson",7189,4393,331
+"3410","oregon,josephine",31751,18451,1439
+"3411","oregon,klamath",25308,10388,1030
+"3412","oregon,lake",3470,792,101
+"3413","oregon,lane",80336,134366,7551
+"3414","oregon,lincoln",12460,17385,881
+"3415","oregon,linn",43486,26512,2642
+"3416","oregon,malheur",8187,3260,357
+"3417","oregon,marion",79002,80872,5660
+"3418","oregon,morrow",3586,1371,161
+"3419","oregon,multnomah",82995,367249,13415
+"3420","oregon,polk",23732,22917,1642
+"3421","oregon,sherman",921,260,27
+"3422","oregon,tillamook",8354,8066,468
+"3423","oregon,umatilla",21270,10707,1061
+"3424","oregon,union",10298,4254,392
+"3425","oregon,wallowa",3404,1625,120
+"3426","oregon,wasco",7035,6604,491
+"3427","oregon,washington",99073,209940,11313
+"3428","oregon,wheeler",711,217,37
+"3429","oregon,yamhill",29551,27174,2198
+"3430","pennsylvania,adams",37523,18207,984
+"3431","pennsylvania,allegheny",282913,430759,11128
+"3432","pennsylvania,armstrong",27489,8457,424
+"3433","pennsylvania,beaver",54759,38122,1241
+"3434","pennsylvania,bedford",23025,4367,227
+"3435","pennsylvania,berks",109736,92895,2909
+"3436","pennsylvania,blair",45306,17636,767
+"3437","pennsylvania,bradford",21600,8046,570
+"3438","pennsylvania,bucks",187367,204712,4155
+"3439","pennsylvania,butler",74359,37508,1495
+"3440","pennsylvania,cambria",48085,21730,759
+"3441","pennsylvania,cameron",1771,634,35
+"3442","pennsylvania,carbon",21984,11212,433
+"3443","pennsylvania,centre",36372,40055,1066
+"3444","pennsylvania,chester",128565,182372,4816
+"3445","pennsylvania,clarion",14578,4678,237
+"3446","pennsylvania,clearfield",29203,9673,620
+"3447","pennsylvania,clinton",11902,5502,249
+"3448","pennsylvania,columbia",20098,10532,541
+"3449","pennsylvania,crawford",28559,12924,521
+"3450","pennsylvania,cumberland",77212,62245,2450
+"3451","pennsylvania,dauphin",66408,78983,1977
+"3452","pennsylvania,delaware",118532,206423,4051
+"3453","pennsylvania,elk",12140,4522,282
+"3454","pennsylvania,erie",66869,68286,1928
+"3455","pennsylvania,fayette",41227,20444,468
+"3456","pennsylvania,forest",1882,728,44
+"3457","pennsylvania,franklin",57245,22422,1116
+"3458","pennsylvania,fulton",6824,1085,68
+"3459","pennsylvania,greene",12579,4911,179
+"3460","pennsylvania,huntingdon",17061,5445,286
+"3461","pennsylvania,indiana",28089,12634,475
+"3462","pennsylvania,jefferson",17960,4527,375
+"3463","pennsylvania,juniata",9649,2253,157
+"3464","pennsylvania,lackawanna",52334,61991,1085
+"3465","pennsylvania,lancaster",160209,115847,5319
+"3466","pennsylvania,lawrence",29597,15978,501
+"3467","pennsylvania,lebanon",46731,23932,1195
+"3468","pennsylvania,lehigh",84259,98288,2166
+"3469","pennsylvania,luzerne",86929,64873,1519
+"3470","pennsylvania,lycoming",41462,16971,877
+"3471","pennsylvania,mckean",14083,5098,285
+"3472","pennsylvania,mercer",36143,21067,907
+"3473","pennsylvania,mifflin",16670,4603,229
+"3474","pennsylvania,monroe",38726,44060,1043
+"3475","pennsylvania,montgomery",185460,319511,5186
+"3476","pennsylvania,montour",5844,3771,202
+"3477","pennsylvania,northampton",83854,85087,2458
+"3478","pennsylvania,northumberland",28952,12677,654
+"3479","pennsylvania,perry",18293,5950,461
+"3480","pennsylvania,philadelphia",132740,603790,4847
+"3481","pennsylvania,pike",19213,13019,322
+"3482","pennsylvania,potter",7239,1726,99
+"3483","pennsylvania,schuylkill",48871,20727,1005
+"3484","pennsylvania,snyder",13983,4910,288
+"3485","pennsylvania,somerset",31466,8654,423
+"3486","pennsylvania,sullivan",2619,921,55
+"3487","pennsylvania,susquehanna",15207,6236,370
+"3488","pennsylvania,tioga",15742,4955,378
+"3489","pennsylvania,union",12356,7475,361
+"3490","pennsylvania,venango",18569,7585,374
+"3491","pennsylvania,warren",14237,6066,347
+"3492","pennsylvania,washington",72080,45088,1583
+"3493","pennsylvania,wayne",18637,9191,318
+"3494","pennsylvania,westmoreland",130218,72129,2836
+"3495","pennsylvania,wyoming",9936,4704,218
+"3496","pennsylvania,york",146733,88114,4301
+"3497","rhode-island,barrington",2889,7713,230
+"3498","rhode-island,bristol",4595,6813,249
+"3499","rhode-island,burrillville",4906,3434,198
+"3500","rhode-island,central falls",1113,3073,86
+"3501","rhode-island,charlestown",2198,2909,113
+"3502","rhode-island,coventry",10461,9123,420
+"3503","rhode-island,cranston",17313,23039,701
+"3504","rhode-island,cumberland",8418,10869,391
+"3505","rhode-island,east greenwich",3227,5218,202
+"3506","rhode-island,east providence",7930,14735,488
+"3507","rhode-island,exeter",2009,1974,99
+"3508","rhode-island,foster",1582,1224,59
+"3509","rhode-island,glocester",3351,2638,124
+"3510","rhode-island,hopkinton",2423,2298,125
+"3511","rhode-island,jamestown",1212,2795,77
+"3512","rhode-island,johnston",8222,6838,203
+"3513","rhode-island,lincoln",5779,6633,259
+"3514","rhode-island,little compton",951,1524,60
+"3515","rhode-island,middletown",2885,5529,194
+"3516","rhode-island,narragansett",3551,5333,146
+"3517","rhode-island,newport",2662,7866,184
+"3518","rhode-island,new shoreham",195,748,12
+"3519","rhode-island,north kingstown",6633,10534,410
+"3520","rhode-island,north providence",7129,9438,284
+"3521","rhode-island,north smithfield",3550,3507,149
+"3522","rhode-island,pawtucket",7257,18053,478
+"3523","rhode-island,portsmouth",3995,6649,273
+"3524","rhode-island,providence",10186,45941,1040
+"3525","rhode-island,richmond",2343,2346,119
+"3526","rhode-island,scituate",3806,2735,142
+"3527","rhode-island,smithfield",5744,5566,218
+"3528","rhode-island,south kingstown",5003,11254,431
+"3529","rhode-island,tiverton",4017,5123,152
+"3530","rhode-island,warren",2261,3524,141
+"3531","rhode-island,warwick",19578,25845,1018
+"3532","rhode-island,westerly",5463,7153,238
+"3533","rhode-island,west greenwich",2242,1693,65
+"3534","rhode-island,west warwick",6493,7234,274
+"3535","rhode-island,woonsocket",6265,7289,284
+"3536","south-carolina,abbeville",8215,4101,117
+"3537","south-carolina,aiken",51589,32275,1321
+"3538","south-carolina,allendale",835,2718,40
+"3539","south-carolina,anderson",67565,27169,1359
+"3540","south-carolina,bamberg",2417,4010,55
+"3541","south-carolina,barnwell",5492,4720,109
+"3542","south-carolina,beaufort",53194,43419,1222
+"3543","south-carolina,berkeley",57397,45223,1838
+"3544","south-carolina,calhoun",4305,3905,81
+"3545","south-carolina,charleston",93297,121485,4075
+"3546","south-carolina,cherokee",18043,6983,244
+"3547","south-carolina,chester",8660,6941,156
+"3548","south-carolina,chesterfield",11297,7431,148
+"3549","south-carolina,clarendon",8361,8250,122
+"3550","south-carolina,colleton",10440,8602,241
+"3551","south-carolina,darlington",16832,15220,365
+"3552","south-carolina,dillon",6582,6436,83
+"3553","south-carolina,dorchester",41913,33824,1541
+"3554","south-carolina,edgefield",8184,4953,167
+"3555","south-carolina,fairfield",4625,7382,129
+"3556","south-carolina,florence",32615,31153,742
+"3557","south-carolina,georgetown",20487,15822,359
+"3558","south-carolina,greenville",150021,103030,5104
+"3559","south-carolina,greenwood",19431,12145,430
+"3560","south-carolina,hampton",3906,5323,76
+"3561","south-carolina,horry",118821,59180,1743
+"3562","south-carolina,jasper",7078,7185,131
+"3563","south-carolina,kershaw",20471,12699,459
+"3564","south-carolina,lancaster",30312,18937,619
+"3565","south-carolina,laurens",20004,10159,325
+"3566","south-carolina,lee",3008,5329,94
+"3567","south-carolina,lexington",92817,49301,2450
+"3568","south-carolina,mccormick",2958,2687,52
+"3569","south-carolina,marion",5711,8872,121
+"3570","south-carolina,marlboro",5044,6290,112
+"3571","south-carolina,newberry",11443,6958,230
+"3572","south-carolina,oconee",29698,10414,556
+"3573","south-carolina,orangeburg",13603,27295,307
+"3574","south-carolina,pickens",42907,13645,994
+"3575","south-carolina,richland",58313,132570,2939
+"3576","south-carolina,saluda",6210,2963,101
+"3577","south-carolina,spartanburg",93560,52926,2169
+"3578","south-carolina,sumter",21000,27379,541
+"3579","south-carolina,union",8183,4935,139
+"3580","south-carolina,williamsburg",5532,10289,164
+"3581","south-carolina,york",82727,59008,2315
+"3582","south-dakota,aurora",1052,317,36
+"3583","south-dakota,beadle",4808,2107,166
+"3584","south-dakota,bennett",694,466,23
+"3585","south-dakota,bon homme",2235,721,45
+"3586","south-dakota,brookings",8000,6110,457
+"3587","south-dakota,brown",10580,6538,429
+"3588","south-dakota,brule",1750,673,67
+"3589","south-dakota,buffalo",183,352,14
+"3590","south-dakota,butte",3731,939,132
+"3591","south-dakota,campbell",747,117,9
+"3592","south-dakota,charles mix",2552,1177,54
+"3593","south-dakota,clark",1373,437,40
+"3594","south-dakota,clay",2456,3083,159
+"3595","south-dakota,codington",8958,3837,366
+"3596","south-dakota,corson",647,622,14
+"3597","south-dakota,custer",3852,1522,120
+"3598","south-dakota,davison",5613,2648,193
+"3599","south-dakota,day",1869,1052,43
+"3600","south-dakota,deuel",1699,609,42
+"3601","south-dakota,dewey",790,1131,45
+"3602","south-dakota,douglas",1468,216,23
+"3603","south-dakota,edmunds",1538,417,30
+"3604","south-dakota,fall river",2878,1053,111
+"3605","south-dakota,faulk",964,198,20
+"3606","south-dakota,grant",2618,1056,71
+"3607","south-dakota,gregory",1771,455,32
+"3608","south-dakota,haakon",1026,105,6
+"3609","south-dakota,hamlin",2372,647,64
+"3610","south-dakota,hand",1433,373,30
+"3611","south-dakota,hanson",1793,557,38
+"3612","south-dakota,harding",748,49,16
+"3613","south-dakota,hughes",5522,2953,248
+"3614","south-dakota,hutchinson",2944,762,61
+"3615","south-dakota,hyde",564,136,10
+"3616","south-dakota,jackson",738,359,18
+"3617","south-dakota,jerauld",721,270,15
+"3618","south-dakota,jones",498,90,11
+"3619","south-dakota,kingsbury",1904,819,56
+"3620","south-dakota,lake",3681,2068,124
+"3621","south-dakota,lawrence",8753,4537,538
+"3622","south-dakota,lincoln",19617,11981,798
+"3623","south-dakota,lyman",1042,525,30
+"3624","south-dakota,mccook",2068,769,63
+"3625","south-dakota,mcpherson",1075,222,27
+"3626","south-dakota,marshall",1287,858,33
+"3627","south-dakota,meade",9875,3285,510
+"3628","south-dakota,mellette",449,298,22
+"3629","south-dakota,miner",787,320,31
+"3630","south-dakota,minnehaha",49249,40482,2595
+"3631","south-dakota,moody",1951,1179,76
+"3632","south-dakota,pennington",35063,20606,1849
+"3633","south-dakota,perkins",1401,239,29
+"3634","south-dakota,potter",1139,227,14
+"3635","south-dakota,roberts",2404,1828,75
+"3636","south-dakota,sanborn",905,257,23
+"3637","south-dakota,oglala lakota",297,2829,74
+"3638","south-dakota,spink",2104,998,61
+"3639","south-dakota,stanley",1203,421,28
+"3640","south-dakota,sully",726,185,19
+"3641","south-dakota,todd",532,1963,44
+"3642","south-dakota,tripp",2161,495,40
+"3643","south-dakota,turner",3290,1139,119
+"3644","south-dakota,union",5944,2725,186
+"3645","south-dakota,walworth",1966,565,49
+"3646","south-dakota,yankton",6581,4016,303
+"3647","south-dakota,ziebach",404,481,21
+"3648","tennessee,anderson",23184,11741,645
+"3649","tennessee,bedford",14354,4453,281
+"3650","tennessee,benton",5668,1529,63
+"3651","tennessee,bledsoe",4725,971,62
+"3652","tennessee,blount",47369,17932,1308
+"3653","tennessee,bradley",35204,9851,810
+"3654","tennessee,campbell",12331,2441,161
+"3655","tennessee,cannon",5190,1261,106
+"3656","tennessee,carroll",9205,2559,141
+"3657","tennessee,carter",19584,4529,379
+"3658","tennessee,cheatham",14438,5514,308
+"3659","tennessee,chester",5952,1412,220
+"3660","tennessee,claiborne",10604,2202,139
+"3661","tennessee,clay",2733,735,38
+"3662","tennessee,cocke",12162,2533,164
+"3663","tennessee,coffee",17883,5705,694
+"3664","tennessee,crockett",4673,1382,59
+"3665","tennessee,cumberland",25168,6728,383
+"3666","tennessee,davidson",100218,199703,9737
+"3667","tennessee,decatur",4229,904,108
+"3668","tennessee,dekalb",6672,1750,91
+"3669","tennessee,dickson",17643,6106,574
+"3670","tennessee,dyer",11768,3158,153
+"3671","tennessee,fayette",15690,7027,267
+"3672","tennessee,fentress",7441,1214,74
+"3673","tennessee,franklin",13987,4864,281
+"3674","tennessee,gibson",16259,5771,305
+"3675","tennessee,giles",9784,3298,121
+"3676","tennessee,grainger",8565,1467,102
+"3677","tennessee,greene",22259,5199,629
+"3678","tennessee,grundy",4802,988,65
+"3679","tennessee,hamblen",18811,5500,320
+"3680","tennessee,hamilton",92108,75522,3483
+"3681","tennessee,hancock",2372,362,10
+"3682","tennessee,hardeman",5760,4180,123
+"3683","tennessee,hardin",9559,1775,204
+"3684","tennessee,hawkins",20405,4083,336
+"3685","tennessee,haywood",3343,4012,84
+"3686","tennessee,henderson",9797,2092,131
+"3687","tennessee,henry",11239,3548,260
+"3688","tennessee,hickman",7577,2130,125
+"3689","tennessee,houston",2718,871,97
+"3690","tennessee,humphreys",6120,2017,99
+"3691","tennessee,jackson",4118,1135,70
+"3692","tennessee,jefferson",18651,4654,311
+"3693","tennessee,johnson",6468,1246,87
+"3694","tennessee,knox",124540,91422,4594
+"3695","tennessee,lake",1492,526,16
+"3696","tennessee,lauderdale",5674,3193,98
+"3697","tennessee,lawrence",15334,3195,189
+"3698","tennessee,lewis",4474,1072,63
+"3699","tennessee,lincoln",12281,2919,408
+"3700","tennessee,loudon",21713,6948,686
+"3701","tennessee,mcminn",18198,4361,285
+"3702","tennessee,mcnairy",9093,1943,239
+"3703","tennessee,macon",8096,1307,84
+"3704","tennessee,madison",23943,18390,617
+"3705","tennessee,marion",9911,3177,168
+"3706","tennessee,marshall",11043,3605,230
+"3707","tennessee,maury",31464,14418,775
+"3708","tennessee,meigs",4467,1008,57
+"3709","tennessee,monroe",16783,3764,250
+"3710","tennessee,montgomery",42187,32472,2099
+"3711","tennessee,moore",2888,573,78
+"3712","tennessee,morgan",6930,1167,131
+"3713","tennessee,obion",10790,2589,142
+"3714","tennessee,overton",7918,2033,86
+"3715","tennessee,perry",2775,615,38
+"3716","tennessee,pickett",2381,525,25
+"3717","tennessee,polk",6792,1492,76
+"3718","tennessee,putnam",23759,9185,649
+"3719","tennessee,rhea",11050,2369,218
+"3720","tennessee,roane",19230,6043,644
+"3721","tennessee,robertson",24536,8692,489
+"3722","tennessee,rutherford",81480,59341,3057
+"3723","tennessee,scott",8004,986,62
+"3724","tennessee,sequatchie",5855,1298,99
+"3725","tennessee,sevier",33783,8721,1031
+"3726","tennessee,shelby",129815,246105,6135
+"3727","tennessee,smith",7136,1802,113
+"3728","tennessee,stewart",4950,1232,114
+"3729","tennessee,sullivan",55860,17272,1225
+"3730","tennessee,sumner",63454,27680,1496
+"3731","tennessee,tipton",20070,6837,401
+"3732","tennessee,trousdale",2936,1012,50
+"3733","tennessee,unicoi",6599,1615,93
+"3734","tennessee,union",6803,1249,71
+"3735","tennessee,van buren",2342,544,35
+"3736","tennessee,warren",12323,4126,245
+"3737","tennessee,washington",40444,18638,1121
+"3738","tennessee,wayne",5795,820,54
+"3739","tennessee,weakley",10396,3020,319
+"3740","tennessee,white",9606,2143,146
+"3741","tennessee,williamson",86469,50161,2386
+"3742","tennessee,wilson",50296,22254,1780
+"3743","texas,anderson",15110,3955,162
+"3744","texas,andrews",4943,850,70
+"3745","texas,angelina",25076,9143,355
+"3746","texas,aransas",9239,2916,135
+"3747","texas,archer",4300,446,50
+"3748","texas,armstrong",1035,75,2
+"3749","texas,atascosa",12039,5876,203
+"3750","texas,austin",11447,2951,156
+"3751","texas,bailey",1434,409,17
+"3752","texas,bandera",10057,2505,153
+"3753","texas,bastrop",20516,15474,675
+"3754","texas,baylor",1494,183,25
+"3755","texas,bee",6006,3288,126
+"3756","texas,bell",67893,57014,2468
+"3757","texas,bexar",308618,448452,11882
+"3758","texas,blanco",5443,1911,87
+"3759","texas,borden",397,16,3
+"3760","texas,bosque",7469,1561,96
+"3761","texas,bowie",27116,10747,398
+"3762","texas,brazoria",90433,62228,2323
+"3763","texas,brazos",47530,35349,2182
+"3764","texas,brewster",2461,2258,103
+"3765","texas,briscoe",639,78,8
+"3766","texas,brooks",998,1470,16
+"3767","texas,brown",13698,2107,164
+"3768","texas,burleson",6743,1788,78
+"3769","texas,burnet",18767,5639,311
+"3770","texas,caldwell",8031,6672,270
+"3771","texas,calhoun",5641,2148,67
+"3772","texas,callahan",6012,734,86
+"3773","texas,cameron",49032,64063,1079
+"3774","texas,camp",3626,1394,40
+"3775","texas,carson",2779,297,46
+"3776","texas,cass",11033,2795,99
+"3777","texas,castro",1602,466,15
+"3778","texas,chambers",17353,3997,302
+"3779","texas,cherokee",15101,4210,197
+"3780","texas,childress",1943,310,26
+"3781","texas,clay",5069,614,58
+"3782","texas,cochran",809,177,14
+"3783","texas,coke",1586,178,15
+"3784","texas,coleman",3641,451,32
+"3785","texas,collin",252318,230945,8953
+"3786","texas,collingsworth",1048,155,15
+"3787","texas,colorado",7472,2420,83
+"3788","texas,comal",62740,24826,1326
+"3789","texas,comanche",5177,853,56
+"3790","texas,concho",1058,197,13
+"3791","texas,cooke",15596,3210,213
+"3792","texas,coryell",15438,7565,490
+"3793","texas,cottle",540,113,9
+"3794","texas,crane",1247,241,15
+"3795","texas,crockett",1220,344,10
+"3796","texas,crosby",1396,527,30
+"3797","texas,culberson",415,438,11
+"3798","texas,dallam",1389,197,23
+"3799","texas,dallas",307076,598576,15986
+"3800","texas,dawson",2951,808,30
+"3801","texas,deaf smith",3294,1264,52
+"3802","texas,delta",2162,403,27
+"3803","texas,denton",222480,188695,6789
+"3804","texas,de witt",6567,1494,57
+"3805","texas,dickens",853,130,5
+"3806","texas,dimmit",1384,2264,18
+"3807","texas,donley",1438,198,12
+"3808","texas,duval",2443,2575,35
+"3809","texas,eastland",7237,983,73
+"3810","texas,ector",32697,11367,521
+"3811","texas,edwards",893,168,5
+"3812","texas,ellis",56717,27565,1211
+"3813","texas,el paso",84331,178126,4758
+"3814","texas,erath",13684,2916,255
+"3815","texas,falls",4177,1899,57
+"3816","texas,fannin",12171,2655,181
+"3817","texas,fayette",10171,2661,111
+"3818","texas,fisher",1448,352,26
+"3819","texas,floyd",1584,438,17
+"3820","texas,foard",445,99,7
+"3821","texas,fort bend",157718,195552,4244
+"3822","texas,franklin",4161,804,44
+"3823","texas,freestone",6991,1635,85
+"3824","texas,frio",2823,2422,34
+"3825","texas,gaines",5355,576,65
+"3826","texas,galveston",93911,58842,2307
+"3827","texas,garza",1413,231,9
+"3828","texas,gillespie",12514,3176,160
+"3829","texas,glasscock",611,39,3
+"3830","texas,goliad",3085,877,26
+"3831","texas,gonzales",5627,1948,73
+"3832","texas,gray",6840,829,113
+"3833","texas,grayson",44163,14506,770
+"3834","texas,gregg",32493,14796,693
+"3835","texas,grimes",9432,2833,149
+"3836","texas,guadalupe",47553,28805,1260
+"3837","texas,hale",7177,2279,128
+"3838","texas,hall",995,168,6
+"3839","texas,hamilton",3616,641,93
+"3840","texas,hansford",1849,166,32
+"3841","texas,hardeman",1330,241,9
+"3842","texas,hardin",23858,3474,303
+"3843","texas,harris",700630,918193,21995
+"3844","texas,harrison",21466,7908,336
+"3845","texas,hartley",1868,195,15
+"3846","texas,haskell",1840,353,21
+"3847","texas,hays",47680,59524,2191
+"3848","texas,hemphill",1486,206,28
+"3849","texas,henderson",28911,7060,339
+"3850","texas,hidalgo",90527,128199,2158
+"3851","texas,hill",11926,2860,145
+"3852","texas,hockley",6536,1482,77
+"3853","texas,hood",26496,5648,397
+"3854","texas,hopkins",12719,3046,176
+"3855","texas,houston",7060,2314,64
+"3856","texas,howard",8054,2069,128
+"3857","texas,hudspeth",779,371,15
+"3858","texas,hunt",29163,8906,505
+"3859","texas,hutchinson",7681,965,127
+"3860","texas,irion",759,120,10
+"3861","texas,jack",3418,331,33
+"3862","texas,jackson",5231,1033,78
+"3863","texas,jasper",12542,2954,115
+"3864","texas,jeff davis",784,501,20
+"3865","texas,jefferson",47570,46073,1116
+"3866","texas,jim hogg",833,1197,6
+"3867","texas,jim wells",7453,6119,97
+"3868","texas,johnson",54628,16464,992
+"3869","texas,jones",5660,999,82
+"3870","texas,karnes",3968,1234,50
+"3871","texas,kaufman",37624,18405,674
+"3872","texas,kendall",20083,6020,348
+"3873","texas,kenedy",127,65,2
+"3874","texas,kent",411,47,4
+"3875","texas,kerr",20879,6524,342
+"3876","texas,kimble",1987,284,21
+"3877","texas,king",151,8,0
+"3878","texas,kinney",1144,446,13
+"3879","texas,kleberg",5504,5314,126
+"3880","texas,knox",1180,265,11
+"3881","texas,lamar",16760,4458,224
+"3882","texas,lamb",3521,840,48
+"3883","texas,lampasas",8086,2144,169
+"3884","texas,la salle",1335,1052,19
+"3885","texas,la vaca",8804,1333,60
+"3886","texas,lee",6255,1750,82
+"3887","texas,leon",7523,1072,79
+"3888","texas,liberty",23302,5785,247
+"3889","texas,limestone",6789,2213,93
+"3890","texas,lipscomb",1205,131,17
+"3891","texas,live oak",4199,819,36
+"3892","texas,llano",10079,2465,116
+"3893","texas,loving",60,4,2
+"3894","texas,lubbock",78861,40017,1903
+"3895","texas,lynn",1853,428,12
+"3896","texas,mcculloch",2904,490,42
+"3897","texas,mclennan",59543,36688,1641
+"3898","texas,mcmullen",460,53,3
+"3899","texas,madison",4169,1088,40
+"3900","texas,marion",3470,1339,55
+"3901","texas,martin",1857,288,15
+"3902","texas,mason",1991,457,26
+"3903","texas,matagorda",9845,3733,148
+"3904","texas,maverick",6881,8332,133
+"3905","texas,medina",15642,6773,240
+"3906","texas,menard",823,197,8
+"3907","texas,midland",45624,12329,1035
+"3908","texas,milam",7984,2496,98
+"3909","texas,mills",2217,271,17
+"3910","texas,mitchell",2170,397,13
+"3911","texas,montague",8615,1097,102
+"3912","texas,montgomery",193382,74377,3705
+"3913","texas,moore",4359,1062,87
+"3914","texas,morris",3872,1669,46
+"3915","texas,motley",604,46,2
+"3916","texas,nacogdoches",17378,9000,407
+"3917","texas,navarro",13800,5101,222
+"3918","texas,newton",4882,1173,39
+"3919","texas,nolan",4131,1162,64
+"3920","texas,nueces",64617,60925,1778
+"3921","texas,ochiltree",2812,302,42
+"3922","texas,oldham",917,81,11
+"3923","texas,orange",29186,6357,451
+"3924","texas,palo pinto",10179,2178,132
+"3925","texas,panola",9326,2057,68
+"3926","texas,parker",62045,13017,1066
+"3927","texas,parmer",2135,488,27
+"3928","texas,pecos",3215,1382,77
+"3929","texas,polk",18573,5387,224
+"3930","texas,potter",22820,9921,645
+"3931","texas,presidio",721,1463,33
+"3932","texas,rains",5155,842,56
+"3933","texas,randall",50796,12802,1076
+"3934","texas,reagan",942,172,10
+"3935","texas,real",1643,320,19
+"3936","texas,red river",4517,1246,43
+"3937","texas,reeves",2254,1395,40
+"3938","texas,refugio",2210,1108,48
+"3939","texas,roberts",529,17,4
+"3940","texas,robertson",5646,2374,90
+"3941","texas,rockwall",36726,16412,753
+"3942","texas,runnels",3807,552,50
+"3943","texas,rusk",16534,4629,233
+"3944","texas,sabine",4784,669,35
+"3945","texas,san augustine",3007,980,15
+"3946","texas,san jacinto",10161,2337,142
+"3947","texas,san patricio",16516,8988,386
+"3948","texas,san saba",2308,287,7
+"3949","texas,schleicher",940,211,8
+"3950","texas,scurry",4983,818,69
+"3951","texas,shackelford",1484,130,14
+"3952","texas,shelby",7975,2068,44
+"3953","texas,sherman",886,91,14
+"3954","texas,smith",69080,29615,1638
+"3955","texas,somervell",4105,768,74
+"3956","texas,starr",8247,9123,156
+"3957","texas,stephens",3385,397,18
+"3958","texas,sterling",584,51,4
+"3959","texas,stonewall",615,116,5
+"3960","texas,sutton",1222,322,13
+"3961","texas,swisher",1845,478,33
+"3962","texas,tarrant",409741,411567,13389
+"3963","texas,taylor",39547,14588,1000
+"3964","texas,terrell",334,119,5
+"3965","texas,terry",2812,757,43
+"3966","texas,throckmorton",806,82,11
+"3967","texas,titus",7570,2856,115
+"3968","texas,tom green",32313,12239,658
+"3969","texas,travis",161337,435860,13152
+"3970","texas,trinity",5579,1323,36
+"3971","texas,tyler",8194,1403,63
+"3972","texas,upshur",15809,2877,206
+"3973","texas,upton",1178,170,20
+"3974","texas,uvalde",6174,4073,97
+"3975","texas,val verde",8284,6771,217
+"3976","texas,van zandt",22270,3516,208
+"3977","texas,victoria",23358,10380,450
+"3978","texas,walker",15375,7884,353
+"3979","texas,waller",14260,8191,283
+"3980","texas,ward",3241,764,55
+"3981","texas,washington",12959,4261,207
+"3982","texas,webb",25898,41820,721
+"3983","texas,wharton",11926,4694,146
+"3984","texas,wheeler",2159,168,10
+"3985","texas,wichita",32069,13161,810
+"3986","texas,wilbarger",3524,956,44
+"3987","texas,willacy",2441,3108,0
+"3988","texas,williamson",139729,143795,6635
+"3989","texas,wilson",18463,6350,200
+"3990","texas,winkler",1753,358,15
+"3991","texas,wise",27032,4973,360
+"3992","texas,wood",19049,3509,221
+"3993","texas,yoakum",2174,420,37
+"3994","texas,young",7110,1034,95
+"3995","texas,zapata",2033,1826,15
+"3996","texas,zavala",1490,2864,25
+"3997","utah,beaver",2695,357,48
+"3998","utah,box elder",21548,4473,1006
+"3999","utah,cache",38032,16650,2889
+"4000","utah,carbon",6693,2392,284
+"4001","utah,daggett",496,111,12
+"4002","utah,davis",104135,57411,8349
+"4003","utah,duchesne",7513,843,202
+"4004","utah,emery",4207,572,86
+"4005","utah,garfield",2158,514,60
+"4006","utah,grand",2248,2806,131
+"4007","utah,iron",18989,4892,1009
+"4008","utah,juab",5087,645,134
+"4009","utah,kane",2998,1083,99
+"4010","utah,millard",5404,624,132
+"4011","utah,morgan",5181,1086,245
+"4012","utah,piute",773,86,12
+"4013","utah,rich",1157,180,26
+"4014","utah,salt lake",230174,289906,21095
+"4015","utah,san juan",3535,3113,230
+"4016","utah,sanpete",10459,1794,378
+"4017","utah,sevier",9052,1084,227
+"4018","utah,summit",10252,15244,592
+"4019","utah,tooele",21014,8943,1561
+"4020","utah,uintah",13261,1663,383
+"4021","utah,utah",192812,76033,15635
+"4022","utah,wasatch",10795,6187,599
+"4023","utah,washington",67294,20530,2652
+"4024","utah,wayne",1229,365,27
+"4025","utah,weber",65949,40695,4798
+"4026","vermont,addison",379,445,46
+"4027","vermont,albany",235,286,19
+"4028","vermont,alburgh",499,550,30
+"4029","vermont,andover",132,216,17
+"4030","vermont,arlington",511,929,45
+"4031","vermont,athens",84,120,10
+"4032","vermont,bakersfield",272,395,29
+"4033","vermont,baltimore",72,63,8
+"4034","vermont,barnard",177,465,27
+"4035","vermont,barnet",437,624,34
+"4036","vermont,barre",1298,2380,129
+"4037","vermont,barre town",2093,2512,161
+"4038","vermont,barton",570,687,39
+"4039","vermont,belvidere",93,79,4
+"4040","vermont,bennington",2473,4369,254
+"4041","vermont,benson",305,258,20
+"4042","vermont,berkshire",402,284,25
+"4043","vermont,berlin",520,960,54
+"4044","vermont,bethel",381,728,38
+"4045","vermont,bloomfield",73,55,2
+"4046","vermont,bolton",218,537,23
+"4047","vermont,bradford",549,893,52
+"4048","vermont,braintree",260,434,23
+"4049","vermont,brandon",896,1213,75
+"4050","vermont,brattleboro",1053,5423,187
+"4051","vermont,bridgewater",212,372,17
+"4052","vermont,bridport",321,392,25
+"4053","vermont,brighton",342,258,19
+"4054","vermont,bristol",691,1482,72
+"4055","vermont,brookfield",307,506,39
+"4056","vermont,brookline",96,217,16
+"4057","vermont,brownington",265,218,7
+"4058","vermont,brunswick",35,27,2
+"4059","vermont,burke",366,534,24
+"4060","vermont,burlington",2293,19238,687
+"4061","vermont,cabot",296,558,38
+"4062","vermont,calais",221,886,41
+"4063","vermont,cambridge",587,1521,91
+"4064","vermont,canaan",241,239,18
+"4065","vermont,castleton",1042,1056,63
+"4066","vermont,cavendish",297,466,29
+"4067","vermont,charleston",274,247,20
+"4068","vermont,charlotte",511,2285,90
+"4069","vermont,chelsea",284,404,35
+"4070","vermont,chester",619,1089,64
+"4071","vermont,chittenden",343,473,37
+"4072","vermont,clarendon",782,656,31
+"4073","vermont,colchester",2852,6451,291
+"4074","vermont,concord",343,262,25
+"4075","vermont,corinth",350,459,21
+"4076","vermont,cornwall",145,663,42
+"4077","vermont,coventry",294,245,29
+"4078","vermont,craftsbury",190,558,26
+"4079","vermont,danby",405,325,25
+"4080","vermont,danville",559,855,55
+"4081","vermont,derby",1280,1167,68
+"4082","vermont,dorset",377,997,39
+"4083","vermont,dover",296,613,39
+"4084","vermont,dummerston",281,1035,41
+"4085","vermont,duxbury",243,648,23
+"4086","vermont,east haven",65,69,6
+"4087","vermont,east montpelier",391,1315,58
+"4088","vermont,eden",313,303,18
+"4089","vermont,elmore",149,447,10
+"4090","vermont,enosburgh",590,640,44
+"4091","vermont,essex",3415,9573,426
+"4092","vermont,fairfax",1229,1648,119
+"4093","vermont,fairfield",474,625,41
+"4094","vermont,fair haven",647,624,37
+"4095","vermont,fairlee",160,442,19
+"4096","vermont,fayston",150,796,25
+"4097","vermont,ferrisburg",561,1202,67
+"4098","vermont,fletcher",291,494,39
+"4099","vermont,franklin",407,318,29
+"4100","vermont,georgia",1295,1517,105
+"4101","vermont,glover",239,401,26
+"4102","vermont,goshen",34,90,2
+"4103","vermont,grafton",129,263,13
+"4104","vermont,granby",23,20,0
+"4105","vermont,grand isle",538,831,40
+"4106","vermont,granville",30,136,3
+"4107","vermont,greensboro",106,365,20
+"4108","vermont,groton",272,248,29
+"4109","vermont,guildhall",90,79,5
+"4110","vermont,guilford",345,975,34
+"4111","vermont,halifax",193,273,26
+"4112","vermont,hancock",57,102,12
+"4113","vermont,hardwick",576,932,69
+"4114","vermont,hartford",1574,4516,174
+"4115","vermont,hartland",631,1511,56
+"4116","vermont,highgate",977,698,51
+"4117","vermont,hinesburg",749,2254,81
+"4118","vermont,holland",210,139,9
+"4119","vermont,hubbardton",191,221,15
+"4120","vermont,huntington",312,1047,46
+"4121","vermont,hyde park",546,1118,67
+"4122","vermont,ira",130,130,2
+"4123","vermont,irasburg",405,257,11
+"4124","vermont,isle la motte",147,191,11
+"4125","vermont,jamaica",149,406,26
+"4126","vermont,jay",139,144,11
+"4127","vermont,jericho",905,2657,100
+"4128","vermont,johnson",528,994,67
+"4129","vermont,kirby",129,190,10
+"4130","vermont,landgrove",18,114,2
+"4131","vermont,leicester",230,296,16
+"4132","vermont,lemington",23,25,1
+"4133","vermont,lincoln",211,723,25
+"4134","vermont,londonderry",347,744,27
+"4135","vermont,lowell",273,201,13
+"4136","vermont,ludlow",473,718,46
+"4137","vermont,lunenburg",366,243,24
+"4138","vermont,lyndon",1136,1207,97
+"4139","vermont,maidstone",74,67,4
+"4140","vermont,manchester",732,1985,68
+"4141","vermont,marlboro",94,528,24
+"4142","vermont,marshfield",336,586,42
+"4143","vermont,mendon",314,445,21
+"4144","vermont,middlebury",732,3479,120
+"4145","vermont,middlesex",231,977,35
+"4146","vermont,middletown springs",225,308,16
+"4147","vermont,milton",2612,3344,212
+"4148","vermont,monkton",395,960,48
+"4149","vermont,montgomery",278,449,29
+"4150","vermont,montpelier",468,4576,141
+"4151","vermont,moretown",223,926,36
+"4152","vermont,morgan",218,172,11
+"4153","vermont,morristown",833,2256,108
+"4154","vermont,mount holly",375,452,21
+"4155","vermont,mount tabor",56,55,6
+"4156","vermont,newark",159,169,18
+"4157","vermont,newbury",490,682,42
+"4158","vermont,newfane",261,842,38
+"4159","vermont,new haven",396,732,44
+"4160","vermont,newport",757,1033,52
+"4161","vermont,newport town",415,341,20
+"4162","vermont,northfield",837,1508,120
+"4163","vermont,north hero",250,430,25
+"4164","vermont,norton",62,44,2
+"4165","vermont,norwich",211,2316,43
+"4166","vermont,orange",324,261,25
+"4167","vermont,orwell",351,367,34
+"4168","vermont,panton",137,271,12
+"4169","vermont,pawlet",369,496,22
+"4170","vermont,peacham",141,357,21
+"4171","vermont,peru",71,218,11
+"4172","vermont,pittsfield",120,206,6
+"4173","vermont,pittsford",784,896,57
+"4174","vermont,plainfield",166,606,42
+"4175","vermont,plymouth",104,251,16
+"4176","vermont,pomfret",146,509,24
+"4177","vermont,poultney",755,844,65
+"4178","vermont,pownal",831,892,55
+"4179","vermont,proctor",392,534,29
+"4180","vermont,putney",235,1234,46
+"4181","vermont,randolph",801,1685,100
+"4182","vermont,reading",120,312,13
+"4183","vermont,readsboro",212,203,16
+"4184","vermont,richford",478,434,30
+"4185","vermont,richmond",572,2287,82
+"4186","vermont,ripton",76,280,13
+"4187","vermont,rochester",183,526,23
+"4188","vermont,rockingham",718,1703,98
+"4189","vermont,roxbury",134,281,18
+"4190","vermont,royalton",492,930,64
+"4191","vermont,rupert",154,269,14
+"4192","vermont,rutland",3026,4679,295
+"4193","vermont,rutland town",1039,1376,71
+"4194","vermont,ryegate",298,329,21
+"4195","vermont,st. albans",946,1982,129
+"4196","vermont,st. albans town",1557,2126,111
+"4197","vermont,st. george",131,310,12
+"4198","vermont,st. johnsbury",1218,2034,125
+"4199","vermont,salisbury",258,393,25
+"4200","vermont,sandgate",96,147,10
+"4201","vermont,searsburg",36,28,0
+"4202","vermont,shaftsbury",818,1346,61
+"4203","vermont,sharon",278,585,31
+"4204","vermont,sheffield",163,197,14
+"4205","vermont,shelburne",953,4358,108
+"4206","vermont,sheldon",532,435,48
+"4207","vermont,killington",255,560,21
+"4208","vermont,shoreham",263,445,34
+"4209","vermont,shrewsbury",268,395,27
+"4210","vermont,south burlington",2271,10057,342
+"4211","vermont,south hero",376,903,30
+"4212","vermont,springfield",1768,2583,165
+"4213","vermont,stamford",267,254,18
+"4214","vermont,stannard",28,82,4
+"4215","vermont,starksboro",333,636,54
+"4216","vermont,stockbridge",123,341,13
+"4217","vermont,stowe",599,2706,101
+"4218","vermont,strafford",118,656,26
+"4219","vermont,stratton",67,119,4
+"4220","vermont,sudbury",128,252,8
+"4221","vermont,sunderland",240,386,26
+"4222","vermont,sutton",275,245,19
+"4223","vermont,swanton",1546,1566,116
+"4224","vermont,thetford",409,1448,53
+"4225","vermont,tinmouth",163,170,8
+"4226","vermont,topsham",356,273,17
+"4227","vermont,townshend",191,553,25
+"4228","vermont,troy",394,370,31
+"4229","vermont,tunbridge",314,514,35
+"4230","vermont,underhill",526,1633,65
+"4231","vermont,vergennes",428,1016,34
+"4232","vermont,vernon",549,718,33
+"4233","vermont,vershire",134,264,30
+"4234","vermont,victory",36,17,2
+"4235","vermont,waitsfield",200,1023,25
+"4236","vermont,walden",207,351,28
+"4237","vermont,wallingford",563,703,32
+"4238","vermont,waltham",102,216,8
+"4239","vermont,wardsboro",159,325,8
+"4240","vermont,warren",179,1039,46
+"4241","vermont,washington",283,306,20
+"4242","vermont,waterbury",621,2778,99
+"4243","vermont,waterford",387,421,23
+"4244","vermont,waterville",209,227,18
+"4245","vermont,weathersfield",725,1018,49
+"4246","vermont,wells",416,315,11
+"4247","vermont,west fairlee",125,219,13
+"4248","vermont,westfield",146,190,13
+"4249","vermont,westford",413,964,48
+"4250","vermont,west haven",70,78,3
+"4251","vermont,westminster",429,1303,57
+"4252","vermont,westmore",102,126,12
+"4253","vermont,weston",114,332,10
+"4254","vermont,west rutland",613,510,44
+"4255","vermont,west windsor",200,618,23
+"4256","vermont,weybridge",78,517,17
+"4257","vermont,wheelock",200,236,16
+"4258","vermont,whiting",84,124,10
+"4259","vermont,whitingham",340,397,38
+"4260","vermont,williamstown",923,858,81
+"4261","vermont,williston",1699,4961,213
+"4262","vermont,wilmington",341,789,26
+"4263","vermont,windham",83,187,12
+"4264","vermont,windsor",537,1266,87
+"4265","vermont,winhall",182,473,19
+"4266","vermont,winooski",585,3005,111
+"4267","vermont,wolcott",306,589,28
+"4268","vermont,woodbury",196,372,20
+"4269","vermont,woodford",96,95,5
+"4270","vermont,woodstock",402,1645,62
+"4271","vermont,worcester",125,464,35
+"4272","virginia,accomack",9172,7578,212
+"4273","virginia,albemarle",20804,42466,1387
+"4274","virginia,alleghany",5859,2243,101
+"4275","virginia,amelia",5390,2411,92
+"4276","virginia,amherst",11041,5672,292
+"4277","virginia,appomattox",6702,2418,148
+"4278","virginia,arlington",22318,105344,3037
+"4279","virginia,augusta",30714,10840,724
+"4280","virginia,bath",1834,646,21
+"4281","virginia,bedford",35600,12176,893
+"4282","virginia,bland",2903,532,44
+"4283","virginia,botetourt",15099,5700,321
+"4284","virginia,brunswick",3357,4552,39
+"4285","virginia,buchanan",8311,1587,55
+"4286","virginia,buckingham",4544,3471,111
+"4287","virginia,campbell",21245,8070,577
+"4288","virginia,caroline",8336,7657,295
+"4289","virginia,carroll",12659,2842,150
+"4290","virginia,charles city",1761,2624,56
+"4291","virginia,charlotte",3815,2317,59
+"4292","virginia,chesterfield",93326,106935,3623
+"4293","virginia,clarke",5192,3920,225
+"4294","virginia,craig",2536,587,46
+"4295","virginia,culpeper",16012,10617,487
+"4296","virginia,cumberland",3019,2227,64
+"4297","virginia,dickenson",5748,1503,52
+"4298","virginia,dinwiddie",8695,6224,173
+"4299","virginia,essex",3075,3038,65
+"4300","virginia,fairfax",168401,419943,12479
+"4301","virginia,fauquier",25106,17565,990
+"4302","virginia,floyd",6225,3004,179
+"4303","virginia,fluvanna",8155,7414,271
+"4304","virginia,franklin",20895,8381,426
+"4305","virginia,frederick",30558,17207,938
+"4306","virginia,giles",6876,2156,144
+"4307","virginia,gloucester",14875,6964,443
+"4308","virginia,goochland",9966,6685,299
+"4309","virginia,grayson",6529,1535,67
+"4310","virginia,greene",6866,4163,282
+"4311","virginia,greensville",1914,2627,33
+"4312","virginia,halifax",10418,7666,164
+"4313","virginia,hanover",44318,25307,1342
+"4314","virginia,henrico",63440,116572,3140
+"4315","virginia,henry",16725,9127,253
+"4316","virginia,highland",1092,417,24
+"4317","virginia,isle of wight",13707,9399,350
+"4318","virginia,james city",23153,25553,916
+"4319","virginia,king and queen",2450,1590,75
+"4320","virginia,king george",8446,5404,374
+"4321","virginia,king william",7320,3260,156
+"4322","virginia,lancaster",3697,3368,87
+"4323","virginia,lee",8365,1489,92
+"4324","virginia,loudoun",82088,138372,4402
+"4325","virginia,louisa",13294,8269,352
+"4326","virginia,lunenburg",3537,2418,45
+"4327","virginia,madison",5300,2698,131
+"4328","virginia,mathews",3901,1825,100
+"4329","virginia,mecklenburg",9266,6803,135
+"4330","virginia,middlesex",4196,2491,98
+"4331","virginia,montgomery",20629,23218,1190
+"4332","virginia,nelson",4812,4327,177
+"4333","virginia,new kent",9631,4621,211
+"4334","virginia,northampton",2955,3667,110
+"4335","virginia,northumberland",4485,3252,78
+"4336","virginia,nottoway",4027,2971,80
+"4337","virginia,orange",12426,7995,321
+"4338","virginia,page",9345,3007,162
+"4339","virginia,patrick",7485,1954,95
+"4340","virginia,pittsylvania",23751,10115,361
+"4341","virginia,powhatan",14055,5320,355
+"4342","virginia,prince edward",4434,4973,167
+"4343","virginia,prince george",10103,7103,226
+"4344","virginia,prince william",81222,142863,3971
+"4345","virginia,pulaski",12127,4925,324
+"4346","virginia,rappahannock",2812,2096,70
+"4347","virginia,richmond",2547,1513,42
+"4348","virginia,roanoke",34268,21801,1115
+"4349","virginia,rockbridge",8088,4086,199
+"4350","virginia,rockingham",30349,12644,818
+"4351","virginia,russell",10879,2373,134
+"4352","virginia,scott",9063,1692,114
+"4353","virginia,shenandoah",16463,6836,385
+"4354","virginia,smyth",10963,3008,165
+"4355","virginia,southampton",5730,3969,87
+"4356","virginia,spotsylvania",39411,34307,1599
+"4357","virginia,stafford",37636,40245,1744
+"4358","virginia,surry",2025,2397,49
+"4359","virginia,sussex",2219,2827,42
+"4360","virginia,tazewell",16731,3205,198
+"4361","virginia,warren",14069,6603,475
+"4362","virginia,washington",21679,6617,389
+"4363","virginia,westmoreland",5318,4501,114
+"4364","virginia,wise",13366,3110,139
+"4365","virginia,wythe",11733,3143,196
+"4366","virginia,york",20241,17683,863
+"4367","virginia,alexandria",14544,66240,1724
+"4368","virginia,bristol",5347,2313,146
+"4369","virginia,buena vista",1863,825,88
+"4370","virginia,charlottesville",3094,20696,415
+"4371","virginia,chesapeake",58180,66377,2551
+"4372","virginia,colonial heights",6007,2972,167
+"4373","virginia,covington",1580,964,59
+"4374","virginia,danville",7428,11710,251
+"4375","virginia,emporia",754,1612,15
+"4376","virginia,fairfax city",4007,9174,302
+"4377","virginia,falls church",1490,7146,183
+"4378","virginia,franklin city",1487,2525,46
+"4379","virginia,fredericksburg",4037,8517,308
+"4380","virginia,galax",1838,777,23
+"4381","virginia,hampton",18430,46220,1251
+"4382","virginia,harrisonburg",5591,11022,473
+"4383","virginia,hopewell",4020,5430,158
+"4384","virginia,lexington",906,1791,65
+"4385","virginia,lynchburg",17097,18048,1218
+"4386","virginia,manassas",6256,10356,356
+"4387","virginia,manassas park",1979,3992,116
+"4388","virginia,martinsville",2165,3766,82
+"4389","virginia,newport news",26377,53099,1727
+"4390","virginia,norfolk",23443,64440,1998
+"4391","virginia,norton",1109,464,28
+"4392","virginia,petersburg",1584,12389,145
+"4393","virginia,poquoson",5605,2054,198
+"4394","virginia,portsmouth",12755,30948,879
+"4395","virginia,radford",2786,3358,176
+"4396","virginia,richmond city",16603,92175,2381
+"4397","virginia,roanoke city",15607,26773,943
+"4398","virginia,salem",7683,5148,220
+"4399","virginia,staunton",5695,6981,314
+"4400","virginia,suffolk",20082,28676,884
+"4401","virginia,virginia beach",105087,117393,5081
+"4402","virginia,waynesboro",5507,4961,249
+"4403","virginia,williamsburg",1963,4790,130
+"4404","virginia,winchester",5221,6610,275
+"4405","washington,adams",3907,1814,141
+"4406","washington,asotin",7319,4250,382
+"4407","washington,benton",60365,38706,3962
+"4408","washington,chelan",22746,19349,1211
+"4409","washington,clallam",23062,24721,1481
+"4410","washington,clark",126303,140324,8776
+"4411","washington,columbia",1754,668,73
+"4412","washington,cowlitz",34424,23938,1918
+"4413","washington,douglas",12955,7811,542
+"4414","washington,ferry",2771,1486,110
+"4415","washington,franklin",18039,13340,1025
+"4416","washington,garfield",1069,366,54
+"4417","washington,grant",24764,11819,1097
+"4418","washington,grays harbor",19877,17354,1210
+"4419","washington,island",22746,29213,1966
+"4420","washington,jefferson",6931,17204,657
+"4421","washington,king",269167,907310,34030
+"4422","washington,kitsap",61563,90277,6832
+"4423","washington,kittitas",14105,11421,838
+"4424","washington,klickitat",7237,5959,364
+"4425","washington,lewis",29391,14520,1398
+"4426","washington,lincoln",5150,1713,170
+"4427","washington,mason",18710,17269,1324
+"4428","washington,okanogan",11840,8900,542
+"4429","washington,pacific",6953,6794,317
+"4430","washington,pend oreille",5728,2593,232
+"4431","washington,pierce",197730,249506,16845
+"4432","washington,san juan",3057,9725,415
+"4433","washington,skagit",32762,38252,2409
+"4434","washington,skamania",3885,3192,235
+"4435","washington,snohomish",166428,256728,15640
+"4436","washington,spokane",148576,135765,11089
+"4437","washington,stevens",19808,7839,783
+"4438","washington,thurston",65277,96608,6249
+"4439","washington,wahkiakum",1741,1165,75
+"4440","washington,walla walla",16400,13690,1171
+"4441","washington,whatcom",50489,83660,4471
+"4442","washington,whitman",9067,11184,875
+"4443","washington,yakima",50555,43179,2459
+"4444","west-virginia,barbour",5116,1457,104
+"4445","west-virginia,berkeley",33279,17186,1070
+"4446","west-virginia,boone",6816,2041,155
+"4447","west-virginia,braxton",4120,1457,87
+"4448","west-virginia,brooke",7545,2947,180
+"4449","west-virginia,cabell",21721,14994,645
+"4450","west-virginia,calhoun",2364,568,39
+"4451","west-virginia,clay",2679,641,45
+"4452","west-virginia,doddridge",2619,435,47
+"4453","west-virginia,fayette",11580,5063,219
+"4454","west-virginia,gilmer",2012,599,51
+"4455","west-virginia,grant",4871,607,31
+"4456","west-virginia,greenbrier",10925,4655,290
+"4457","west-virginia,hampshire",8033,1939,128
+"4458","west-virginia,hancock",9806,3790,204
+"4459","west-virginia,hardy",4859,1381,91
+"4460","west-virginia,harrison",20683,9215,567
+"4461","west-virginia,jackson",10093,3207,208
+"4462","west-virginia,jefferson",15033,12127,543
+"4463","west-virginia,kanawha",46398,34344,1502
+"4464","west-virginia,lewis",5782,1538,137
+"4465","west-virginia,lincoln",6012,1711,107
+"4466","west-virginia,logan",10534,2333,159
+"4467","west-virginia,mcdowell",5148,1333,46
+"4468","west-virginia,marion",16300,8901,653
+"4469","west-virginia,marshall",10435,3455,190
+"4470","west-virginia,mason",8491,2526,217
+"4471","west-virginia,mercer",19237,5556,341
+"4472","west-virginia,mineral",10040,2660,172
+"4473","west-virginia,mingo",8544,1397,81
+"4474","west-virginia,monongalia",20803,20282,1179
+"4475","west-virginia,monroe",5068,1345,77
+"4476","west-virginia,morgan",6537,1998,160
+"4477","west-virginia,nicholas",8279,2226,145
+"4478","west-virginia,ohio",12354,7223,321
+"4479","west-virginia,pendleton",2782,820,67
+"4480","west-virginia,pleasants",2742,699,50
+"4481","west-virginia,pocahontas",2895,1047,66
+"4482","west-virginia,preston",11190,3163,219
+"4483","west-virginia,putnam",20034,7878,670
+"4484","west-virginia,raleigh",24673,7982,509
+"4485","west-virginia,randolph",8673,3362,165
+"4486","west-virginia,ritchie",3649,586,48
+"4487","west-virginia,roane",4213,1455,95
+"4488","west-virginia,summers",4074,1448,71
+"4489","west-virginia,taylor",5477,1796,110
+"4490","west-virginia,tucker",2841,938,65
+"4491","west-virginia,tyler",3226,631,65
+"4492","west-virginia,upshur",7771,2256,194
+"4493","west-virginia,wayne",12585,4088,274
+"4494","west-virginia,webster",2759,610,33
+"4495","west-virginia,wetzel",4993,1539,135
+"4496","west-virginia,wirt",2134,466,53
+"4497","west-virginia,wood",27202,10926,634
+"4498","west-virginia,wyoming",7353,1157,82
+"4499","wisconsin,adams",7362,4329,127
+"4500","wisconsin,ashland",3841,4801,115
+"4501","wisconsin,barron",15803,9194,349
+"4502","wisconsin,bayfield",4617,6147,116
+"4503","wisconsin,brown",75871,65511,2635
+"4504","wisconsin,buffalo",4834,2860,122
+"4505","wisconsin,burnett",6462,3569,110
+"4506","wisconsin,calumet",18156,12116,502
+"4507","wisconsin,chippewa",21317,13983,638
+"4508","wisconsin,clark",10002,4524,372
+"4509","wisconsin,columbia",16927,16410,532
+"4510","wisconsin,crawford",4620,3953,122
+"4511","wisconsin,dane",78800,260185,5806
+"4512","wisconsin,dodge",31355,16356,725
+"4513","wisconsin,door",9752,10044,321
+"4514","wisconsin,douglas",10923,13218,536
+"4515","wisconsin,dunn",13173,9897,454
+"4516","wisconsin,eau claire",25341,31620,1314
+"4517","wisconsin,florence",2133,781,26
+"4518","wisconsin,fond du lac",35754,20588,909
+"4519","wisconsin,forest",3285,1721,47
+"4520","wisconsin,grant",14142,10998,468
+"4521","wisconsin,green",10169,10851,386
+"4522","wisconsin,green lake",7168,3344,159
+"4523","wisconsin,iowa",5909,7828,255
+"4524","wisconsin,iron",2438,1533,39
+"4525","wisconsin,jackson",5791,4256,137
+"4526","wisconsin,jefferson",27208,19904,867
+"4527","wisconsin,juneau",8749,4746,214
+"4528","wisconsin,kenosha",44972,42193,1573
+"4529","wisconsin,kewaunee",7927,3976,192
+"4530","wisconsin,la crosse",28684,37846,1354
+"4531","wisconsin,lafayette",4821,3647,87
+"4532","wisconsin,langlade",7330,3704,131
+"4533","wisconsin,lincoln",10017,6261,219
+"4534","wisconsin,manitowoc",27218,16818,793
+"4535","wisconsin,marathon",44624,30808,1319
+"4536","wisconsin,marinette",15304,7366,309
+"4537","wisconsin,marquette",5719,3239,107
+"4538","wisconsin,menominee",278,1303,9
+"4539","wisconsin,milwaukee",134357,317270,7344
+"4540","wisconsin,monroe",13775,8433,403
+"4541","wisconsin,oconto",16226,6715,274
+"4542","wisconsin,oneida",13671,10105,383
+"4543","wisconsin,outagamie",58385,47667,1970
+"4544","wisconsin,ozaukee",33912,26517,1057
+"4545","wisconsin,pepin",2584,1489,71
+"4546","wisconsin,pierce",12815,9796,706
+"4547","wisconsin,polk",16611,9370,390
+"4548","wisconsin,portage",19299,20428,876
+"4549","wisconsin,price",5394,3032,120
+"4550","wisconsin,racine",54479,50159,1813
+"4551","wisconsin,richland",4871,3995,148
+"4552","wisconsin,rock",37138,46658,1564
+"4553","wisconsin,rusk",5257,2517,112
+"4554","wisconsin,st. croix",32199,23190,1318
+"4555","wisconsin,sauk",17493,18108,602
+"4556","wisconsin,sawyer",5909,4498,103
+"4557","wisconsin,shawano",15173,7131,311
+"4558","wisconsin,sheboygan",37609,27101,1301
+"4559","wisconsin,taylor",7657,2693,336
+"4560","wisconsin,trempealeau",8833,6285,262
+"4561","wisconsin,vernon",8218,7457,248
+"4562","wisconsin,vilas",9261,5903,205
+"4563","wisconsin,walworth",33851,22789,960
+"4564","wisconsin,washburn",6334,3867,177
+"4565","wisconsin,washington",60237,26650,1183
+"4566","wisconsin,waukesha",159649,103906,4441
+"4567","wisconsin,waupaca",18952,9703,475
+"4568","wisconsin,waushara",9016,4388,164
+"4569","wisconsin,winnebago",47796,44060,2176
+"4570","wisconsin,wood",24308,16365,625
+"4571","wyoming,albany",8579,9092,946
+"4572","wyoming,big horn",4806,788,158
+"4573","wyoming,campbell",16975,1935,656
+"4574","wyoming,carbon",5014,1427,223
+"4575","wyoming,converse",5917,861,192
+"4576","wyoming,crook",3651,378,90
+"4577","wyoming,fremont",12007,5519,585
+"4578","wyoming,goshen",4878,1203,160
+"4579","wyoming,hot springs",1999,482,96
+"4580","wyoming,johnson",3881,897,136
+"4581","wyoming,laramie",27891,15217,1874
+"4582","wyoming,lincoln",8643,1509,316
+"4583","wyoming,natrona",25271,8530,1401
+"4584","wyoming,niobrara",1118,155,35
+"4585","wyoming,park",12813,3410,494
+"4586","wyoming,platte",3898,890,135
+"4587","wyoming,sheridan",11843,4043,542
+"4588","wyoming,sublette",3957,882,131
+"4589","wyoming,sweetwater",12229,3823,551
+"4590","wyoming,teton",4341,9848,488
+"4591","wyoming,uinta",7496,1591,315
+"4592","wyoming,washakie",3245,651,116
+"4593","wyoming,weston",3107,360,75
